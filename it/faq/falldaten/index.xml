@@ -1,0 +1,721 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Handbuch SpiGes – Dati del caso</title><link>https://spiges.github.io/handbook-test/it/faq/falldaten/</link><description>Recent content in Dati del caso on Handbuch SpiGes</description><generator>Hugo -- gohugo.io</generator><language>it</language><atom:link href="https://spiges.github.io/handbook-test/it/faq/falldaten/index.xml" rel="self" type="application/rss+xml"/><item><title>Faq: Admninistratif</title><link>https://spiges.github.io/handbook-test/it/faq/falldaten/admninistratives/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/it/faq/falldaten/admninistratives/</guid><description>
+&lt;div class="faq-block ">
+Aprire tutte le domande:
+&lt;span class="collapsible-group-command "
+collapsed-text="Espandere tutto"
+expanded-text="Comprimere tutto"
+group-id="admninistratives"
+>
+&lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere tutto">&lt;/i>
+&lt;button type="button" class="collapsible-group-command__button">&lt;/button>
+&lt;/span>
+&lt;ol class="numbered-list ">
+&lt;li class="list-item ">
+Nel dataset SpiGes sono previsti casi a parentesi (= casi accorpati)? Nel campo della psichiatria, l'ANQ si aspetta un dataset con casi singoli, cioè non casi accorpati. Un dialogoo tra voi e l'ANQ in merito all'utilizzo del dataset SpiGes è in corso?
+&lt;div class="collapsible-block "
+group-id="admninistratives"
+collapsed-text="Risposta"
+expanded-text="Risposta"
+>
+&lt;span>
+&lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere">&lt;/i>
+&lt;button type="button" class="collapsible-block__button">&lt;/button>
+&lt;/span>
+&lt;div class="collapsible-block__content">
+Il consolidamento dei casi viene gestito in SpiGes secondo le linee guida di SwissDRG AG. Siamo in dialogo con l'ANQ per quanto riguarda la gestione dei casi non accorpati.
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li class="list-item ">
+case_id_ch: Chi genera questo numero di caso e viene memorizzato automaticamente in Opale (sistema IRP)? Finora siamo riusciti a generare automaticamente in Opale l'identificazione del caso in entrambi i file (dati UST e file dei costi dei casi).
+&lt;div class="collapsible-block "
+group-id="admninistratives"
+collapsed-text="Risposta"
+expanded-text="Risposta"
+>
+&lt;span>
+&lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere">&lt;/i>
+&lt;button type="button" class="collapsible-block__button">&lt;/button>
+&lt;/span>
+&lt;div class="collapsible-block__content">
+&lt;ul>
+&lt;li>Il numero di casi unici a livello svizzero è generato dalla piattaforma SpiGes. Quando i dati vengono esportati dalla piattaforma, questo case_id_ch è disponibile per gli utenti dei dati.&lt;/li>
+&lt;li>L&amp;rsquo;identificatore del caso, la variabile fall_id, è generato dagli ospedali. Il software ospedaliero (ad es. Opale) dovrebbe continuare ad avere questa funzione.&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li class="list-item ">
+Ci sono variabili (ad esempio la ventilazione) in cui il riferimento temporale è "intero caso" o "anno di indagine". Nella maggior parte degli ospedali, tuttavia, questa voce non viene registrata sull'asse temporale, ma solo una volta sul caso. Anche nel precedente dataset MS, tali voci erano sempre fornite solo per i casi A. Come pensate di fornire i casi B/C per queste variabili?
+&lt;div class="collapsible-block "
+group-id="admninistratives"
+collapsed-text="Risposta"
+expanded-text="Risposta"
+>
+&lt;span>
+&lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere">&lt;/i>
+&lt;button type="button" class="collapsible-block__button">&lt;/button>
+&lt;/span>
+&lt;div class="collapsible-block__content">
+In effetti, le definizioni di questo aspetto potrebbero non essere ancora completamente dettagliate per tutte le variabili. Ad oggi, non è stato stabilito se queste variabili debbano essere fornite per i casi B e C.
+In linea di principio, dovrebbe essere possibile fornire le informazioni, solo allora sarà possibile calcolare i tassi di utilizzo con i dati. Tuttavia, è probabile che molti ospedali si trovino nella vostra stessa situazione e non dispongano dei dati per i casi B e C. In questo caso, le variabili per i casi B e C non sono disponibili quindi, le variabili relative ai casi B e C possono essere lasciate in bianco.
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li class="list-item ">
+Qual è la definizione di «trasferimento interno»?
+&lt;div class="collapsible-block "
+group-id="admninistratives"
+collapsed-text="Risposta"
+expanded-text="Risposta"
+>
+&lt;span>
+&lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere">&lt;/i>
+&lt;button type="button" class="collapsible-block__button">&lt;/button>
+&lt;/span>
+&lt;div class="collapsible-block__content">
+&lt;ul>
+&lt;li>È il passaggio da un reparto (acuto, psichiatria, riabilitazione) a un altro dello stesso ospedale (burnr_gesv)&lt;/li>
+&lt;li>Oppure si riferisce ai cosiddetti «pazienti in attesa»&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li class="list-item ">
+È possibile ottenere una definizione per il valore «7 = Rimpatrio»?
+&lt;div class="collapsible-block "
+group-id="admninistratives"
+collapsed-text="Risposta"
+expanded-text="Risposta"
+>
+&lt;span>
+&lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere">&lt;/i>
+&lt;button type="button" class="collapsible-block__button">&lt;/button>
+&lt;/span>
+&lt;div class="collapsible-block__content">
+Rimpatrio di un paziente con residenza principale svizzera dall'estero alla Svizzera, senza particolari requisiti per i mezzi di trasporto o la scorta
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li class="list-item ">
+Qual è la definizione per «trasferimento»? (ad es. i codici «5 = Trasferimento entro 24 ore» e «6 = Paziente ritrasferito» della variabile Modalità di ammissione)
+&lt;div class="collapsible-block "
+group-id="admninistratives"
+collapsed-text="Risposta"
+expanded-text="Risposta"
+>
+&lt;span>
+&lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere">&lt;/i>
+&lt;button type="button" class="collapsible-block__button">&lt;/button>
+&lt;/span>
+&lt;div class="collapsible-block__content">
+&lt;ul>
+&lt;li>La variabile Modalità di ammissione esisteva già nella MS e non ha subito modifiche nella piattaforma SpiGes. La differenza tra un trasferimento e un trasferimento interno, è che il primo non avviene all’interno dello stesso ospedale (BURGESV), ma tra ospedali diversi (due BURGESV diversi). La definizione si basa sui principi di SwissDRG AG, che potete trovare qui: &lt;a href="https://www.swissdrg.org/application/files/8616/7051/1879/Klarstellungen_und_Fallbeispiele_zu_den_Anwendungsregeln_Version_4.7_i.pdf"> &lt;a href="https://www.swissdrg.org/application/files/8616/7051/1879/Klarstellungen_und_Fallbeispiele_zu_den_Anwendungsregeln_Version_4.7_i.pdf">https://www.swissdrg.org/application/files/8616/7051/1879/Klarstellungen_und_Fallbeispiele_zu_den_Anwendungsregeln_Version_4.7_i.pdf&lt;/a> &lt;/a>&lt;/li>
+&lt;li>La seguente specifica è stata comunicata da SwissDRG AG per il tipo di ricovero &amp;ldquo;6=Retransfer&amp;rdquo;: Per un ricovero ininterrotto in un altro ospedale per più di 18 giorni e ritorno all&amp;rsquo;ospedale di origine.&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li class="list-item ">
+Come vengono codificati i casi trasferiti dalla riabilitazione (tariffa ST-REHA) alla lungodegenza (tariffa «tasse per le cure») nella stessa struttura? Le variabili 1.2.V02 e 1.5.V03 non consentono di specificare «Lungodegenza, stesso stabilimento».
+&lt;div class="collapsible-block "
+group-id="admninistratives"
+collapsed-text="Risposta"
+expanded-text="Risposta"
+>
+&lt;span>
+&lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere">&lt;/i>
+&lt;button type="button" class="collapsible-block__button">&lt;/button>
+&lt;/span>
+&lt;div class="collapsible-block__content">
+Questo era già così per la MS; il caso passa dalla riabilitazione alla SOMED (stesso stabilimento); il codice 2 contiene entrambe le opzioni (stesso stabilimento o altro stabilimento). Il caso deve essere codificato come segue: &lt;br>
+austritt_aufenthalt: 2 = casa di cura &lt;br>
+eintritt_aufenthalt: 84 = Reparto/Clinica di riabilitazione, stesso stabilimento
+&lt;/div>
+&lt;/div>
+&lt;/li>
+### Variabile «Wohnland»:
+&lt;li class="list-item ">
+Nella descrizione delle variabili è menzionata una distinta ripartizione dei Paesi extraeuropei in regioni. Questo elenco esiste già o sarà pubblicato in futuro?
+&lt;div class="collapsible-block "
+group-id="admninistratives"
+collapsed-text="Risposta"
+expanded-text="Risposta"
+>
+&lt;span>
+&lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere">&lt;/i>
+&lt;button type="button" class="collapsible-block__button">&lt;/button>
+&lt;/span>
+&lt;div class="collapsible-block__content">
+&lt;ul>
+&lt;li>La procedura e l&amp;rsquo;elenco sono gli stessi della statistica MS. Ecco il link per consultare l’elenco: &lt;a href="https://www.bfs.admin.ch/bfs/it/home/statistiche/cataloghi-banche-dati.assetdetail.10687501.html"> &lt;a href="https://www.bfs.admin.ch/bfs/it/home/statistiche/cataloghi-banche-dati.assetdetail.10687501.html">https://www.bfs.admin.ch/bfs/it/home/statistiche/cataloghi-banche-dati.assetdetail.10687501.html&lt;/a> &lt;/a>&lt;/li>
+&lt;li>È possibile inserire le regioni per i Paesi non europei, ma è anche possibile specificare i codici dei Paesi. Questo è già il caso per la statistica MS e non è cambiato. Il formato è alfanumerico e può quindi contenere sia numeri che lettere.&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;/li>
+### 35. Variabile "classe assicurativa":
+&lt;li class="list-item ">
+La descrizione della variabile afferma che deve essere specificata per tutti, tranne per coloro che pagano direttamente la prestazione. Nel file xsd, tuttavia, il campo è "required". Che cosa dobbiamo fornire per coloro che pagano direttamente la prestazione?
+&lt;div class="collapsible-block "
+group-id="admninistratives"
+collapsed-text="Risposta"
+expanded-text="Risposta"
+>
+&lt;span>
+&lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere">&lt;/i>
+&lt;button type="button" class="collapsible-block__button">&lt;/button>
+&lt;/span>
+&lt;div class="collapsible-block__content">
+La formulazione è in realtà un po' contraddittoria. Si è ipotizzato che non ci siano mancanze. Poi, naturalmente, vale anche per coloro che pagano direttamente la prestazione, che sono codificati con 9=sconosciuto.
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li class="list-item ">
+Secondo la nostra amministrazione dei pazienti, è difficile ottenere le informazioni per i casi con "assicurazione Flex" e inserire "8 = altro". Ci saranno problemi in seguito nelle analisi o quali effetti ci saranno sulle statistiche se non (o non possiamo) inserire "8=altro"?
+&lt;div class="collapsible-block "
+group-id="admninistratives"
+collapsed-text="Risposta"
+expanded-text="Risposta"
+>
+&lt;span>
+&lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere">&lt;/i>
+&lt;button type="button" class="collapsible-block__button">&lt;/button>
+&lt;/span>
+&lt;div class="collapsible-block__content">
+&lt;ul>
+&lt;li>I casi flex e tutti gli altri modelli assicurativi che stanno diventando sempre più popolari non sono davvero facili da mappare. Si tratta di una sfida per la classe assicurativa, ma non drammatica per le statistiche. In caso di dubbio, questi casi dovrebbero essere indicati come semi-privati.&lt;/li>
+&lt;li>La variabile &amp;ldquo;liegeklasse&amp;rdquo;, invece, è centrale per la mappatura dell&amp;rsquo;ITAR_K. Inoltre, non esiste la categoria &amp;ldquo;altro&amp;rdquo; e i casi con &amp;ldquo;sconosciuto&amp;rdquo; saranno esaminati. A seconda del valore di questa variabile, i casi in ITAR_K sono assegnati a una diversa colonna.&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item><item><title>Faq: Nouveau-nés</title><link>https://spiges.github.io/handbook-test/it/faq/falldaten/neugeborene/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/it/faq/falldaten/neugeborene/</guid><description/></item><item><title>Faq: Psychiatrie</title><link>https://spiges.github.io/handbook-test/it/faq/falldaten/psychiatrie/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/it/faq/falldaten/psychiatrie/</guid><description>
+&lt;div class="faq-block ">
+Aprire tutte le domande:
+&lt;span class="collapsible-group-command "
+collapsed-text="Espandere tutto"
+expanded-text="Comprimere tutto"
+group-id="psychiatrie"
+>
+&lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere tutto">&lt;/i>
+&lt;button type="button" class="collapsible-group-command__button">&lt;/button>
+&lt;/span>
+&lt;ol class="numbered-list ">
+&lt;li class="list-item ">
+Variabile psy_zivilstand: cosa si intende con il codice «5 = non coniugato/a» e come si distingue da celibe/nubile ecc.?
+&lt;div class="collapsible-block "
+group-id="psychiatrie"
+collapsed-text="Risposta"
+expanded-text="Risposta"
+>
+&lt;span>
+&lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere">&lt;/i>
+&lt;button type="button" class="collapsible-block__button">&lt;/button>
+&lt;/span>
+&lt;div class="collapsible-block__content">
+Per la variabile «stato civile» l’UST utilizza un elenco di codici standardizzati. Lo stato civile «non coniugato/a» è valido in caso di dichiarazione di nullità dell’ultimo matrimonio o in caso di dichiarazione di scomparsa dell’ultimo/a coniuge. Cfr. link: &lt;a href="https://www.bfs.admin.ch/bfs/it/home/statistiche/popolazione/effettivo-evoluzione/stato-civile.html">https://www.bfs.admin.ch/bfs/it/home/statistiche/popolazione/effettivo-evoluzione/stato-civile.html&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item><item><title>Faq: Diagnostics</title><link>https://spiges.github.io/handbook-test/it/faq/falldaten/diagnose/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/it/faq/falldaten/diagnose/</guid><description>
+&lt;div class="faq-block ">
+Aprire tutte le domande:
+&lt;span class="collapsible-group-command "
+collapsed-text="Espandere tutto"
+expanded-text="Comprimere tutto"
+group-id="diagnose"
+>
+&lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere tutto">&lt;/i>
+&lt;button type="button" class="collapsible-group-command__button">&lt;/button>
+&lt;/span>
+&lt;ol class="numbered-list ">
+&lt;li class="list-item ">
+Variabile POA: potrebbe dirci a quale scopo viene utilizzata la variabile diagnose_poa?
+&lt;div class="collapsible-block "
+group-id="diagnose"
+collapsed-text="Risposta"
+expanded-text="Risposta"
+>
+&lt;span>
+&lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere">&lt;/i>
+&lt;button type="button" class="collapsible-block__button">&lt;/button>
+&lt;/span>
+&lt;div class="collapsible-block__content">
+L’indicazione «POA» (present on admission) può essere utilizzata, tra l’altro, per migliorare la qualità e per la sicurezza dei pazienti. Si veda, ad esempio, la comunicazione del Cantone di Zurigo in merito (in tedesco). &lt;a href="https://www.zh.ch/content/dam/zhweb/bilder-dokumente/themen/gesundheit/gesundheitsversorgung/spitaeler_kliniken/daten_und_statistik_der_listenspitaeler/datenerhebung/poa_informationen.pdf">Present on admission – Informationen zur Erfassung (zh.ch)&lt;/a>.
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li class="list-item ">
+Variabile «diagnose_zusatz»: quali informazioni devono essere inserite qui per i codici con asterisco e i codici con punto esclamativo?
+&lt;div class="collapsible-block "
+group-id="diagnose"
+collapsed-text="Risposta"
+expanded-text="Risposta"
+>
+&lt;span>
+&lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere">&lt;/i>
+&lt;button type="button" class="collapsible-block__button">&lt;/button>
+&lt;/span>
+&lt;div class="collapsible-block__content">
+&lt;ul>
+&lt;li>Per i codici con asterisco, qui va inserito il corrispondente codice con croce. Per i codici con punto esclamativo, il codice da specificare.&lt;/li>
+&lt;li>I codici con asterisco non sono contrassegnati come tali; sono assegnati secondo l’ICD-10-GM.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Esempio 4&lt;/strong> nel Manuale di codifica (pag. 38) &lt;br>
+DP E10.73† Diabete mellito, tipo 1, con complicanze multipl, definito come scompensato &lt;br>
+DS I79.2* Angiopatia periferica in malattie classificate altrove &lt;br>
+DS H36.0* Retinopatia diabetica &lt;br>
+DS N08.3* Disturbi glomerulari in diabete mellito &lt;br>
+…va indicato in &lt;strong>SpiGe&lt;/strong> come segue :&lt;/p>
+&lt;table class="w-100">
+&lt;tr>
+&lt;th style="width:35%"> diagnose_kode &lt;/div>&lt;/th>
+&lt;th> diagnose_id &lt;/th>
+&lt;th style="width:35%"> diagnose_zusatz &lt;/th>
+&lt;/tr>
+&lt;tr>
+&lt;td> E10.73 &lt;/td>
+&lt;td> 1 &lt;/td>
+&lt;td> &lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td> I79.2 &lt;/td>
+&lt;td> 2 &lt;/td>
+&lt;td> E10.73 &lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td> H36.0 &lt;/td>
+&lt;td> 3 &lt;/td>
+&lt;td> E10.73 &lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td> N08.3 &lt;/td>
+&lt;td> 4 &lt;/td>
+&lt;td> E10.73 &lt;/td>
+&lt;/tr>
+&lt;/table>
+&lt;strong>Esempio&lt;/strong> nel Manuale di codifica (pag. 40) &lt;br>
+DP S37.03 Rottura completa del parenchima renale &lt;br>
+L 2 &lt;br>
+DS V99! Incidente da trasporto non specificato &lt;br>
+DS S36.03 Lacerazione della milza con interessamento del parenchima &lt;br>
+DS S36.49 Traumatismo di altre e multiple parti dell’intestino tenue &lt;br>
+DS S31.83! Ferita aperta (qualsiasi parte dell’addome, dei lombi e della pelvi) in collegamento con traumatismo intraaddominale &lt;br>
+…va indicato in &lt;strong>SpiGe&lt;/strong> come segue:
+&lt;table class="w-100">
+&lt;tr>
+&lt;th style="width:35%"> diagnose_kode &lt;/div>&lt;/th>
+&lt;th> diagnose_id &lt;/th>
+&lt;th style="width:35%"> diagnose_zusatz &lt;/th>
+&lt;/tr>
+&lt;tr>
+&lt;td> S37.03 &lt;/td>
+&lt;td> 1 &lt;/td>
+&lt;td> &lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td> V99 &lt;/td>
+&lt;td> 2 &lt;/td>
+&lt;td> S37.03 &lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td> S36.03 &lt;/td>
+&lt;td> 3 &lt;/td>
+&lt;td> &lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td> S36.49 &lt;/td>
+&lt;td> 4 &lt;/td>
+&lt;td> &lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td> S31.83 &lt;/td>
+&lt;td> 5 &lt;/td>
+&lt;td> S36.03 &lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td> S31.83 &lt;/td>
+&lt;td> 6 &lt;/td>
+&lt;td> S36.49 &lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td> S31.83 &lt;/td>
+&lt;td> 7 &lt;/td>
+&lt;td> S37.03 &lt;/td>
+&lt;/tr>
+&lt;/table>
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item><item><title>Faq: Trattamenti</title><link>https://spiges.github.io/handbook-test/it/faq/falldaten/behandlungen/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/it/faq/falldaten/behandlungen/</guid><description>
+&lt;div class="faq-block ">
+Aprire tutte le domande:
+&lt;span class="collapsible-group-command "
+collapsed-text="Espandere tutto"
+expanded-text="Comprimere tutto"
+group-id="behandlungen"
+>
+&lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere tutto">&lt;/i>
+&lt;button type="button" class="collapsible-group-command__button">&lt;/button>
+&lt;/span>
+&lt;ol class="numbered-list ">
+&lt;li class="list-item ">
+Variabile «behandlung_id»: ci sono raccomandazioni per la sequenza da applicare in psichiatria? In particolare, gli item HoNOS, forniti nel quadro della CHOP, non sono specifici alla diagnosi o al trattamento.
+&lt;div class="collapsible-block "
+group-id="behandlungen"
+collapsed-text="Risposta"
+expanded-text="Risposta"
+>
+&lt;span>
+&lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere">&lt;/i>
+&lt;button type="button" class="collapsible-block__button">&lt;/button>
+&lt;/span>
+&lt;div class="collapsible-block__content">
+&lt;ul>
+&lt;li>Conformemente alla descrizione delle variabili vale quanto segue:
+Numero univoco progressivo del trattamento.
+1 = Trattamento 1
+2 = Trattamento 2
+3 = Trattamento 3
+(…) ecc. -&amp;gt; illimitato
+Per la sequenza dei trattamenti si raccomanda di attenersi ai criteri seguenti:&lt;/li>
+&lt;/ul>
+&lt;ol>
+&lt;li>Procedure per il trattamento della diagnosi principale&lt;/li>
+&lt;li>Procedure per il trattamento delle diagnosi secondarie&lt;/li>
+&lt;li>Procedure per la determinazione della diagnosi principale&lt;/li>
+&lt;li>Procedure per la determinazione delle diagnosi secondarie&lt;/li>
+&lt;li>Altre procedure&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>Raccomandiamo una numerazione cronologica per gli item HoNOS (misurazioni HoNOS temporalmente remote = ID bassi, misurazioni HoNOS recenti = ID alti).&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li class="list-item ">
+Siamo un po’ preoccupati che questi dati non vengano registrati in modo completo, soprattutto nei primi giorni, e che ciò renda necessari ulteriori aggiustamenti supplementari. Vorremmo quindi definire il campo come obbligatorio per i codici CHOP interessati. Esiste una classificazione per il catalogo CHOP per quanto riguarda i codici considerati operativi o interventistici?
+&lt;div class="collapsible-block "
+group-id="behandlungen"
+collapsed-text="Risposta"
+expanded-text="Risposta"
+>
+&lt;span>
+&lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere">&lt;/i>
+&lt;button type="button" class="collapsible-block__button">&lt;/button>
+&lt;/span>
+&lt;div class="collapsible-block__content">
+L’UST è consapevole che con l’introduzione del nuovo modo di inserire i dati, all’inizio questi saranno incompleti. Dopo la consueta fase di consolidamento, si capirà quali precisazioni saranno necessarie. Non è possibile determinare chiaramente per ogni codice CHOP se richiede o meno l’indicazione dell’ora. Ci sono altre caratteristiche che sono decisive in questo caso: se il trattamento è legato all’utilizzo di una sala operatoria o di un laboratorio di cateterismo cardiaco.
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li class="list-item ">
+Operatori: Qui c'è un problema di interpretazione delle specifiche nel file XML. La descrizione della variabile afferma che si possono contare al massimo due operatori per ogni operazione. Nella panoramica, tuttavia, l'attributo non indica se questo può essere esportato più volte.
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/handbook-test/img/Image1.jpg" alt="no description available" />
+&lt;div class="collapsible-block "
+group-id="behandlungen"
+collapsed-text="Risposta"
+expanded-text="Risposta"
+>
+&lt;span>
+&lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere">&lt;/i>
+&lt;button type="button" class="collapsible-block__button">&lt;/button>
+&lt;/span>
+&lt;div class="collapsible-block__content">
+Quanti chirurghi possono essere conteggiati per un'operazione è una questione concettuale e può variare da cantone a cantone (di solito 2, ma è una linea guida!). Tecnicamente, possono essere conteggiati più chirurghi.
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/handbook-test/img/Image2.png" alt="no description available" />
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item><item><title>Faq: Medicamenti</title><link>https://spiges.github.io/handbook-test/it/faq/falldaten/medikamente/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/it/faq/falldaten/medikamente/</guid><description>
+&lt;div class="faq-block ">
+Aprire tutte le domande:
+&lt;span class="collapsible-group-command "
+collapsed-text="Espandere tutto"
+expanded-text="Comprimere tutto"
+group-id="medikamente"
+>
+&lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere tutto">&lt;/i>
+&lt;button type="button" class="collapsible-group-command__button">&lt;/button>
+&lt;/span>
+&lt;ol class="numbered-list ">
+&lt;li class="list-item ">
+«medi_id»: i numeri delle prestazioni presso i nostri clienti possono essere alfanumerici, mentre la variabile è fornita solo numericamente. Sarebbe possibile anche in questo caso esportare il Pharmacode o il GTIN?
+&lt;div class="collapsible-block "
+group-id="medikamente"
+collapsed-text="Risposta"
+expanded-text="Risposta"
+>
+&lt;span>
+&lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere">&lt;/i>
+&lt;button type="button" class="collapsible-block__button">&lt;/button>
+&lt;/span>
+&lt;div class="collapsible-block__content">
+Questa variabile è stata aggiunta per motivi puramente tecnici (struttura XML) e rappresenta un numero di riga univoco della tabella tematica «Medicamenti». Purché la variabile venga compilata in modo chiaro e completo, in teoria si possono inserire anche Pharmacode o GTIN. Tuttavia, l’UST dubita che queste condizioni possano essere soddisfatte per tutti i medicinali. Semplicemente per alcuni, queste informazioni non sono ancora disponibili.
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item><item><title>Faq: Fatture</title><link>https://spiges.github.io/handbook-test/it/faq/falldaten/rechnungen/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/it/faq/falldaten/rechnungen/</guid><description>
+&lt;div class="faq-block ">
+Aprire tutte le domande:
+&lt;span class="collapsible-group-command "
+collapsed-text="Espandere tutto"
+expanded-text="Comprimere tutto"
+group-id="rechnungen"
+>
+&lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere tutto">&lt;/i>
+&lt;button type="button" class="collapsible-group-command__button">&lt;/button>
+&lt;/span>
+&lt;ol class="numbered-list ">
+&lt;li class="list-item ">
+Viene esportata una riga per ogni fattura emessa e ogni remunerazione supplementare?
+&lt;div class="collapsible-block "
+group-id="rechnungen"
+collapsed-text="Risposta"
+expanded-text="Risposta"
+>
+&lt;span>
+&lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere">&lt;/i>
+&lt;button type="button" class="collapsible-block__button">&lt;/button>
+&lt;/span>
+&lt;div class="collapsible-block__content">
+La rilevazione deve essere effettuata con la stessa granularità delle righe delle fatture inviate. Se, per esempio, per un caso con assicurazione di base sono conteggiati e fatturati all’assicurazione di base e al Cantone un forfait per caso e una remunerazione supplementare, devono essere registrate quattro righe (1. forfait Cantone, 2. remunerazione supplementare Cantone, 3. forfait assicuratore, 4. remunerazione supplementare assicuratore).
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li class="list-item ">
+Come vengono compilati i relativi campi per le fatture che non vengono fatturate attraverso SwissDRG, TARPSY o ST Reha?
+&lt;div class="collapsible-block "
+group-id="rechnungen"
+collapsed-text="Risposta"
+expanded-text="Risposta"
+>
+&lt;span>
+&lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere">&lt;/i>
+&lt;button type="button" class="collapsible-block__button">&lt;/button>
+&lt;/span>
+&lt;div class="collapsible-block__content">
+&lt;ul>
+&lt;li>Sostanzialmente analogamente al sito Forum Datenaustausch, la compilazione riguarda solo i trattamenti nel settore stazionario.&lt;/li>
+&lt;li>Occorre chiarezza per quanto riguarda la tariffa, l’importo e la quantità.&lt;/li>
+&lt;li>I campi che non hanno senso per altre tariffe possono essere lasciati vuoti.&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item><item><title>Faq: Trasferimento pazienti</title><link>https://spiges.github.io/handbook-test/it/faq/falldaten/patientenbewegung/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/it/faq/falldaten/patientenbewegung/</guid><description>
+&lt;div class="faq-block ">
+Aprire tutte le domande:
+&lt;span class="collapsible-group-command "
+collapsed-text="Espandere tutto"
+expanded-text="Comprimere tutto"
+group-id="patientenbewegung"
+>
+&lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere tutto">&lt;/i>
+&lt;button type="button" class="collapsible-group-command__button">&lt;/button>
+&lt;/span>
+&lt;ol class="numbered-list ">
+&lt;li class="list-item ">
+Anche l’ammissione e la dimissione contano come un episodio?
+&lt;div class="collapsible-block "
+group-id="patientenbewegung"
+collapsed-text="Risposta"
+expanded-text="Risposta"
+>
+&lt;span>
+&lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere">&lt;/i>
+&lt;button type="button" class="collapsible-block__button">&lt;/button>
+&lt;/span>
+&lt;div class="collapsible-block__content">
+L’ammissione e la dimissione sono indicate come prima nel campo «data di ammissione» e «data di dimissione». Se il caso non è stato trasferito, non viene registrato alcun episodio. Se però si dovesse arrivare a un trasferimento (p. es. una dimissione intermedia) quale episodio 1 varrebbe il periodo dalla data di ammissione a quella della dimissione intermedia. L’episodio 2 inizia con la dimissione intermedia e termina con la riammissione. L’episodio 3 inizia con la riammissione e termina con il trasferimento successivo (p. es. le vacanze). Così facendo, per uno stesso caso si possono avere diversi episodi (v. illustrazione). L’ultimo episodio (9) si conclude con la data di dimissione. Gli episodi sono gli intervalli temporali prima e dopo eventi riguardanti un caso, quali: cambio di sede, dimissioni intermedie / riammissioni, trattamenti ambulatoriali esterni, congedi e uscite di prova.
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/handbook-test/img/Image3_it.jpg" alt="no description available" />
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li class="list-item ">
+Un caso che cambia sede viene gestito in entrambe le sedi?
+&lt;div class="collapsible-block "
+group-id="patientenbewegung"
+collapsed-text="Risposta"
+expanded-text="Risposta"
+>
+&lt;span>
+&lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere">&lt;/i>
+&lt;button type="button" class="collapsible-block__button">&lt;/button>
+&lt;/span>
+&lt;div class="collapsible-block__content">
+No, ogni caso viene gestito solo nella sede principale, anche se viene trasferito da una sede all’altra all’interno di un ospedale (BURGESV). Se un paziente viene trasferito in un altro ospedale (BURGESV), è necessario aprire un nuovo caso
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li class="list-item ">
+Variabili "re-entry_stay" e "reason_re-entry": perché queste voci possono essere inserite solo per i casi A se tutte le voci degli episodi sono destinate ai casi ABC?
+&lt;div class="collapsible-block "
+group-id="patientenbewegung"
+collapsed-text="Risposta"
+expanded-text="Risposta"
+>
+&lt;span>
+&lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere">&lt;/i>
+&lt;button type="button" class="collapsible-block__button">&lt;/button>
+&lt;/span>
+&lt;div class="collapsible-block__content">
+Da chiarimenti con SwissDRG AG è emerso che le due variabili "re_admission_stay" e "reason_re_admission" possono essere specificate per i casi statistici ABC. La descrizione delle variabili 1.4 ne terrà conto.
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li class="list-item ">
+Episodio_id: riteniamo che per la nostra clinica non sia necessario differenziare gli episodi per i casi di ricovero, in quanto non registriamo alcun cambiamento di sede all'interno dell'ospedale. Abbiamo capito bene?
+&lt;div class="collapsible-block "
+group-id="patientenbewegung"
+collapsed-text="Risposta"
+expanded-text="Risposta"
+>
+&lt;span>
+&lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere">&lt;/i>
+&lt;button type="button" class="collapsible-block__button">&lt;/button>
+&lt;/span>
+&lt;div class="collapsible-block__content">
+Questa ipotesi si applica agli episodi dovuti a cambiamenti di sede. Tuttavia, devono essere registrati gli episodi dovuti a uscite/rientri intermedi, vacanze, test da sforzo o trattamenti ambulatoriali fuori sede.
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li class="list-item ">
+Abbiamo capito bene, ad esempio che l'ingresso al trattamento ambulatoriale fuori casa (vedi figura sotto) è già un episodio? Quindi abbiamo sempre un episode_type="1" tra vacanze, test da sforzo e trattamento ambulatoriale?
+&lt;div class="collapsible-block "
+group-id="patientenbewegung"
+collapsed-text="Risposta"
+expanded-text="Risposta"
+>
+&lt;span>
+&lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere">&lt;/i>
+&lt;button type="button" class="collapsible-block__button">&lt;/button>
+&lt;/span>
+&lt;div class="collapsible-block__content">
+Corretto
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li class="list-item ">
+Nell'esempio (vedi figura sotto), non ci sono cambi di sede all'interno dello stesso ospedale. Abbiamo capito bene che l'ubicazione del numero BUR dell'ospedale deve essere sempre specificata per il tipo_di_episodio="1"?
+&lt;div class="collapsible-block "
+group-id="patientenbewegung"
+collapsed-text="Risposta"
+expanded-text="Risposta"
+>
+&lt;span>
+&lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere">&lt;/i>
+&lt;button type="button" class="collapsible-block__button">&lt;/button>
+&lt;/span>
+&lt;div class="collapsible-block__content">
+Corretto
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li class="list-item ">
+Per quanto ne sappiamo, l'orario di rientro dal trattamento ambulatoriale non è documentato. Tuttavia, potrebbe essere registrato nei sistemi informativi degli ospedali. Queste informazioni sono obbligatorie?
+&lt;div class="collapsible-block "
+group-id="patientenbewegung"
+collapsed-text="Risposta"
+expanded-text="Risposta"
+>
+&lt;span>
+&lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere">&lt;/i>
+&lt;button type="button" class="collapsible-block__button">&lt;/button>
+&lt;/span>
+&lt;div class="collapsible-block__content">
+Sì, la data e le ore devono essere fornite per tutti gli episodi, sia all'inizio che alla fine. Se la fine di un trattamento ambulatoriale extraospedaliero non è registrata, si consiglia di aggiungere questa informazione. Se ciò non è possibile (in tempi brevi), si consiglia di utilizzare una durata standard per il trattamento ambulatoriale fuori casa.
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li class="list-item ">
+Il BURNR dell'ospedale fuori città è facoltativo, giusto?
+&lt;div class="collapsible-block "
+group-id="patientenbewegung"
+collapsed-text="Risposta"
+expanded-text="Risposta"
+>
+&lt;span>
+&lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere">&lt;/i>
+&lt;button type="button" class="collapsible-block__button">&lt;/button>
+&lt;/span>
+&lt;div class="collapsible-block__content">
+Sì, b n caso di trattamento ambulatoriale esterno, è possibile indicare il numero di BUR della sede di cura, se noto.
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/handbook-test/img/Image4.jpg" alt="no description available" />
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item><item><title>Faq: Unità d’imputazione «caso»</title><link>https://spiges.github.io/handbook-test/it/faq/falldaten/kostentraeger_fall/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/it/faq/falldaten/kostentraeger_fall/</guid><description>
+&lt;div class="faq-block ">
+Aprire tutte le domande:
+&lt;span class="collapsible-group-command "
+collapsed-text="Espandere tutto"
+expanded-text="Comprimere tutto"
+group-id="kostentraeger"
+>
+&lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere tutto">&lt;/i>
+&lt;button type="button" class="collapsible-group-command__button">&lt;/button>
+&lt;/span>
+&lt;ol class="numbered-list ">
+&lt;li class="list-item ">
+Come devono essere presentati i costi dei casi C medico-legali (vari anni di degenza)? Per il caso intero (intera durata di degenza) o solo per i costi del rispettivo anno solare e il resto tramite delimitazioni?
+&lt;div class="collapsible-block "
+group-id="kostentraeger"
+collapsed-text="Risposta"
+expanded-text="Risposta"
+>
+&lt;span>
+&lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere">&lt;/i>
+&lt;button type="button" class="collapsible-block__button">&lt;/button>
+&lt;/span>
+&lt;div class="collapsible-block__content">
+Per i casi B e C, vanno indicati i costi per l’anno solare; per i casi A, i costi per l’intera durata del caso. Anche per le unità di imputazione ambulatoriali e quelle non legate a un caso, i costi si riferiscono all’anno solare. Si veda anche la colonna «Riferimento temporale» nell’elenco delle variabili.
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li class="list-item ">
+I casi di lungodegenza possono essere forniti in SpiGes con KTR tipo 101=lungodegenza come unità di costo indipendente dal caso, anche se il SOMED per l'assistenza di lungodegenza viene registrato in parallelo?
+&lt;div class="collapsible-block "
+group-id="kostentraeger"
+collapsed-text="Risposta"
+expanded-text="Risposta"
+>
+&lt;span>
+&lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere">&lt;/i>
+&lt;button type="button" class="collapsible-block__button">&lt;/button>
+&lt;/span>
+&lt;div class="collapsible-block__content">
+Se l'organizzazione compila il SOMED, questi costi devono essere registrati in SpiGes tramite il tipo KTR 101. Al contrario, i singoli casi di lunga durata in cure acute e riabilitazione (pazienti in attesa) devono essere mappati come tipo KTR 1 (=caso) e la corrispondente tariffa 7 (=tassa di cura). In questo modo si garantisce la correttezza dell'ITAR_K e delle statistiche.
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li class="list-item ">
+Supplementi per i costi di utilizzo degli impianti (ANK) per i costi diretti: secondo REKOLE® , i supplementi ANK possono essere registrati
+per i costi diretti (requisiti medici 400 e 401). Per queste variabili KTR, tuttavia, non esistono variabili ANK separate in SpiGes e nei dataset dei costi SwissDRG, a differenza delle spese generali, sulle quali è possibile registrare i costi di utilizzo degli impianti secondo REKOLE. In ITAR_K, i conti 400 e 401 devono essere specificati senza supplementi ANK. Cosa si deve fare con questi supplementi ANK sui conti 400 e 401?
+&lt;div class="collapsible-block "
+group-id="kostentraeger"
+collapsed-text="Risposta"
+expanded-text="Risposta"
+>
+&lt;span>
+&lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere">&lt;/i>
+&lt;button type="button" class="collapsible-block__button">&lt;/button>
+&lt;/span>
+&lt;div class="collapsible-block__content">
+&lt;ul>
+&lt;li>Le maggiorazioni dell&amp;rsquo;ANK non devono essere registrate nei conti 400 e 401. Tuttavia, devono essere inclusi nelle variabili totali dell&amp;rsquo;ANK (ktr_44_vkl / ktr_44_rekole).&lt;/li>
+&lt;li>Con la versione 1.4 dell&amp;rsquo;interfaccia, la variabile ktr_44_rekole viene convertita da variabile calcolata a variabile raccolta (e aggiunta all&amp;rsquo;XML), in modo da poter raccogliere un totale ANK REKOLE diverso dalla somma delle singole variabili KTR.&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item></channel></rss>

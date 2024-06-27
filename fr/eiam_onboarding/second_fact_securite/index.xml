@@ -1,0 +1,517 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Handbuch SpiGes – Second facteur de sécurité</title><link>https://spiges.github.io/handbook-test/fr/eiam_onboarding/second_fact_securite/</link><description>Recent content in Second facteur de sécurité on Handbuch SpiGes</description><generator>Hugo -- gohugo.io</generator><language>fr</language><atom:link href="https://spiges.github.io/handbook-test/fr/eiam_onboarding/second_fact_securite/index.xml" rel="self" type="application/rss+xml"/><item><title>Eiam_onboarding: Utilisation de Windows Hello</title><link>https://spiges.github.io/handbook-test/fr/eiam_onboarding/second_fact_securite/windows_hello/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/fr/eiam_onboarding/second_fact_securite/windows_hello/</guid><description>
+&lt;p>Vous trouverez des informations concernant le Windows Hello
+&lt;a
+href="https://support.microsoft.com/fr-fr/windows/connectez-vous-%C3%A0-votre-compte-microsoft-avec-windows-hello-800a8c01-6b61-49f5-0660-c2159bea4d84"
+target="_blank" rel="noopener noreferrer"
+>ici&lt;/a
+>
+.&lt;/p>
+&lt;h2 id="ajout-du-windows-hello-comme-second-facteur">Ajout du Windows Hello comme second facteur&lt;/h2>
+&lt;div class="two_column">
+&lt;div class="left_col">
+&lt;!-- First column content goes here -->
+&lt;p> Connectez vous à votre
+&lt;a
+href="https://www.myaccount.eiam.admin.ch/"
+target="_blank" rel="noopener noreferrer"
+>Mon compte eIAM&lt;/a
+>
+avec votre CH-LOGIN, puis rendez-vous dans l'onglet "Connexion et sécurité". &lt;/p>
+&lt;p> Tout en bas de la page, cliquez sur «Modifier les paramètres de l’authentification à deux facteurs». &lt;/p>
+&lt;/div>
+&lt;div class="right_col">
+&lt;!-- Second column content goes here -->
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/handbook-test/img/modif_parametres_fr.png" alt="modification paramètres" />
+&lt;/div>
+&lt;/div>
+&lt;p> &lt;/p>
+&lt;!-- 2eme paire de colonnes -->
+&lt;div class="two_column">
+&lt;div class="left_col">
+&lt;!-- First column content goes here -->
+Cochez la case «Activer les paramètres de sécurité avancés» puis cliquez sur «Fermer».
+&lt;/div>
+&lt;div class="right_col">
+&lt;!-- Second column content goes here -->
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/handbook-test/img/activation_param.png" alt="Activation paramètres avancés" />
+&lt;/div>
+&lt;/div>
+&lt;p> &lt;/p>
+&lt;!-- 3eme paire de colonnes -->
+&lt;div class="two_column">
+&lt;div class="left_col">
+&lt;!-- First column content goes here -->
+&lt;p>De retour dans l’onglet «Connexion et sécurité», vous avez maintenant la case «Vérifier un second facteur» en plus.&lt;/p>
+&lt;p>Dans la case «Enregistrer un second facteur pour vous connecter de manière plus sécurisée.», cliquez sur «Enregistrer».&lt;/p>
+&lt;/div>
+&lt;div class="right_col">
+&lt;!-- Second column content goes here -->
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/handbook-test/img/ajout_facteur_fr.png" alt="ajout second facteur" />
+&lt;/div>
+&lt;/div>
+&lt;p> &lt;/p>
+&lt;!-- 4eme paire de colonnes -->
+&lt;div class="two_column">
+&lt;div class="left_col">
+&lt;!-- First column content goes here -->
+Choisissez l'option "Passkey (FIDO)" et cliquez sur "Continuer".
+&lt;/div>
+&lt;div class="right_col">
+&lt;!-- Second column content goes here -->
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/handbook-test/img/choix_fido_fr.png" alt="no description available" />
+&lt;/div>
+&lt;/div>
+&lt;p> &lt;/p>
+&lt;!-- 6eme paire de colonnes -->
+&lt;div class="two_column">
+&lt;div class="left_col">
+&lt;!-- First column content goes here -->
+Entrez votre mot de passe, puis cliquez sur "continuer".
+&lt;/div>
+&lt;div class="right_col">
+&lt;!-- Second column content goes here -->
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/handbook-test/img/fido_mdp_fr.png" alt="no description available" />
+&lt;/div>
+&lt;/div>
+&lt;p> &lt;/p>
+&lt;!-- 7eme paire de colonnes -->
+&lt;div class="two_column">
+&lt;div class="left_col">
+&lt;!-- First column content goes here -->
+Choisissez 3 quesions de sécurité, remplissez leur réponse puis cliquez sur "continuer".
+&lt;/div>
+&lt;div class="right_col">
+&lt;!-- Second column content goes here -->
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/handbook-test/img/questions_secu.png" alt="ajout questions sécurité" />
+&lt;/div>
+&lt;/div>
+&lt;p> &lt;/p>
+&lt;!-- 8eme paire de colonnes -->
+&lt;div class="two_column">
+&lt;div class="left_col">
+&lt;!-- First column content goes here -->
+Nommez votre passkey (FIDO), puis cliquez sur "continuer".
+&lt;/div>
+&lt;div class="right_col">
+&lt;!-- Second column content goes here -->
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/handbook-test/img/nom_fido_fr.png" alt="no description available" />
+&lt;/div>
+&lt;/div>
+&lt;p> &lt;/p>
+&lt;!-- 9eme paire de colonnes -->
+&lt;div class="two_column">
+&lt;div class="left_col">
+&lt;!-- First column content goes here -->
+Cliquez ensuite sur "Démarer".
+&lt;/div>
+&lt;div class="right_col">
+&lt;!-- Second column content goes here -->
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/handbook-test/img/config_fido.png" alt="no description available" />
+&lt;/div>
+&lt;/div>
+&lt;p> &lt;/p>
+&lt;p>Une fenêtre va s&amp;rsquo;ouvrir sur votre ordinateur, choisissez l&amp;rsquo;option &amp;ldquo;Windows Hello&amp;rdquo; et choisissez un des moyens d&amp;rsquo;identification (empreinte digitale, reconnaissance faciale, mot de passe ou code PIN). Suivez les étapes demandées par votre ordinateur.&lt;/p>
+&lt;!--
+Les explications concernant l'enregistrement de la clé FIDO sur votre CH_LOGIN ne sont pas encore disponible. En attendant, vous pouvez vous réferer à [cette marche-à-suivre](https://help.eiam.swiss/?c=passkeys&amp;l=fr).
+Les explications concernant l'identification vidéo pour la clé FIDO ne sont pas encore disponible. En attendant, vous pouvez vous réferer à [cette marche-à-suivre](https://help.eiam.swiss/index.php?c=h!vipspasskey&amp;l=fr).
+-->
+&lt;p>Une fois ces étapes terminée, votre clé FIDO apparaitra comme second facteur de sécurité, vous pouvez ensuite effectuer l&amp;rsquo;identification vidéo pour votre clé FIDO. Pour cela, passez à l&amp;rsquo;étape de l&amp;rsquo;identification vidéo.&lt;/p></description></item><item><title>Eiam_onboarding: Mobile ID</title><link>https://spiges.github.io/handbook-test/fr/eiam_onboarding/second_fact_securite/mobile_id/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/fr/eiam_onboarding/second_fact_securite/mobile_id/</guid><description>
+&lt;div class="alert alert-warning" role="alert">
+&lt;div class="alert-icon">
+&lt;div class="icon-wrapper">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fit="" height="100%" width="100%" focusable="false">&lt;circle cx="12" cy="19.5" r="1.5" fill="#fff"/>&lt;line x1="12" y1="3" x2="12" y2="14.83154" fill="#fff" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>&lt;/svg>&lt;/div>
+&lt;/div>
+&lt;div class="alert-content">
+Nous vous demandons si possible d&amp;rsquo;utiliser le Windows Hello.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-warning" role="alert">
+&lt;div class="alert-icon">
+&lt;div class="icon-wrapper">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fit="" height="100%" width="100%" focusable="false">&lt;circle cx="12" cy="19.5" r="1.5" fill="#fff"/>&lt;line x1="12" y1="3" x2="12" y2="14.83154" fill="#fff" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>&lt;/svg>&lt;/div>
+&lt;/div>
+&lt;div class="alert-content">
+Le Mobile ID est un moyen d&amp;rsquo;authentification différent du SMS mTAN.
+&lt;/div>
+&lt;/div>
+&lt;p>Si vous ne pouvez pas utiliser le Windows Hello comme second facteur de sécurité, vous pouvez utiliser le Mobile ID. Pour l&amp;rsquo;utilisation de Mobile ID, il faut disposer d&amp;rsquo;une carte SIM compatible avec Mobile ID. Si votre carte SIM n&amp;rsquo;est pas compatible avec Mobile ID, elle doit être remplacée. Vous trouverez les informations pour la remplacer
+&lt;a
+href="https://www.mobileid.ch/fr/commander-sim"
+target="_blank" rel="noopener noreferrer"
+>ici&lt;/a
+>
+.&lt;/p>
+&lt;div class="alert alert-info" role="alert">
+&lt;div class="alert-icon">
+&lt;div class="icon-wrapper">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fit="" height="100%" width="100%" focusable="false">&lt;circle cx="12" cy="4.5" r="1.5" fill="#fff"/>&lt;rect x="10.5" y="9.16502" width="3" height="11.83997" fill="#fff"/>&lt;/svg>&lt;/div>
+&lt;/div>
+&lt;div class="alert-content">
+Mobile ID est un service uniquement compatible avec une carte SIM suisse pour le moment.
+&lt;/div>
+&lt;/div>
+&lt;h2 id="activation-du-mobile-id">Activation du Mobile ID&lt;/h2>
+&lt;p>Suivez les étapes suivantes pour activer le Mobile ID.&lt;/p>
+&lt;!-- 1ere paire de colonnes -->
+&lt;div class="two_column">
+&lt;div class="left_col">
+&lt;!-- First column content goes here -->
+Rendez vous sur le site de
+&lt;a
+href="https://www.mobileid.ch/fr"
+target="_blank" rel="noopener noreferrer"
+>Mobile ID&lt;/a
+>
+puis sélectionnez '"essayer maintenant"'.
+&lt;/div>
+&lt;div class="right_col">
+&lt;!-- Second column content goes here -->
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/handbook-test/img/mobile_id_fr.png" alt="MobileID" />
+&lt;/div>
+&lt;/div>
+&lt;p> &lt;/p>
+&lt;!-- 2eme paire de colonnes -->
+&lt;div class="two_column">
+&lt;div class="left_col">
+&lt;!-- First column content goes here -->
+&lt;p>Saisissez votre numéro de téléphone.&lt;/p>
+&lt;p>Vous allez ensuite recevoir un code par SMS au numéro indiqué, saisissez le code reçu.&lt;/p>
+&lt;/div>
+&lt;div class="right_col">
+&lt;!-- Second column content goes here -->
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/handbook-test/img/saisie_tel_fr.png" alt="Code SMS" />
+&lt;/div>
+&lt;/div>
+&lt;p> &lt;/p>
+&lt;p>Vous êtes maintenant sur votre tableau de bord Mobile ID.&lt;/p>
+&lt;p>L&amp;rsquo;étape suivante sera d&amp;rsquo;activer le Mobile ID.&lt;/p>
+&lt;div class="alert alert-warning" role="alert">
+&lt;div class="alert-icon">
+&lt;div class="icon-wrapper">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fit="" height="100%" width="100%" focusable="false">&lt;circle cx="12" cy="19.5" r="1.5" fill="#fff"/>&lt;line x1="12" y1="3" x2="12" y2="14.83154" fill="#fff" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>&lt;/svg>&lt;/div>
+&lt;/div>
+&lt;div class="alert-content">
+Pour l&amp;rsquo;utilisation de la plateforme SpiGes, l&amp;rsquo;activation doit nécessairement se faire par la carte SIM (l&amp;rsquo;activation par l&amp;rsquo;application MobileID ne suffit pas). Pour cela, il vous faudra une carte SIM compatible avec Mobile ID.
+&lt;/div>
+&lt;/div>
+&lt;p>La compatibilité de votre carte SIM s&amp;rsquo;affiche sur votre tableau de bord Mobile ID. Si votre carte SIM n&amp;rsquo;est pas compatible, il faudra commander une nouvelle carte SIM auprès de votre opérateur téléphonique.&lt;/p>
+&lt;p> &lt;/p>
+&lt;!-- 3eme paire de colonnes -->
+&lt;div class="two_column">
+&lt;div class="left_col">
+&lt;!-- First column content goes here -->
+Si votre carte SIM est incompatible, le message suivant s'affichera sur votre tableau de bord Mobile ID.
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/handbook-test/img/sim_incompatible_fr.png" alt="Code SMS" />
+&lt;/div>
+&lt;div class="right_col">
+&lt;!-- Second column content goes here -->
+Si votre carte SIM est compatible, le message suivant s'affichera sur votre tableau de bord Mobile ID.
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/handbook-test/img/sim_compatible_fr.png" alt="Code SMS" />
+&lt;/div>
+&lt;/div>
+&lt;p> &lt;/p>
+&lt;p>Si votre carte SIM est compatible, voici les étapes à suivre:&lt;/p>
+&lt;p> &lt;/p>
+&lt;!-- 4eme paire de colonnes -->
+&lt;div class="two_column">
+&lt;div class="left_col">
+&lt;!-- First column content goes here -->
+Cliquez sur "activer" dans la case "activer Mobile ID".
+&lt;/div>
+&lt;div class="right_col">
+&lt;!-- Second column content goes here -->
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/handbook-test/img/activer_mobile_id.png" alt="activer MobileID" />
+&lt;/div>
+&lt;/div>
+&lt;p> &lt;/p>
+&lt;!-- 5eme paire de colonnes -->
+&lt;div class="two_column">
+&lt;div class="left_col">
+&lt;!-- First column content goes here -->
+Sélectionnez la case "SIM, puis cliquez sur "suivant".
+&lt;/div>
+&lt;div class="right_col">
+&lt;!-- Second column content goes here -->
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/handbook-test/img/choix_sim.png" alt="Choix carte SIM" />
+&lt;/div>
+&lt;/div>
+&lt;p> &lt;/p>
+&lt;!-- 4eme paire de colonnes -->
+&lt;div class="two_column">
+&lt;div class="left_col">
+&lt;!-- First column content goes here -->
+Acceptez les conditions d'utilisations puis cliquez sur "suivant".
+&lt;/div>
+&lt;div class="right_col">
+&lt;!-- Second column content goes here -->
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/handbook-test/img/cond_utilisation_fr.png" alt="Conditions d&amp;#39;utilisation" />
+&lt;/div>
+&lt;/div>
+&lt;p> &lt;/p>
+&lt;!-- 4eme paire de colonnes -->
+&lt;div class="two_column">
+&lt;div class="left_col">
+&lt;!-- First column content goes here -->
+Vous avez maintenant la possibilité de restaurer un Mobile ID si vous en aviez déjà un. Si ce n’est pas le cas ou si vous ne connaissez pas votre code de restauration, choisissez l’option «Je voudrais continuer sans l’option de restauration». Cliquez sur «suivant», puis validez votre choix en cliquant à nouveau sur «suivant».
+&lt;/div>
+&lt;div class="right_col">
+&lt;!-- Second column content goes here -->
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/handbook-test/img/choix_recup.png" alt="Possibilité récupération" />
+&lt;/div>
+&lt;/div>
+&lt;p> &lt;/p>
+&lt;p>Sur votre téléphone portable, une fenêtre va s’ouvrir et va vous demander de saisir un mot de passe à 6 chiffres. Puis une nouvelle fenêtre va s’ouvrir pour que vous confirmiez le mot de passe.&lt;/p>
+&lt;p>Vous avez terminé.&lt;/p>
+&lt;div class="alert alert-warning" role="alert">
+&lt;div class="alert-icon">
+&lt;div class="icon-wrapper">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fit="" height="100%" width="100%" focusable="false">&lt;circle cx="12" cy="19.5" r="1.5" fill="#fff"/>&lt;line x1="12" y1="3" x2="12" y2="14.83154" fill="#fff" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>&lt;/svg>&lt;/div>
+&lt;/div>
+&lt;div class="alert-content">
+Assurez-vous de noter votre code de récupération dans un endroit sûr. Puisque la vérification de votre identité sera basée sur votre Mobile ID, il est important que vous puissiez le restaurer si besoin. Cela est nécessaire en cas d&amp;rsquo;oubli du code PIN ou de remplacement de la carte SIM (par exemple en cas de perte du téléphone portable).
+&lt;/div>
+&lt;/div>
+&lt;h2 id="ajout-du-mobileid-comme-second-facteur-de-sécurité">Ajout du MobileID comme second facteur de sécurité&lt;/h2>
+&lt;p>Cette étape permet d&amp;rsquo;ajouter le Mobile ID au CH-Login en tant que second facteur fort.&lt;/p>
+&lt;!--
+Si vous avez déjà un second facteur (faible) (mTAN), il est recommandé de le supprimer d'abord. Pour ce faire, cliquez sur Supprimer dans l’encadré Numéro mobile (mTAN). Vous pouvez ensuite suivre les instructions mentionnées ci-dessus pour enregistrer l'ID mobile comme second facteur (fort).
+-->
+&lt;p> &lt;/p>
+&lt;!-- 1ere paire de colonnes -->
+&lt;div class="two_column">
+&lt;div class="left_col">
+&lt;!-- First column content goes here -->
+&lt;p> Connectez vous à votre
+&lt;a
+href="https://www.myaccount.eiam.admin.ch/"
+target="_blank" rel="noopener noreferrer"
+>compte eIAM&lt;/a
+>
+avec votre CH-LOGIN, puis rendez-vous dans l'onglet "Connexion et sécurité". &lt;/p>
+&lt;p> Tout en bas de la page, cliquez sur «Modifier les paramètres de l’authentification à deux facteurs». &lt;/p>
+&lt;/div>
+&lt;div class="right_col">
+&lt;!-- Second column content goes here -->
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/handbook-test/img/modif_parametres_fr.png" alt="modification paramètres" />
+&lt;/div>
+&lt;/div>
+&lt;p> &lt;/p>
+&lt;!-- 2eme paire de colonnes -->
+&lt;div class="two_column">
+&lt;div class="left_col">
+&lt;!-- First column content goes here -->
+Cochez la case «Activer les paramètres de sécurité avancés» puis cliquez sur «Fermer».
+&lt;/div>
+&lt;div class="right_col">
+&lt;!-- Second column content goes here -->
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/handbook-test/img/activation_param.png" alt="Activation paramètres avancés" />
+&lt;/div>
+&lt;/div>
+&lt;p> &lt;/p>
+&lt;!-- 3eme paire de colonnes -->
+&lt;div class="two_column">
+&lt;div class="left_col">
+&lt;!-- First column content goes here -->
+&lt;p>De retour dans l’onglet «Connexion et sécurité», vous avez maintenant la case «Vérifier un second facteur» en plus.&lt;/p>
+&lt;p>Dans la case «Enregistrer un second facteur pour vous connecter de manière plus sécurisée.», cliquez sur «Enregistrer».&lt;/p>
+&lt;/div>
+&lt;div class="right_col">
+&lt;!-- Second column content goes here -->
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/handbook-test/img/ajout_facteur_fr.png" alt="ajout second facteur" />
+&lt;/div>
+&lt;/div>
+&lt;p> &lt;/p>
+&lt;!-- 4eme paire de colonnes -->
+&lt;div class="two_column">
+&lt;div class="left_col">
+&lt;!-- First column content goes here -->
+Choisissez l'option Mobile ID et cliquez sur "Continuer".
+&lt;/div>
+&lt;div class="right_col">
+&lt;!-- Second column content goes here -->
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/handbook-test/img/choix_mobileid.png" alt="ajout second facteur" />
+&lt;/div>
+&lt;/div>
+&lt;p> &lt;/p>
+&lt;!-- 5eme paire de colonnes -->
+&lt;div class="two_column">
+&lt;div class="left_col">
+&lt;!-- First column content goes here -->
+Saisissez le code MIO suivant: &lt;strong>16783&lt;/strong>, puis cliquez sur &amp;ldquo;enregistrer&amp;rdquo;.
+&lt;/div>
+&lt;div class="right_col">
+&lt;!-- Second column content goes here -->
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/handbook-test/img/code_mio.png" alt="ajout second facteur" />
+&lt;/div>
+&lt;/div>
+&lt;p> &lt;/p>
+&lt;!-- 6eme paire de colonnes -->
+&lt;div class="two_column">
+&lt;div class="left_col">
+&lt;!-- First column content goes here -->
+Entrez votre mot de passe, puis cliquez sur "continuer".
+&lt;/div>
+&lt;div class="right_col">
+&lt;!-- Second column content goes here -->
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/handbook-test/img/mot_de_passe.png" alt="Mot de passe" />
+&lt;/div>
+&lt;/div>
+&lt;p> &lt;/p>
+&lt;!-- 7eme paire de colonnes -->
+&lt;div class="two_column">
+&lt;div class="left_col">
+&lt;!-- First column content goes here -->
+Choisissez 3 quesions de sécurité, remplissez leur réponse puis cliquez sur "continuer".
+&lt;/div>
+&lt;div class="right_col">
+&lt;!-- Second column content goes here -->
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/handbook-test/img/questions_secu.png" alt="ajout questions sécurité" />
+&lt;/div>
+&lt;/div>
+&lt;p> &lt;/p>
+&lt;!-- 8eme paire de colonnes -->
+&lt;div class="two_column">
+&lt;div class="left_col">
+&lt;!-- First column content goes here -->
+Saisissez votre numéro de téléphone (celui lié à votre Mobile ID), puis cliquez sur «enregistrer».
+&lt;/div>
+&lt;div class="right_col">
+&lt;!-- Second column content goes here -->
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/handbook-test/img/saisie_tel.png" alt="ajout second facteur" />
+&lt;/div>
+&lt;/div>
+&lt;p> &lt;/p>
+&lt;p>Un message va s’afficher et votre téléphone va vous notifier de confirmer la connexion par la saisie de votre mot de passe Mobile ID.&lt;/p>
+&lt;p>Une fois cela terminé, la case «Mobile ID» s’affichera comme moyen d&amp;rsquo;authentification à deux facteurs.
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/handbook-test/img/mobileid_present.png" alt="ajout second facteur" /> &lt;/p></description></item><item><title>Eiam_onboarding: Clé FIDO</title><link>https://spiges.github.io/handbook-test/fr/eiam_onboarding/second_fact_securite/fido_token/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/fr/eiam_onboarding/second_fact_securite/fido_token/</guid><description>
+&lt;p>Si vous ne pouvez pas utiliser le Windows Hello ou le Mobile ID, vous pouvez également utiliser une clé de sécurité physique FIDO comme second facteur de sécurité fort.&lt;/p>
+&lt;div class="alert alert-warning" role="alert">
+&lt;div class="alert-icon">
+&lt;div class="icon-wrapper">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fit="" height="100%" width="100%" focusable="false">&lt;circle cx="12" cy="19.5" r="1.5" fill="#fff"/>&lt;line x1="12" y1="3" x2="12" y2="14.83154" fill="#fff" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>&lt;/svg>&lt;/div>
+&lt;/div>
+&lt;div class="alert-content">
+Nous vous demandons si possible d&amp;rsquo;utiliser en priorité le Windows Hello et en deuxième lieu le Mobile ID. L&amp;rsquo;aquisition d&amp;rsquo;une clé FIDO est à vos frais.
+&lt;/div>
+&lt;/div>
+&lt;p>Les jetons FIDO sont des supports de données qui peuvent prendre la forme d&amp;rsquo;une clé USB et qui contiennent du matériel cryptographique.&lt;/p>
+&lt;p>eIAM supporte les types de clé FIDO suivants pour le CH-LOGIN:&lt;/p>
+&lt;ul>
+&lt;li>YubiKey 5 FIPS Series with NFC&lt;/li>
+&lt;li>YubiKey 5 Series&lt;/li>
+&lt;li>YubiKey 5 Series with NFC&lt;/li>
+&lt;li>Security Key par Yubico avec NFC&lt;/li>
+&lt;li>Feitian BioPass FIDO2 Authenticator&lt;/li>
+&lt;/ul>
+&lt;h2 id="enregistrement-dune-clé-fido-sur-votre-ch_login">Enregistrement d&amp;rsquo;une clé FIDO sur votre CH_LOGIN&lt;/h2>
+&lt;div class="two_column">
+&lt;div class="left_col">
+&lt;!-- First column content goes here -->
+&lt;p> Connectez vous à votre
+&lt;a
+href="https://www.myaccount.eiam.admin.ch/"
+target="_blank" rel="noopener noreferrer"
+>compte eIAM&lt;/a
+>
+avec votre CH-LOGIN, puis rendez-vous dans l'onglet "Connexion et sécurité". &lt;/p>
+&lt;p> Tout en bas de la page, cliquez sur «Modifier les paramètres de l’authentification à deux facteurs». &lt;/p>
+&lt;/div>
+&lt;div class="right_col">
+&lt;!-- Second column content goes here -->
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/handbook-test/img/modif_parametres_fr.png" alt="modification paramètres" />
+&lt;/div>
+&lt;/div>
+&lt;p> &lt;/p>
+&lt;!-- 2eme paire de colonnes -->
+&lt;div class="two_column">
+&lt;div class="left_col">
+&lt;!-- First column content goes here -->
+Cochez la case «Activer les paramètres de sécurité avancés» puis cliquez sur «Fermer».
+&lt;/div>
+&lt;div class="right_col">
+&lt;!-- Second column content goes here -->
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/handbook-test/img/activation_param.png" alt="Activation paramètres avancés" />
+&lt;/div>
+&lt;/div>
+&lt;p> &lt;/p>
+&lt;!-- 3eme paire de colonnes -->
+&lt;div class="two_column">
+&lt;div class="left_col">
+&lt;!-- First column content goes here -->
+&lt;p>De retour dans l’onglet «Connexion et sécurité», vous avez maintenant la case «Vérifier un second facteur» en plus.&lt;/p>
+&lt;p>Dans la case «Enregistrer un second facteur pour vous connecter de manière plus sécurisée.», cliquez sur «Enregistrer».&lt;/p>
+&lt;/div>
+&lt;div class="right_col">
+&lt;!-- Second column content goes here -->
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/handbook-test/img/ajout_facteur_fr.png" alt="ajout second facteur" />
+&lt;/div>
+&lt;/div>
+&lt;p> &lt;/p>
+&lt;!-- 4eme paire de colonnes -->
+&lt;div class="two_column">
+&lt;div class="left_col">
+&lt;!-- First column content goes here -->
+Choisissez l'option "Passkey (FIDO)" et cliquez sur "continuer".
+&lt;/div>
+&lt;div class="right_col">
+&lt;!-- Second column content goes here -->
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/handbook-test/img/choix_fido_fr.png" alt="no description available" />
+&lt;/div>
+&lt;/div>
+&lt;p> &lt;/p>
+&lt;!-- 6eme paire de colonnes -->
+&lt;div class="two_column">
+&lt;div class="left_col">
+&lt;!-- First column content goes here -->
+Entrez votre mot de passe, puis cliquez sur "continuer".
+&lt;/div>
+&lt;div class="right_col">
+&lt;!-- Second column content goes here -->
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/handbook-test/img/fido_mdp_fr.png" alt="no description available" />
+&lt;/div>
+&lt;/div>
+&lt;p> &lt;/p>
+&lt;!-- 7eme paire de colonnes -->
+&lt;div class="two_column">
+&lt;div class="left_col">
+&lt;!-- First column content goes here -->
+Choisissez 3 quesions de sécurité, remplissez leur réponse puis cliquez sur "continuer".
+&lt;/div>
+&lt;div class="right_col">
+&lt;!-- Second column content goes here -->
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/handbook-test/img/questions_secu.png" alt="ajout questions sécurité" />
+&lt;/div>
+&lt;/div>
+&lt;p> &lt;/p>
+&lt;!-- 8eme paire de colonnes -->
+&lt;div class="two_column">
+&lt;div class="left_col">
+&lt;!-- First column content goes here -->
+Nommez votre passkey (FIDO), puis cliquez sur "continuer".
+&lt;/div>
+&lt;div class="right_col">
+&lt;!-- Second column content goes here -->
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/handbook-test/img/nom_fido_fr.png" alt="no description available" />
+&lt;/div>
+&lt;/div>
+&lt;p> &lt;/p>
+&lt;!-- 9eme paire de colonnes -->
+&lt;div class="two_column">
+&lt;div class="left_col">
+&lt;!-- First column content goes here -->
+Insérez votre clé FIDO dans votre ordinateur, puis cliquez ensuite sur "Démarer".
+&lt;/div>
+&lt;div class="right_col">
+&lt;!-- Second column content goes here -->
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/handbook-test/img/config_fido.png" alt="no description available" />
+&lt;/div>
+&lt;/div>
+&lt;p> &lt;/p>
+&lt;p>Une fenêtre va s&amp;rsquo;ouvrir sur votre ordinateur, choisissez &amp;ldquo;clé de sécurité&amp;rdquo; dans les options proposées.&lt;/p>
+&lt;p>Si cela est la première fois que vous utilisez votre passkey FIDO, il faudra la configurer. Pour cela, veuillez cliquer sur &amp;ldquo;ok&amp;rdquo; puis définir un code PIN pour votre passkey FIDO.&lt;/p>
+&lt;p>Pour finir appuyez sur le bouton sur votre passkey FIDO (selon les modèles de clé, il se peut que l&amp;rsquo;action à effectuer soit simplement toucher la clé).&lt;/p>
+&lt;!--
+Les explications concernant l'enregistrement de la clé FIDO sur votre CH_LOGIN ne sont pas encore disponible. En attendant, vous pouvez vous réferer à [cette marche-à-suivre](https://help.eiam.swiss/?c=passkeys&amp;l=fr).
+Les explications concernant l'identification vidéo pour la clé FIDO ne sont pas encore disponible. En attendant, vous pouvez vous réferer à [cette marche-à-suivre](https://help.eiam.swiss/index.php?c=h!vipspasskey&amp;l=fr).
+-->
+&lt;p>Une fois votre clé FIDO enregistrée comme second facteur fort de votre CH-LOGIN, vous pouvez ensuite effectuer l&amp;rsquo;identification vidéo pour votre clé FIDO. Pour cela, passez à l&amp;rsquo;étape de l&amp;rsquo;identification vidéo.&lt;/p></description></item></channel></rss>
