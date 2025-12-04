@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Utilizzo della piattaforma on Handbuch SpiGes</title><link>https://spiges.github.io/handbook-test/it/plattform/</link><description>Recent content in Utilizzo della piattaforma on Handbuch SpiGes</description><generator>Hugo</generator><language>it</language><atom:link href="https://spiges.github.io/handbook-test/it/plattform/index.xml" rel="self" type="application/rss+xml"/><item><title>Interfaccia della piattaforma</title><link>https://spiges.github.io/handbook-test/it/plattform/interface/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/it/plattform/interface/</guid><description>&lt;h3 id="pagina-iniziale"&gt;Pagina iniziale&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/ecran_accueil_de.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Il campo «Rilevazioni» consente di accedere direttamente a una delle rilevazioni più recenti.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Il campo «Link di accesso rapido» propone link contenenti diverse informazioni utili.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;il campo «News» fornisce notizie sulla piattaforma.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;La scheda «Panoramica rilevazioni » consente di accedere ai seti di dati dell&amp;rsquo;anno in corso e di quello precedente.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;La scheda «Manuale» rimanda al manuale SpiGes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Il campo «Logout» nell&amp;rsquo;angolo in alto a destra consente di disconnettersi dalla piattaforma.&lt;/p&gt;</description></item><item><title>1. Importazione dati</title><link>https://spiges.github.io/handbook-test/it/plattform/import/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/it/plattform/import/</guid><description>&lt;div class="alert alert-info " role="alert"&gt;
+ &lt;div class="alert-icon"&gt;
+ &lt;div class="icon-wrapper"&gt;
+ 
+ &lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fit="" height="100%" width="100%" focusable="false"&gt;&lt;circle cx="12" cy="4.5" r="1.5" fill="#fff"/&gt;&lt;rect x="10.5" y="9.16502" width="3" height="11.83997" fill="#fff"/&gt;&lt;/svg&gt;&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="alert-content"&gt;
+ 
+ 
+ Il caricamento dei dati può essere scaglionato in termini di tempo e di contenuto. Tutti i dati degli ospedali devono essere disponibili sulla piattaforma entro &lt;strong&gt;la fine di aprile&lt;/strong&gt; dell’anno successivo a quello della rilevazione. I dati vengono importati per capitoli.
+ 
+ &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class="alert alert-warning " role="alert"&gt;
+ &lt;div class="alert-icon"&gt;
+ &lt;div class="icon-wrapper"&gt;
+ 
+ &lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fit="" height="100%" width="100%" focusable="false"&gt;&lt;circle cx="12" cy="19.5" r="1.5" fill="#fff"/&gt;&lt;line x1="12" y1="3" x2="12" y2="14.83154" fill="#fff" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/&gt;&lt;/svg&gt;&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="alert-content"&gt;
+ 
+ 
+ Se per il capitolo corrispondente sono già stati importati dati in precedenza, i dati meno recenti saranno completamente sostituiti dai dati del nuovo caricamento.
+ 
+ &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/import_donnees.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+&lt;p&gt; &lt;/p&gt;</description></item><item><title>2. Controllo dei dati</title><link>https://spiges.github.io/handbook-test/it/plattform/kontrole/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/it/plattform/kontrole/</guid><description>&lt;div class="alert alert-info " role="alert"&gt;
+ &lt;div class="alert-icon"&gt;
+ &lt;div class="icon-wrapper"&gt;
+ 
+ &lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fit="" height="100%" width="100%" focusable="false"&gt;&lt;circle cx="12" cy="4.5" r="1.5" fill="#fff"/&gt;&lt;rect x="10.5" y="9.16502" width="3" height="11.83997" fill="#fff"/&gt;&lt;/svg&gt;&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="alert-content"&gt;
+ 
+ &lt;h4 class="alert-heading"&gt;Vérification à la source&lt;/h4&gt;
+ 
+ 
+ &lt;p&gt;Il modo migliore è quello di controllarli direttamente alla fonte, ovvero nel sistema di input dell&amp;rsquo;ospedale.&lt;/p&gt;
+&lt;p&gt;A tal fine, gli ospedali possono integrare nel loro sistema gli strumenti di controllo messi a disposizione dall&amp;rsquo;UST (soluzione automatizzata). Durante l&amp;rsquo;anno di riferimento, le imprese ospedaliere hanno inoltre la possibilità di verificare i propri dati sulla piattaforma SpiGes. Poiché questo controllo avviene prima del regolare inizio della rilevazione (gennaio dell&amp;rsquo;anno successivo a quello di riferimento), lo stato della rilevazione sarà «In preparazione».&lt;/p&gt;</description></item><item><title>3. Verifica dei dati</title><link>https://spiges.github.io/handbook-test/it/plattform/verification/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/it/plattform/verification/</guid><description>&lt;h3 id="verifica-della-plausibilità"&gt;Verifica della plausibilità&lt;/h3&gt;
+&lt;p&gt;Se il fornitore dei dati ha corretto o giustificato tutti gli errori, è compito dei Cantoni verificare la plausibilità delle giustificazioni. I Cantoni possono accettare le giustificazioni (stato «OK») o porre domande o richiedere un nuovo invio di dati scrivendo un commento cliccando sull&amp;rsquo;icona a forma di vignetta visibile vicino ad ogni errore segnalato. Qualora un errore non possa essere corretto, il Cantone può anche contrassegnarlo definitivamente come errore (stato «Errore»).&lt;/p&gt;</description></item><item><title>4. Convalida dei dati</title><link>https://spiges.github.io/handbook-test/it/plattform/freigabe/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/it/plattform/freigabe/</guid><description>&lt;h3 id="finalizzazione-e-convalida"&gt;Finalizzazione e convalida&lt;/h3&gt;
+&lt;p&gt;Una volta terminata la verifica della plausibilità, la correttezza dei dati deve essere prima di tutto confermata sulla piattaforma SpiGes dalle persone responsabili per i dati dell&amp;rsquo;ospedale. Dopodiché il Cantone dovrà finalizzare il processo di controllo dei dati. Questa fase comprende sia la chiusura della rilevazione statistica in conformità alla legge sulla statistica federale (LStat), sia l&amp;rsquo;approvazione dei dati per uso amministrativo in conformità alla legge federale sull&amp;rsquo;assicurazione malattie (LAMal).&lt;/p&gt;</description></item></channel></rss>
