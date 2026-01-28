@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Utilisation de la plateforme on Handbuch SpiGes</title><link>https://spiges.github.io/handbook-test/fr/plattform/</link><description>Recent content in Utilisation de la plateforme on Handbuch SpiGes</description><generator>Hugo</generator><language>fr</language><atom:link href="https://spiges.github.io/handbook-test/fr/plattform/index.xml" rel="self" type="application/rss+xml"/><item><title>Interface de la plateforme</title><link>https://spiges.github.io/handbook-test/fr/plattform/interface/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/fr/plattform/interface/</guid><description>&lt;h3 id="ecran-daccueil"&gt;Ecran d&amp;rsquo;accueil&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/ecran_accueil.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;La case &amp;ldquo;Relevés&amp;rdquo; vous permet d&amp;rsquo;accéder directement à l&amp;rsquo;un des relevés les plus récents.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;La case &amp;ldquo;Quick Links&amp;rdquo; vous donne des liens contenant diverses informations utiles.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;La case &amp;ldquo;News&amp;rdquo; vous donne des nouvelles concernant la plateforme.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;L&amp;rsquo;onglet &amp;ldquo;Aperçu de l&amp;rsquo;enquête&amp;rdquo; permet d&amp;rsquo;accéder à l&amp;rsquo;ensembles des données de l&amp;rsquo;année en cours et des années précédentes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;L&amp;rsquo;onglet &amp;ldquo;Manuel&amp;rdquo; vous renvoie vers le manuel d&amp;rsquo;utilisation SpiGes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;La case &amp;ldquo;Logout&amp;rdquo; en haut à droite vous permet de vous déconnecter de la plateforme.&lt;/p&gt;</description></item><item><title>1. Importation des données</title><link>https://spiges.github.io/handbook-test/fr/plattform/import/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/fr/plattform/import/</guid><description>&lt;div class="alert alert-info " role="alert"&gt;
+ &lt;div class="alert-icon"&gt;
+ &lt;div class="icon-wrapper"&gt;
+ 
+ &lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fit="" height="100%" width="100%" focusable="false"&gt;&lt;circle cx="12" cy="4.5" r="1.5" fill="#fff"/&gt;&lt;rect x="10.5" y="9.16502" width="3" height="11.83997" fill="#fff"/&gt;&lt;/svg&gt;&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="alert-content"&gt;
+ 
+ 
+ L’import des données peut s’effectuer par étapes, tant chronologiquement que pour le contenu. Toutes les données de l’hôpital doivent être disponibles sur la plateforme &lt;strong&gt;au plus tard&lt;/strong&gt; à fin avril de l’année qui suit celle du relevé. L’importation des données s’effectue par chapitre.
+ 
+ &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class="alert alert-warning " role="alert"&gt;
+ &lt;div class="alert-icon"&gt;
+ &lt;div class="icon-wrapper"&gt;
+ 
+ &lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fit="" height="100%" width="100%" focusable="false"&gt;&lt;circle cx="12" cy="19.5" r="1.5" fill="#fff"/&gt;&lt;line x1="12" y1="3" x2="12" y2="14.83154" fill="#fff" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/&gt;&lt;/svg&gt;&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="alert-content"&gt;
+ 
+ 
+ Si le chapitre correspondant existe déjà, les données importées précédemment du même chapitre sont intégralement remplacées par celles du nouvel import.
+ 
+ &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/import_donnees_fr.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+&lt;p&gt; &lt;/p&gt;</description></item><item><title>2. Contrôle des données</title><link>https://spiges.github.io/handbook-test/fr/plattform/kontrole/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/fr/plattform/kontrole/</guid><description>&lt;div class="alert alert-info " role="alert"&gt;
+ &lt;div class="alert-icon"&gt;
+ &lt;div class="icon-wrapper"&gt;
+ 
+ &lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fit="" height="100%" width="100%" focusable="false"&gt;&lt;circle cx="12" cy="4.5" r="1.5" fill="#fff"/&gt;&lt;rect x="10.5" y="9.16502" width="3" height="11.83997" fill="#fff"/&gt;&lt;/svg&gt;&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="alert-content"&gt;
+ 
+ &lt;h4 class="alert-heading"&gt;Vérification à la source&lt;/h4&gt;
+ 
+ 
+ &lt;p&gt;Idéalement, les données sont contrôlées directement dans le système de saisie de l&amp;rsquo;hôpital, en amont du processus de relevé.&lt;/p&gt;
+&lt;p&gt;Les hôpitaux contrôlent les données « à la source » dans leur propre système et peuvent au préalable intégrer dans leur système les outils de vérification mis à leur disposition par l&amp;rsquo;OFS à cet effet. Il est également possible de faire contrôler les données en cours d&amp;rsquo;année, avant la collecte de données proprement dite, sur la plateforme SpiGes. Étant donné que ce contrôle a lieu avant le début ordinaire du relevé (janvier de l&amp;rsquo;année suivante), le statut du relevé est à l&amp;rsquo;état de &amp;ldquo;préparation&amp;rdquo;.&lt;/p&gt;</description></item><item><title>3. Vérification des données</title><link>https://spiges.github.io/handbook-test/fr/plattform/verification/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/fr/plattform/verification/</guid><description>&lt;h3 id="plausibilisation"&gt;Plausibilisation&lt;/h3&gt;
+&lt;p&gt;Lorsque le fournisseur de données a corrigé ou motivé toutes les erreurs, le canton vérifie la plausibilité des justifications. Le canton peut soit accepter des motifs (état « OK »), soit demander des compléments d&amp;rsquo;information ou une nouvelle livraison via la fonction de chat qui s&amp;rsquo;affiche pour chaque vérification signalant des erreurs. Si une erreur ne peut pas être corrigée, le canton peut la marquer définitivement comme erreur (état « Erreur »).&lt;/p&gt;</description></item><item><title>4. Libération des données</title><link>https://spiges.github.io/handbook-test/fr/plattform/freigabe/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/fr/plattform/freigabe/</guid><description>&lt;h3 id="clôture-et-libération"&gt;Clôture et libération&lt;/h3&gt;
+&lt;p&gt;À la fin de la plausibilisation, la correction des données doit tout d&amp;rsquo;abord être confirmée par le(s) responsable(s) de l&amp;rsquo;hôpital sur la plateforme SpiGes. Le canton peut ensuite procéder à la clôture. Cette étape comprend aussi bien la clôture du relevé statistique selon la LSF que la validation des données administratives selon la LAMal.&lt;/p&gt;
+&lt;p&gt;Afin de garantir le caractère obligatoire des données dans le domaine de la LAMal, il appartient aux offices cantonaux de la santé de valider les données officiellement pour cet usage. Si une nouvelle erreur était découverte au cours de cette étape de clôture, le processus pourrait exceptionnellement être relancé.&lt;/p&gt;</description></item></channel></rss>
