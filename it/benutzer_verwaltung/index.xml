@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gestione degli utenti on Handbuch SpiGes</title><link>https://spiges.github.io/handbook-test/it/benutzer_verwaltung/</link><description>Recent content in Gestione degli utenti on Handbuch SpiGes</description><generator>Hugo</generator><language>it</language><atom:link href="https://spiges.github.io/handbook-test/it/benutzer_verwaltung/index.xml" rel="self" type="application/rss+xml"/><item><title>Utilizzo del portale Gestione delegata</title><link>https://spiges.github.io/handbook-test/it/benutzer_verwaltung/delegationsplattform/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/it/benutzer_verwaltung/delegationsplattform/</guid><description>&lt;h2 id="accesso-al-portale-gestione-delegata"&gt;Accesso al portale Gestione delegata&lt;/h2&gt;
+&lt;!-- 1ere paire de colonnes --&gt;
+&lt;div class="two_column"&gt;
+&lt;div class="left_col"&gt;
+&lt;!-- First column content goes here --&gt;
+&lt;p&gt; Per connettersi al portale Gestione delegata, accedere al 
+
+
+
+
+
+
+
+&lt;a
+ href="https://www.portal.eiam.admin.ch/portal/adminservice/app/home"
+ target="_blank" rel="noopener noreferrer"
+ &gt;Portale eIAM&lt;/a
+&gt;
+ con il proprio CH-LOGIN. &lt;/p&gt;
+&lt;p&gt; Per completare la procedura e accedere al portale è necessario accettare le condizioni di utilizzo. &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="right_col"&gt;
+&lt;!-- Second column content goes here --&gt;
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/cond_util_fr.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;!-- 2eme paire de colonnes --&gt;
+&lt;div class="two_column"&gt;
+&lt;div class="left_col"&gt;
+&lt;!-- First column content goes here --&gt;
+La connessione al portale eIAM è così stata completata. Per procedere alla gestione degli utenti, cliccare sulla scheda «Gestione degli utenti» e poi su «Gestione delegata».
+&lt;/div&gt;
+&lt;div class="right_col"&gt;
+&lt;!-- Second column content goes here --&gt;
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/gestion_del_it.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;</description></item><item><title>Assistenza agli utenti</title><link>https://spiges.github.io/handbook-test/it/benutzer_verwaltung/support/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/it/benutzer_verwaltung/support/</guid><description>&lt;h2 id="nuovo-invio-di-un-codice-di-registrazione-onboarding"&gt;Nuovo invio di un codice di registrazione (onboarding)&lt;/h2&gt;
+&lt;p&gt;Potrebbe essere necessario inviare nuovamente il codice di registrazione all&amp;rsquo;utente. Ad esempio, in caso sia stato commesso un errore nell&amp;rsquo;inserimento dell&amp;rsquo;indirizzo e-mail o se è passato più di un mese dall&amp;rsquo;invio del codice. In questo caso occorre procedere come segue:&lt;/p&gt;
+&lt;p&gt;Effettuare l&amp;rsquo;accesso al 
+
+
+
+
+
+
+
+&lt;a
+ href="https://www.portal.eiam.admin.ch/portal/adminservice/app/home"
+ target="_blank" rel="noopener noreferrer"
+ &gt;portale eIAM di delegazione&lt;/a
+&gt;
+, andare nella scheda «Gestione degli utenti» e selezionare il profilo utente desiderato.&lt;/p&gt;
+&lt;!-- 1eme paire de colonnes --&gt;
+&lt;div class="two_column"&gt;
+&lt;div class="left_col"&gt;
+&lt;!-- First column content goes here --&gt;
+
+&lt;p&gt;Qui se necessario è possibile modificare le autorizzazioni dell&amp;rsquo;utente selezionato.&lt;/p&gt;</description></item></channel></rss>

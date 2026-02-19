@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ITAR_K® on Handbuch SpiGes</title><link>https://spiges.github.io/handbook-test/fr/itar_k/</link><description>Recent content in ITAR_K® on Handbuch SpiGes</description><generator>Hugo</generator><language>fr</language><atom:link href="https://spiges.github.io/handbook-test/fr/itar_k/index.xml" rel="self" type="application/rss+xml"/><item><title>Arbre décisionnel</title><link>https://spiges.github.io/handbook-test/fr/itar_k/entscheidungsbaum/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/fr/itar_k/entscheidungsbaum/</guid><description>&lt;p&gt;Vous pouvez télécharger le détail de l&amp;rsquo;arbre décisionnel sous la forme d&amp;rsquo;un fichier EXCEL. Les colonnes ITAR_K® y sont décrites (valable dès ITAR_K® version 16.0, données 2025).
+&lt;a href="https://github.com/SpiGes/itark_spalte/releases/latest/download/itark_spalte.xlsx"&gt;Télécharger le fichier: ITARK_Spalte&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/ItarK_V4_F.png" alt="no description available" style="margin-bottom:1rem;" /&gt;</description></item><item><title>Processus</title><link>https://spiges.github.io/handbook-test/fr/itar_k/itark_prozess/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/fr/itar_k/itark_prozess/</guid><description>&lt;ol&gt;
+&lt;li&gt;Les données sont collectées dans SpiGes.&lt;/li&gt;
+&lt;li&gt;Les données sont traitées par SpiGes.&lt;/li&gt;
+&lt;li&gt;Les hôpitaux peuvent exporter une première version d&amp;rsquo;ITAR_K®. Cette &lt;strong&gt;version automatique&lt;/strong&gt; contient les données récoltées par SpiGes travaillées afin de remplir le maximum d&amp;rsquo;éléments demandés par ITAR_K®.
+
+
+&lt;br /&gt;
+
+&lt;em&gt;A noter: L&amp;rsquo;export ITAR_K® se fait au niveau de l&amp;rsquo;entreprise, il faut donc un accès entreprise pour faire la demande d&amp;rsquo;export. Si l&amp;rsquo;entreprise a plusieurs hôpitaux (BURGESV), plusieurs ITAR_K® seront créés (un par BURGESV).&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Les hôpitaux peuvent compléter (partie en lilas) la version automatique afin d&amp;rsquo;obternir les données manquantes (non-collectées par SpiGes).&lt;/li&gt;
+&lt;li&gt;Les hôpitaux peuvent transmettre leur version automatique complétée à l’association SpitalBenchmark (SBM) afin de contrôler et valider leurs données.&lt;/li&gt;
+&lt;li&gt;Les hôpitaux doivent ensuite télécharger la version automatique complétée dans SpiGes.&lt;/li&gt;
+&lt;li&gt;Les données sont traitées par SpiGes: les données complétées par les hôpitaux sont reprises à cette étape. Les données sont vérifiées et validées comme une partie du relevé.&lt;/li&gt;
+&lt;li&gt;Les hôpitaux peuvent exporter une seconde version d&amp;rsquo;ITAR_K®. Cette &lt;strong&gt;version provisoire&lt;/strong&gt; contient l&amp;rsquo;ensemble des données (de base + complétées).&lt;/li&gt;
+&lt;li&gt;Si la version provisoire est correcte pour l&amp;rsquo;hôpital et que le relevé des données a été clôturé dans SpiGes, l&amp;rsquo;hôpital peut lancer l&amp;rsquo;export de la dernière version d&amp;rsquo;ITAR_K®. Cette &lt;strong&gt;version finale&lt;/strong&gt; sera &lt;strong&gt;signée&lt;/strong&gt; pour garantir son authenticité.
+
+
+&lt;br /&gt;
+
+&lt;em&gt;A noter: Si la version provisoire n&amp;rsquo;est pas correcte, l&amp;rsquo;hôpital peut recommencer le processus, soit en re-téléchargeant des données corrigées dans SpiGes, soit en modifiant les données dans la version automatique.&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Après la version finale et signée, l&amp;rsquo;ITAR_K® ne peut plus être modifié car les données SpiGes sont définitives. Si une correction doit être amenée ultérieurement, l&amp;rsquo;hôpital peut utiliser le relevé TEST pour refaire le processus dans son ensemble et obtenir une nouvelle version d&amp;rsquo;ITAR_K® qui ne sera toutefois pas signée.&lt;/p&gt;</description></item></channel></rss>

@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Release notes on Handbuch SpiGes</title><link>https://spiges.github.io/handbook-test/fr/release_notes/</link><description>Recent content in Release notes on Handbuch SpiGes</description><generator>Hugo</generator><language>fr</language><atom:link href="https://spiges.github.io/handbook-test/fr/release_notes/index.xml" rel="self" type="application/rss+xml"/><item><title>22.07.2025</title><link>https://spiges.github.io/handbook-test/fr/release_notes/2025_07_22/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/fr/release_notes/2025_07_22/</guid><description>&lt;div class="release-notes"&gt;
+ &lt;h2&gt;
+ Release notes
+ 
+ 
+
+ &lt;/h2&gt;
+ &lt;br /&gt;
+ &lt;p&gt;Une nouvelle version de SpiGes a été mise en ligne.&lt;/p&gt;
+
+ 
+
+&lt;div class="release-notes-improvements"&gt;
+ &lt;h3&gt;Les adaptations suivantes ont été effectuées&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Il est désormais possible d&amp;rsquo;importer des données au niveau de l&amp;rsquo;entreprise. Cela concerne en particulier le fichier «ktr_unternehmen». Certaines entreprises saisissent les coûts ambulatoires, les prestations d&amp;rsquo;intérêt général et les exploitations annexes à ce niveau.&lt;br&gt;
+&lt;strong&gt;Important: Même si les hôpitaux ont déjà téléchargé des fichiers contenant des données d&amp;rsquo;entreprise, celles-ci n&amp;rsquo;ont pas été enregistrées dans la base de données. Les données d&amp;rsquo;entreprise ne peuvent être téléchargées et commentées qu&amp;rsquo;à partir d&amp;rsquo;aujourd&amp;rsquo;hui.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;div class="release-notes-fixed-bugs"&gt;
+ &lt;h3&gt;Les bugs suivants ont été corrigés&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Le bouton « suivant » peut être réactivé une fois l&amp;rsquo;importation des données terminée.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/bug_suivant_f.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+&lt;ul&gt;
+&lt;li&gt;Pour afficher davantage d&amp;rsquo;hôpitaux dans la liste (pour les cantons), l&amp;rsquo;en-tête a été modifiée.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/bug_liste_hop_f.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;div class="release-notes-next-features"&gt;
+ &lt;h3&gt;Les fonctionnalités suivantes suivront&lt;/h3&gt;
+ (mise en place dans l'ordre de priorité indiqué)
+
+&lt;ul&gt;
+&lt;li&gt;Exportation provisoire des données LAMal en août (format CSV)&lt;/li&gt;
+&lt;li&gt;Exportation au format XML à des fins de plausibilité&lt;/li&gt;
+&lt;li&gt;Notification par e-mail à l&amp;rsquo;utilisateur lorsque les données téléchargées ont été traitées.&lt;/li&gt;
+&lt;li&gt;Intégration du SwissDRG Grouper&lt;/li&gt;
+&lt;li&gt;Amélioration supplémentaire de la convivialité (ergonomie)&lt;/li&gt;
+&lt;li&gt;Indicateurs&lt;/li&gt;
+&lt;li&gt;Mises à jour détaillées par e-mail sur les activités sur la plateforme&lt;/li&gt;
+&lt;li&gt;Processus de clôture&lt;/li&gt;
+&lt;li&gt;API pour la livraison et la vérification des données&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+
+
+
+ &lt;br /&gt;
+ &lt;p&gt;&lt;/p&gt;</description></item><item><title>15.05.2025</title><link>https://spiges.github.io/handbook-test/fr/release_notes/2025_05_15/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/fr/release_notes/2025_05_15/</guid><description>&lt;div class="release-notes"&gt;
+ &lt;h2&gt;
+ Release notes
+ 
+ 
+
+ &lt;/h2&gt;
+ &lt;br /&gt;
+ &lt;p&gt;Une nouvelle version de SpiGes a été mise en ligne.&lt;/p&gt;
+
+ 
+
+&lt;div class="release-notes-improvements"&gt;
+ &lt;h3&gt;Les adaptations suivantes ont été effectuées&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;La fonction d&amp;rsquo;exportation a été activée. Elle est désormais disponible au niveau utilisateur pour les cantons, les entreprises et les sites. Elle se trouve sur la plateforme SpiGes, à côté de l&amp;rsquo;onglet « Aperçu de l’enquête », sous un nouvel onglet « Exportation des données ». Selon les autorisations, les exportations peuvent être sélectionnées pour différentes entreprises et différents sites. Une fois l&amp;rsquo;exportation terminée (uniquement en version .csv pour l&amp;rsquo;instant), l&amp;rsquo;utilisateur reçoit directement par e-mail le lien pour télécharger le fichier.
+Les données exportées depuis la plateforme SpiGes ne peuvent être utilisées qu&amp;rsquo;à des fins de plausibilité.
+Veuillez noter que des modifications mineures ont été apportées entre-temps et que l&amp;rsquo;ordre des variables d&amp;rsquo;exportation ne correspond pas tout à fait à celui indiqué dans la description. Vous trouverez la dernière description sur la page d&amp;rsquo;accueil de SpiGes.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.bfs.admin.ch/bfs/fr/home/statistiques/sante/systeme-sante/projet-spiges.assetdetail.35810463.html"&gt;Description des fichiers CSV pour l&amp;rsquo;exportation des données de la plateforme SpiGes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.bfs.admin.ch/asset/fr/35810531"&gt;Liste des variables d&amp;rsquo;export&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;div class="release-notes-fixed-bugs"&gt;
+ &lt;h3&gt;Les bugs suivants ont été corrigés&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Filtre automatique sur les parties de l&amp;rsquo;enquête concernées lors de l&amp;rsquo;affichage de cas individuels&lt;/li&gt;
+&lt;li&gt;Tri des contrôles de cas individuels par niveau de sévérité (erreurs avant avertissements).&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;div class="release-notes-next-features"&gt;
+ &lt;h3&gt;Les fonctionnalités suivantes suivront&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Exportation au format XML à des fins de plausibilité d&amp;rsquo;ici deux semaines environ.&lt;/li&gt;
+&lt;li&gt;Fonctionnalité complète d&amp;rsquo;exportation des données pour les données validées à partir du mois d&amp;rsquo;août (y compris au format .xml)&lt;/li&gt;
+&lt;li&gt;Amélioration supplémentaire de la convivialité&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+
+
+
+ &lt;br /&gt;
+ &lt;p&gt;&lt;/p&gt;</description></item><item><title>01.05.2025</title><link>https://spiges.github.io/handbook-test/fr/release_notes/2025_05_01/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/fr/release_notes/2025_05_01/</guid><description>&lt;div class="release-notes"&gt;
+ &lt;h2&gt;
+ Release notes
+ 
+ 
+
+ &lt;/h2&gt;
+ &lt;br /&gt;
+ &lt;p&gt;Une nouvelle version de SpiGes a été mise en ligne.&lt;/p&gt;
+
+ 
+
+&lt;div class="release-notes-improvements"&gt;
+ &lt;h3&gt;Les adaptations suivantes ont été effectuées&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Les utilisateurs SpiGes peuvent désormais déclencher l&amp;rsquo;importation KS sans avoir à télécharger de nouvelles données (fichier SpiGes .xml). Auparavant, l’importation KS ne pouvait être lancée qu&amp;rsquo;en combinaison avec le téléchargement d&amp;rsquo;un fichier .xml.
+Pour rappel : lorsque la case KS est cochée, les dernières données KS peuvent être lues pour tous les BURGESV concernés. Cela n&amp;rsquo;est toutefois possible qu&amp;rsquo;en tant qu&amp;rsquo;utilisateur entreprise, et non (plus) en tant qu&amp;rsquo;utilisateur du site (case KS non visible, importation KS impossible).&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;div class="release-notes-fixed-bugs"&gt;
+ &lt;h3&gt;Les bugs suivants ont été corrigés&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Correction d&amp;rsquo;un bug qui entraînait un « blocage de la barre de progression » (hanging progress bar).&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;div class="release-notes-next-features"&gt;
+ &lt;h3&gt;Les fonctionnalités suivantes suivront&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Fonctionnalité d&amp;rsquo;exportation avec notification de la fin du traitement des données&lt;/li&gt;
+&lt;li&gt;Amélioration supplémentaire des performances&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+
+
+
+ &lt;br /&gt;
+ &lt;p&gt;&lt;/p&gt;</description></item><item><title>26.03.2025</title><link>https://spiges.github.io/handbook-test/fr/release_notes/2025_03_26/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/fr/release_notes/2025_03_26/</guid><description>&lt;div class="release-notes"&gt;
+ &lt;h2&gt;
+ Release notes
+ 
+ 
+
+ &lt;/h2&gt;
+ &lt;br /&gt;
+ &lt;p&gt;Une nouvelle version de SpiGes a été mise en ligne.&lt;/p&gt;
+
+ 
+
+&lt;div class="release-notes-improvements"&gt;
+ &lt;h3&gt;Les adaptations suivantes ont été effectuées&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Après l’import des données KS, les parties du relevé « Produits (KS) », « Charges (KS) » et « CUI selon REKOLE (KS) » seront affichées dans l’aperçu de l’enquête.
+Pour rappel : les données KS ne peuvent actuellement être importées uniquement si elles sont validées par le canton sur la plateforme KS.&lt;/li&gt;
+&lt;li&gt;Les listes d&amp;rsquo;erreurs peuvent être téléchargées au format CSV.&lt;/li&gt;
+&lt;li&gt;Meilleure navigation pour l&amp;rsquo;utilisateur et fonctionnalités étendues pour la fonction commentaire.&lt;/li&gt;
+&lt;li&gt;Nouveau relevé «Test 2025» : le nouveau relevé Test 2025 est désormais disponible sur la plateforme. Il peut être utilisé pour vérifier les données de l&amp;rsquo;année en cours. Les données et les justifications correspondantes seront supprimées à la fin de l&amp;rsquo;année.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;div class="release-notes-fixed-bugs"&gt;
+ &lt;h3&gt;Les bugs suivants ont été corrigés&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Problème de cache avec les commentaires.&lt;/li&gt;
+&lt;li&gt;Les entrées de plausibilisation existantes et leurs commentaires sont supprimés si la règle n&amp;rsquo;a pas été exécutée lors du dernier traitement (par exemple parce qu&amp;rsquo;elle a été modifiée/supprimée).&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;div class="release-notes-next-features"&gt;
+ &lt;h3&gt;Les fonctionnalités suivantes suivront&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;L’amélioration des performances&lt;/li&gt;
+&lt;li&gt;Fonctionnalité d&amp;rsquo;exportation avec notification de la préparation des données terminée&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+
+
+
+ &lt;br /&gt;
+ &lt;p&gt;&lt;/p&gt;</description></item><item><title>10.02.2025</title><link>https://spiges.github.io/handbook-test/fr/release_notes/2025_02_10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/fr/release_notes/2025_02_10/</guid><description>&lt;div class="release-notes"&gt;
+ &lt;h2&gt;
+ Release notes
+ 
+ 
+
+ &lt;/h2&gt;
+ &lt;br /&gt;
+ &lt;p&gt;Une nouvelle version de SpiGes a été mise en ligne.&lt;/p&gt;
+
+ 
+
+&lt;div class="release-notes-improvements"&gt;
+ &lt;h3&gt;Les adaptations suivantes ont été effectuées&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Grâce à des tests de performance approfondis, le processus de traitement a pu être rendu plus efficace. Les performances seront toutefois encore améliorées.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;div class="release-notes-fixed-bugs"&gt;
+ &lt;h3&gt;Les bugs suivants ont été corrigés&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Lors de la création d&amp;rsquo;entrées de plausibilité pour les règles, le fall_id n&amp;rsquo;a parfois pas été trouvé et un «0» a été affiché par erreur.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;div class="release-notes-next-features"&gt;
+ &lt;h3&gt;Les fonctionnalités suivantes suivront&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;L’amélioration des performances.&lt;/li&gt;
+&lt;li&gt;Fournir des fichiers contenant uniquement des données d’entreprises (par exemple, un fichier GWL pur sans sites ni cas).&lt;/li&gt;
+&lt;li&gt;Les données devraient pouvoir être exportées à des fins de plausibilisation d’ici avril 2025.&lt;/li&gt;
+&lt;li&gt;Le processus de clôture, les protocoles de contrôle, l’exportation des listes d’erreurs et ITAR_K® sont prévus pour juin 2025.&lt;/li&gt;
+&lt;li&gt;Les vérifications des chiffres clés suivront à l’automne 2025 pour le relevée des données 2025 en 2026.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+
+
+
+ &lt;br /&gt;
+ &lt;p&gt;&lt;/p&gt;</description></item><item><title>22.01.2025</title><link>https://spiges.github.io/handbook-test/fr/release_notes/2025_01_22/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/fr/release_notes/2025_01_22/</guid><description>&lt;div class="release-notes"&gt;
+ &lt;h2&gt;
+ Release notes
+ 
+ 
+
+ &lt;/h2&gt;
+ &lt;br /&gt;
+ &lt;p&gt;Une nouvelle version de SpiGes a été mise en ligne.&lt;/p&gt;
+
+ 
+
+&lt;div class="release-notes-improvements"&gt;
+ &lt;h3&gt;Les adaptations suivantes ont été effectuées&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Les contrôles au cas par cas relatifs aux données de facturation (N° 766, 1447, 1448, 1450, 1451, 1454, 1455, 1456, 1458, 1459, 1460, 1461, 1462, 1604, 1665 et 1666) ont été rétrogradées d&amp;rsquo;erreur à avertissement en ce qui concerne la sévérité. Comme les règles seront souvent adaptées au moment de la mise en service sur la base de vos commentaires, nous les placerons également sur le site web de la plate-forme SpiGes.&lt;/li&gt;
+&lt;li&gt;Grâce à des tests de performance approfondis, le processus de traitement a pu être rendu plus efficace. Les performances seront toutefois encore améliorées.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;div class="release-notes-fixed-bugs"&gt;
+ &lt;h3&gt;Les bugs suivants ont été corrigés&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Divers bugs, qui empêchaient l&amp;rsquo;affichage correct des erreurs en termes de temps et de contenu, ont été corrigés.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;div class="release-notes-next-features"&gt;
+ &lt;h3&gt;Les fonctionnalités suivantes suivront&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;L&amp;rsquo;amélioration des performances.&lt;/li&gt;
+&lt;li&gt;Pour le moment, il n&amp;rsquo;est pas possible de fournir des fichiers contenant uniquement des données d&amp;rsquo;entreprise (par exemple, un fichier GWL pur sans sites ni cas).&lt;/li&gt;
+&lt;li&gt;Les données devraient pouvoir être exportées à des fins de plausibilisation d&amp;rsquo;ici avril 2025.&lt;/li&gt;
+&lt;li&gt;Le processus de clôture, les protocoles de contrôle, l&amp;rsquo;exportation des listes d&amp;rsquo;erreurs et ITAR_K® sont prévus pour mai 2025.&lt;/li&gt;
+&lt;li&gt;Les vérifications des chiffres clés suivront à l&amp;rsquo;automne 2025 pour le relevée des données 2025 en 2026.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+
+
+
+ &lt;br /&gt;
+ &lt;p&gt;&lt;/p&gt;</description></item><item><title>09.12.2024</title><link>https://spiges.github.io/handbook-test/fr/release_notes/2024_12_09/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/fr/release_notes/2024_12_09/</guid><description>&lt;div class="release-notes"&gt;
+ &lt;h2&gt;
+ Release notes
+ 
+ 
+
+ &lt;/h2&gt;
+ &lt;br /&gt;
+ &lt;p&gt;Une nouvelle version de SpiGes a été mise en ligne.&lt;/p&gt;
+
+ 
+
+&lt;div class="release-notes-improvements"&gt;
+ &lt;h3&gt;Les adaptations suivantes ont été effectuées&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Lors de la première connexion, un texte apparaît avec les conditions d&amp;rsquo;utilisation de la plateforme SpiGes. Celles-ci doivent être acceptées pour pouvoir utiliser la plateforme SpiGes.&lt;/li&gt;
+&lt;li&gt;Les textes dans les «progress bars» ont été formulés de manière moins technique et traduits de l&amp;rsquo;anglais dans les trois langues nationales (d/f/i).&lt;/li&gt;
+&lt;li&gt;Les dernières «release notes» peuvent être consultées dans le manuel.&lt;/li&gt;
+&lt;li&gt;Sur la page d&amp;rsquo;accueil, les liens vers la description des variables et des interfaces 1.4 ont été actualisés.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;div class="release-notes-fixed-bugs"&gt;
+ &lt;h3&gt;Les bugs suivants ont été corrigés&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Divers bugs, qui empêchaient l&amp;rsquo;affichage correct des erreurs en termes de temps et de contenu, ont été corrigés.&lt;/li&gt;
+&lt;li&gt;Les incohérences concernant l&amp;rsquo;affichage de la population 2024 ont été corrigées.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;div class="release-notes-next-features"&gt;
+ &lt;h3&gt;Les fonctionnalités suivantes suivront&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Des fonctions de filtrage, l&amp;rsquo;amélioration des performances et d&amp;rsquo;autres extensions de la navigation sur la plateforme suivront dès que possible.&lt;/li&gt;
+&lt;li&gt;Pour le moment, il n&amp;rsquo;est pas possible de fournir des fichiers contenant uniquement des données d&amp;rsquo;entreprise (par exemple, un fichier GWL pur sans sites ni cas).&lt;/li&gt;
+&lt;li&gt;Les données devraient pouvoir être exportées à des fins de plausibilité d&amp;rsquo;ici février/mars 2025.&lt;/li&gt;
+&lt;li&gt;Le processus de clôture, les protocoles de contrôle, l&amp;rsquo;exportation des listes d&amp;rsquo;erreurs et ITAR_K sont prévus pour mai 2025.&lt;/li&gt;
+&lt;li&gt;Les vérifications des chiffres clés suivront à l&amp;rsquo;automne 2025 pour le relevée des données 2025 en 2026.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+
+
+
+ &lt;br /&gt;
+ &lt;p&gt;&lt;/p&gt;</description></item><item><title>08.11.2024</title><link>https://spiges.github.io/handbook-test/fr/release_notes/2024_11_08/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/fr/release_notes/2024_11_08/</guid><description>&lt;div class="release-notes"&gt;
+ &lt;h2&gt;
+ Release notes
+ 
+ 
+
+ &lt;/h2&gt;
+ &lt;br /&gt;
+ &lt;p&gt;Une nouvelle version de SpiGes a été mise en ligne.&lt;/p&gt;
+
+ 
+
+&lt;div class="release-notes-improvements"&gt;
+ &lt;h3&gt;Les adaptations suivantes ont été effectuées&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;La population de base 2024 a été déposée sur la plateforme SpiGes. Par conséquent, les noms des entreprises (niveau ENTID) proviennent désormais du registre et ne sont plus provisoires, comme dans l&amp;rsquo;ancienne version.&lt;/li&gt;
+&lt;li&gt;Le relevé 2024 est prêt. Les données 2024 peuvent être importées.&lt;/li&gt;
+&lt;li&gt;La mise en page a été légèrement adaptée, conformément à la dernière version du logiciel (Oblique) de la Confédération.&lt;/li&gt;
+&lt;li&gt;Deux barres de progression apparaissent désormais, indiquant l&amp;rsquo;état d&amp;rsquo;avancement du téléchargement et du test des données.&lt;/li&gt;
+&lt;li&gt;Le fichier des identificateurs peut être téléchargé, le NAVS est contrôlé et les erreurs sont affichées dans les contrôles de cas individuels.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;div class="release-notes-fixed-bugs"&gt;
+ &lt;h3&gt;Les bugs suivants ont été corrigés&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Les messages d&amp;rsquo;erreur lors de la vérification des cas individuels concernant d&amp;rsquo;anciennes livraisons de données n&amp;rsquo;apparaissent plus.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;div class="release-notes-new-features"&gt;
+ &lt;h3&gt;Les fonctions suivantes existaient déjà&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;La version 1.4 de l&amp;rsquo;interface peut être téléchargée.&lt;/li&gt;
+&lt;li&gt;Les fichiers xml qui sont bien formés peuvent être téléchargés.&lt;/li&gt;
+&lt;li&gt;Des tests de format sont effectués et les erreurs sont affichées.&lt;/li&gt;
+&lt;li&gt;Les vérifications des cas individuels sont effectués et les erreurs sont affichées.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+&lt;div class="alert alert-warning mt-0 ms-3" role="alert"&gt;
+ &lt;div class="alert-icon"&gt;
+ &lt;div class="icon-wrapper"&gt;
+ 
+ &lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fit="" height="100%" width="100%" focusable="false"&gt;&lt;circle cx="12" cy="19.5" r="1.5" fill="#fff"/&gt;&lt;line x1="12" y1="3" x2="12" y2="14.83154" fill="#fff" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/&gt;&lt;/svg&gt;&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="alert-content"&gt;
+ 
+ 
+ Attention en ce moment, l&amp;rsquo;affichage des erreurs est un peu retardé. Veuillez l&amp;rsquo;actualiser régulièrement manuellement.
+ 
+ &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;ul&gt;
+&lt;li&gt;Des commentaires peuvent être saisis au niveau du cas ou de la règle.&lt;/li&gt;
+&lt;li&gt;Les variables sont affichées en cliquant sur l&amp;rsquo;ID du cas sous les résultats des contrôles de cas individuels.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+&lt;img class="w-25 ms-3" src="https://spiges.github.io/handbook-test/img/fehlerhafter_fall_fenster.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+
+&lt;/div&gt;
+
+
+&lt;div class="release-notes-next-features"&gt;
+ &lt;h3&gt;Les fonctionnalités suivantes suivront&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Des fonctions de filtrage, l&amp;rsquo;amélioration des performances et d&amp;rsquo;autres extensions de la navigation sur la plateforme suivront dès que possible.&lt;/li&gt;
+&lt;li&gt;Pour le moment, il n&amp;rsquo;est pas possible de fournir des fichiers contenant uniquement des données d&amp;rsquo;entreprise (par exemple, un fichier GWL pur sans sites ni cas).&lt;/li&gt;
+&lt;li&gt;Les données devraient pouvoir être exportées à des fins de plausibilité d&amp;rsquo;ici février/mars 2025.&lt;/li&gt;
+&lt;li&gt;Le processus de clôture, les protocoles de contrôle, l&amp;rsquo;exportation des listes d&amp;rsquo;erreurs et ITAR_K sont prévus pour mai 2025.&lt;/li&gt;
+&lt;li&gt;Les vérifications des chiffres clés suivront à l&amp;rsquo;automne 2025 pour le relevée des données 2025 en 2026.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+
+
+
+ &lt;br /&gt;
+ &lt;p&gt;&lt;/p&gt;</description></item></channel></rss>

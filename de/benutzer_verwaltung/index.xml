@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Verwaltung der Benutzer on Handbuch SpiGes</title><link>https://spiges.github.io/handbook-test/de/benutzer_verwaltung/</link><description>Recent content in Verwaltung der Benutzer on Handbuch SpiGes</description><generator>Hugo</generator><language>de</language><atom:link href="https://spiges.github.io/handbook-test/de/benutzer_verwaltung/index.xml" rel="self" type="application/rss+xml"/><item><title>Nutzung des Delegationsportals</title><link>https://spiges.github.io/handbook-test/de/benutzer_verwaltung/delegationsplattform/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/benutzer_verwaltung/delegationsplattform/</guid><description>&lt;h2 id="anmeldung-beim-delegationsportal"&gt;Anmeldung beim Delegationsportal&lt;/h2&gt;
+&lt;!-- 1ere paire de colonnes --&gt;
+&lt;div class="two_column"&gt;
+&lt;div class="left_col"&gt;
+&lt;!-- First column content goes here --&gt;
+&lt;p&gt; Um sich in das Delegationsportal einzuloggen, gehen Sie auf die Website 
+
+
+
+
+
+
+
+&lt;a
+ href="https://www.portal.eiam.admin.ch/portal/adminservice/app/home"
+ target="_blank" rel="noopener noreferrer"
+ &gt;eIAM Portal&lt;/a
+&gt;
+ und loggen Sie sich dann mit Ihrem CH-LOGIN ein.&lt;/p&gt;
+&lt;p&gt; Anschliessend müssen Sie die Nutzungsbedingungen akzeptieren, um auf das Portal zugreifen zu können. &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="right_col"&gt;
+&lt;!-- Second column content goes here --&gt;
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/cond_util_de.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;!-- 2eme paire de colonnes --&gt;
+&lt;div class="two_column"&gt;
+&lt;div class="left_col"&gt;
+&lt;!-- First column content goes here --&gt;
+Sie sind nun im eIAM-Portal angemeldet. Um zur Benutzerverwaltung zu gelangen, klicken Sie zuerst auf den Reiter "Benutzermanagement" und dann auf "Delegiertes Management".
+&lt;/div&gt;
+&lt;div class="right_col"&gt;
+&lt;!-- Second column content goes here --&gt;
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/gestion_del_de.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;</description></item><item><title>Unterstützung der Benutzer</title><link>https://spiges.github.io/handbook-test/de/benutzer_verwaltung/support/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/benutzer_verwaltung/support/</guid><description>&lt;h2 id="zurücksendung-des-onboarding-codes"&gt;Zurücksendung des Onboarding-Codes&lt;/h2&gt;
+&lt;p&gt;Es kann sein, dass der Onboarding-Code an den Nutzer nochmals geschickt werden muss. Zum Beispiel, wenn bei der Eingabe der E-Mail-Adresse ein Fehler gemacht wurde oder wenn es mehr als einen Monat her ist, dass der Code gesendet wurde. In diesem Fall müssen Sie wie folgt vorgehen:&lt;/p&gt;
+&lt;p&gt;Loggen Sie sich in das Delegationsportal 
+
+
+
+
+
+
+
+&lt;a
+ href="https://www.portal.eiam.admin.ch/portal/adminservice/app/home"
+ target="_blank" rel="noopener noreferrer"
+ &gt;eIAM Portal&lt;/a
+&gt;
+ ein, und gehen Sie dann zum Benutzerprofil.&lt;/p&gt;
+&lt;!-- 1eme paire de colonnes --&gt;
+&lt;div class="two_column"&gt;
+&lt;div class="left_col"&gt;
+&lt;!-- First column content goes here --&gt;
+
+&lt;p&gt;Sie können die Berechtigungen des Benutzers bei Bedarf ändern.&lt;/p&gt;</description></item></channel></rss>

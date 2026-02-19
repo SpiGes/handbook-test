@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ITAR_K® on Handbuch SpiGes</title><link>https://spiges.github.io/handbook-test/de/itar_k/</link><description>Recent content in ITAR_K® on Handbuch SpiGes</description><generator>Hugo</generator><language>de</language><atom:link href="https://spiges.github.io/handbook-test/de/itar_k/index.xml" rel="self" type="application/rss+xml"/><item><title>Entscheidungsbaum</title><link>https://spiges.github.io/handbook-test/de/itar_k/entscheidungsbaum/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/itar_k/entscheidungsbaum/</guid><description>&lt;p&gt;Sie können den detaillierten Entscheidungsbaum als EXCEL Datei herunterladen. Darin sind die ITAR_K®-Spalten beschrieben (gültig ab ITAR_K® Version 16.0, Daten 2025).
+&lt;a href="https://github.com/SpiGes/itark_spalte/releases/latest/download/itark_spalte.xlsx"&gt;Herunterladen der Date: ITARK_Spalte&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/ItarK_V4_D.png" alt="no description available" style="margin-bottom:1rem;" /&gt;</description></item><item><title>Prozess</title><link>https://spiges.github.io/handbook-test/de/itar_k/itark_prozess/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/itar_k/itark_prozess/</guid><description>&lt;ol&gt;
+&lt;li&gt;Die Daten werden in SpiGes erfasst.&lt;/li&gt;
+&lt;li&gt;Die Daten werden von SpiGes verarbeitet.&lt;/li&gt;
+&lt;li&gt;Die Spitäler können eine erste Version von ITAR_K® exportieren. Diese &lt;strong&gt;automatische Version&lt;/strong&gt; enthält die von SpiGes erfassten Daten, die so aufbereitet wurden, dass sie möglichst viele der von ITAR_K® geforderten Elemente erfüllen.
+
+
+&lt;br /&gt;
+
+&lt;em&gt;Hinweis: Der ITAR_K®-Export erfolgt auf Unternehmensebene, daher ist für die Beantragung des Exports ein Unternehmenszugang erforderlich. Wenn das Unternehmen mehrere Spitäler (BURGESV) hat, werden mehrere ITAR_K® erstellt (einer pro BURGESV).&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Die Spitäler können die automatische Version ergänzen (lilafarbener Teil), um die fehlenden Daten (die nicht von SpiGes erfasst wurden) zu erhalten.&lt;/li&gt;
+&lt;li&gt;Die Spitäler können ihre automatische ergänzte Version an den Verein SpitalBenchmark (SBM) übermitteln, damit ihre Daten überprüft und validiert werden können.&lt;/li&gt;
+&lt;li&gt;Anschliessend müssen die Spitäler die ergänzte automatische Version in SpiGes hochladen.&lt;/li&gt;
+&lt;li&gt;Die Daten werden von SpiGes verarbeitet: Die von den Spitälern ergänzten Daten werden in diesem Schritt übernommen. Die Daten werden überprüft und als Teil der Erhebung validiert.&lt;/li&gt;
+&lt;li&gt;Die Spitäler können eine zweite Version von ITAR_K® exportieren. Diese &lt;strong&gt;provisorische Version&lt;/strong&gt; enthält alle Daten (Basisdaten + ergänzte Daten).&lt;/li&gt;
+&lt;li&gt;Wenn die provisorische Version für das Spital korrekt ist und die Datenerfassung in SpiGes abgeschlossen wurde, kann das Spital den Export der endgültigen Version von ITAR_K® starten. Diese &lt;strong&gt;finale Version&lt;/strong&gt; wird &lt;strong&gt;signiert&lt;/strong&gt;, um ihre Authentizität zu gewährleisten.
+
+
+&lt;br /&gt;
+
+&lt;em&gt;Hinweis: Wenn die provisorische Version nicht korrekt ist, kann das Spital den Vorgang wiederholen, indem es entweder korrigierte Daten erneut in SpiGes hochlädt oder die Daten in der automatischen Version ändert.&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Nach der finalen und signierten Version kann ITAR_K® nicht mehr geändert werden, da die SpiGes-Daten endgültig sind. Wenn nachträglich eine Korrektur vorgenommen werden muss, kann das Spital die TEST-Erhebung verwenden, um den gesamten Prozess erneut durchzuführen und eine neue Version von ITAR_K® zu erhalten, die jedoch nicht signiert wird.&lt;/p&gt;</description></item></channel></rss>

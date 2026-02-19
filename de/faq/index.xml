@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FAQ on Handbuch SpiGes</title><link>https://spiges.github.io/handbook-test/de/faq/</link><description>Recent content in FAQ on Handbuch SpiGes</description><generator>Hugo</generator><language>de</language><atom:link href="https://spiges.github.io/handbook-test/de/faq/index.xml" rel="self" type="application/rss+xml"/><item><title>Identifikatoren</title><link>https://spiges.github.io/handbook-test/de/faq/identifikatoren/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/identifikatoren/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="identifikatoren"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Die AHVN ist ein Pflichtfeld. Trotzdem wird es Fälle ohne AHV-Nr. geben. Wo ist beschrieben was in diesem Fall in die Variable kommt?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="identifikatoren"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Bei unbekannter AHVN richten wir uns nach dem Forum Datenaustausch, welche den Dummy-Wert «7569999999991» verwendet.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Bei der Datenerhebung soll ja die AHVN genutzt werden. Wird die AHVN über die Tarifpartner auch an die Krankenkassen ersichtlich sein werden?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="identifikatoren"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Bei der Datenübermittlung werden Identifikatoren und Daten separat verschickt. Der Datenkanal ist verschlüsselt. Zur Überprüfung der AHVN wird der «BFS AHVN Validator» eingesetzt. Nachdem die AHVN verschlüsselt worden ist, wird diese auf der gesicherten Identifikatoren Datenbank gespeichert. Während der Bearbeitung der Daten auf der Plattform ist die AHVN somit pseudonymisiert und nicht zusammen mit dem Leistungsdatensatz abgelegt. Die AHVN kann nur verschlüsselt an die Datennutzer weitergegeben werden. Da diese Datennutzer den Schlüssel nicht kennen, ist für diese die AHVN anonymisiert. Ein Rückschluss auf den Originalwert ist nicht möglich.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Hat der Kanton Zugang zum ID-File der Lieferungen?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="identifikatoren"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Der Kanton kann während der Erhebung zu Plausibilisierungszwecken Daten exportieren, dabei wird die AHVN pseudonymisiert werden.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+&lt;/ol&gt;
+
+&lt;/div&gt;</description></item><item><title>Fallunabhängige Kosten und Erlöse</title><link>https://spiges.github.io/handbook-test/de/faq/falldunabhangige/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/falldunabhangige/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="falldunabhangige"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Wie lassen sich die Kosten und Erlöse der gemeinwirtschaftlichen Leistungen in SpiGes erfassen?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="falldunabhangige"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Dazu wählen Sie unter ktr_typ den passenden Code der entsprechenden GWL Leistung aus und tragen die entsprechenden Kosten und Erlöse anhand den in REKOLE® definierten Kostenarten-, bzw. Kostenstellennummern und Erlöskonten ein. Anbei die Liste der unterschiedlichen GWL Typen und dem entsprechenden ktr_typ Code:
+&lt;table class="w-100"&gt;
+ &lt;tr&gt;
+ &lt;th style="width:20%"&gt; Code &lt;/div&gt;&lt;/th&gt;
+ &lt;th&gt; GWL &lt;/th&gt;
+ &lt;th style="width:60%"&gt; Bezeichnung &lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 501 &lt;/td&gt;
+ &lt;td&gt; Typ a) &lt;/td&gt;
+ &lt;td&gt; Vorhalteleistungen (exkl. Vorhalteleistungen für den Notfall) &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 502 &lt;/td&gt;
+ &lt;td&gt; Typ a) &lt;/td&gt;
+ &lt;td&gt; Rettungswesen/Notruf 144 &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 503 &lt;/td&gt;
+ &lt;td&gt; Typ a) &lt;/td&gt;
+ &lt;td&gt; Geschützte Spitalbereiche &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 504 &lt;/td&gt;
+ &lt;td&gt; Typ a) &lt;/td&gt;
+ &lt;td&gt; Kindergarten und Schule für Patientinnen und Patienten &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 505 &lt;/td&gt;
+ &lt;td&gt; Typ a) &lt;/td&gt;
+ &lt;td&gt; Sozialdienstliche Leistungen für Patienten &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 506 &lt;/td&gt;
+ &lt;td&gt; Typ a) &lt;/td&gt;
+ &lt;td&gt; Prävention/Gesundheitsförderung &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 507 &lt;/td&gt;
+ &lt;td&gt; Typ a) &lt;/td&gt;
+ &lt;td&gt; Bevölkerungsschutz &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 508 &lt;/td&gt;
+ &lt;td&gt; Typ a) &lt;/td&gt;
+ &lt;td&gt; Spitalseelsorge / Andachtsraum &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 599 &lt;/td&gt;
+ &lt;td&gt; Typ a) &lt;/td&gt;
+ &lt;td&gt; Weitere Spezialaufgaben &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 601 &lt;/td&gt;
+ &lt;td&gt; Typ b) &lt;/td&gt;
+ &lt;td&gt; Forschung, inkl. Doktorat (MD und PhD) &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 602 &lt;/td&gt;
+ &lt;td&gt; Typ b) &lt;/td&gt;
+ &lt;td&gt; Erteilte und erhaltene universitäre Ausbildung &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 603 &lt;/td&gt;
+ &lt;td&gt; Typ b) &lt;/td&gt;
+ &lt;td&gt; Erteilte berufliche Weiterbildung &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 701 &lt;/td&gt;
+ &lt;td&gt; Typ c) &lt;/td&gt;
+ &lt;td&gt; Aufrechterhaltung von Überkapazitäten aus regionalpolitischen Gründen &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 702 &lt;/td&gt;
+ &lt;td&gt; Typ c) &lt;/td&gt;
+ &lt;td&gt; Geburtshilfe &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 703 &lt;/td&gt;
+ &lt;td&gt; Typ c) &lt;/td&gt;
+ &lt;td&gt; Nicht kostendeckende Tarife (z. B.TARMED.) &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 799 &lt;/td&gt;
+ &lt;td&gt; Typ c) &lt;/td&gt;
+ &lt;td&gt; Weitere spitalbezogene gemeinwirtschaftliche Leistungen &lt;/td&gt;
+ &lt;/tr&gt;
+&lt;/table&gt;
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Können fallunabhängige Kostenträger einem Spital (burnr_gesv) angehängt werden anstelle eines Standortes?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="falldunabhangige"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Nein, das ist nicht möglich.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Kann man KTR-Typen auch mehrfach verwenden? Zum Beispiel bei 599 mehrfache Zeilen abliefern mit unterschiedlichem Freitext in der Variable "ktr_beschr" ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="falldunabhangige"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Ja, das ist möglich. Anhand der Angabe «ktr_typ» wird ein Kostenträger einer ITAR_K®-Spalte zugeordnet. Somit muss in der Variable «ktr_typ» einer der vordefinierten Werte verwendet werden. Es ist jedoch möglich mehrere Kostenträger mit demselben KTR-Typ anzugeben, z.B. für den ktr_typ 205 einmal mit dem Freitext «KVG» und einmal mit dem Freitext «MTK» in der Variable «ktr_beschr». Diese beiden Kostenträger werden dann summiert und in der ITAR_K®-Spalte «Tagesklinik Kind- &amp; Jugendpsychiatrie» abgebildet. Theoretisch sind auch weitere Aufteilungen technisch möglich, bis auf den ambulanten Fall. Solange alle denselben KTR-Typ aufweisen, werden sie wie beschrieben summiert und abgebildet.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wird der KTR-Teil auch bei ambulanten Fällen erwartet, oder bezieht sich dieser ebenfalls ausschliesslich auf stationäre Fälle?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="falldunabhangige"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Um ein ITAR_K® ausfüllen zu können, werden die Kosten der ambulanten Fälle summarisch pro KTR Typ (z.B. Tarif Dialyse) abgefüllt.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+&lt;/ol&gt;
+
+&lt;/div&gt;</description></item><item><title>Abstimmungsbrücke</title><link>https://spiges.github.io/handbook-test/de/faq/abstimmungsbrucke/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/abstimmungsbrucke/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="abstimmungsbrucke"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Aus SDEP ist mir die Abgrenzungsrechnung bekannt. Wird es diese in SpiGes auch geben oder nur gemäss ITAR_K®?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="abstimmungsbrucke"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+SpiGes nutzt die Abstimmbrücke der GDK / von REKOLE®.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wo im BFS werden die Begründungen zu den Abgrenzungen integriert? Bzw wie muss ich mir das vorstellen?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="abstimmungsbrucke"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Die Begründungen werden als Prüfungen in SpiGes erfasst. D.h. wenn ein Betrag von FiBu und BeBu nicht übereinstimmt, muss die Differenz begründet werden. Diese Begründungen werden dann auch weiterverwendet, z.B. für das Prüfprotokoll und für ITAR_K® oder auch für die GDK Abstimmbrücke.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wo werden die Kosten der Überlieger in der Abstimmungsbrücke berücksichtigt?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="abstimmungsbrucke"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+In der Kostenträgerrechnung von SpiGes lassen sich die Kosten der übers Jahr ausgetretenen Patienten (A Fälle) berechnen. Diese können bereits im Vorjahr ins Spital eingetreten sein und Kosten verursacht haben. In der Finanzbuchhaltung wird der Aufwand pro Jahr (Zeitrechnung) eingegeben. Die daraus entstehende Differenz wird in der Abstimmungsbrücke von SpiGes korrigiert.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Für 2024 (Daten 2023) hat die SwissDRG AG die Details der Anlagenutzungskosten der Fälle nach VKL angefordert. In SpiGes ermöglichen es die Variablen "_ank", die Details der Anlagenutzungskosten der Fälle nach REKOLE zu senden. Da dieses Detail nun für SwissDRG AG benötigt wird, sollte man in SpiGes die "_ank"-Variablen nicht auch für die VKL-Ergebnisse vorsehen?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="abstimmungsbrucke"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Es handelt sich hierbei lediglich um eine Testerhebung der SwissDRG AG. Sollte der definitive Wechsel zu VKL erfolgen, würden die Anlagenutzungskosten pro Kostenstelle in SpiGes nach VKL statt nach REKOLE® erhoben werden und die REKOLE®-Anlagenutzungskosten als Summe.&lt;/li&gt;
+&lt;li&gt;Zusammengefasst sind die Anlagenutzungskosten nach folgenden Methoden abzubilden:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Variablen&lt;/th&gt;
+ &lt;th&gt;ANK-Methodik&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;KTR-Variablen «ktr_10_ank» bis «ktr_77_ank»&lt;/td&gt;
+ &lt;td&gt;REKOLE®&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;KTR-Variable «ktr_44_vkl»&lt;/td&gt;
+ &lt;td&gt;VKL&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;KS FIBU: SA6, insbesondere Var. A.15.06 bis A.15.06.05&lt;/td&gt;
+ &lt;td&gt;VKL&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;KS Abstimmbrücke: SA81-84&lt;/td&gt;
+ &lt;td&gt;VKL&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;KS Abstimmbrücke: SA85, Var. A.17.22.25 bis A.17.24.28&lt;/td&gt;
+ &lt;td&gt;REKOLE®&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+ Das Konto 441 wird weder von VKL noch von REKOLE® in die Berechnung der Anlagenutzungskosten einbezogen. Können Sie das bestätigen?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="abstimmungsbrucke"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;p&gt;Die Anlagenutzungskosten (nach REKOLE® und OCP) entsprechen folgenden Kostenarten:&lt;/p&gt;</description></item></channel></rss>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Accesso alla piattaforma on Handbuch SpiGes</title><link>https://spiges.github.io/handbook-test/it/eiam_onboarding/</link><description>Recent content in Accesso alla piattaforma on Handbuch SpiGes</description><generator>Hugo</generator><language>it</language><atom:link href="https://spiges.github.io/handbook-test/it/eiam_onboarding/index.xml" rel="self" type="application/rss+xml"/><item><title>Onboarding con SpiGes</title><link>https://spiges.github.io/handbook-test/it/eiam_onboarding/onboarding_spiges/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/it/eiam_onboarding/onboarding_spiges/</guid><description>&lt;p&gt;L&amp;rsquo;utente riceve un&amp;rsquo;e-mail che chiederà di finalizzare il collegamento (onboarding) tra il proprio CH-LOGIN e la piattaforma di rilevazione SpiGes.&lt;/p&gt;
+
+
+
+&lt;div class="container grid-layout mb-3"&gt;
+ 
+
+
+&lt;div class="row row-layout align-items-center mb-3"&gt;
+ 
+
+
+&lt;div class="col-6 column-layout "&gt;
+ 
+
+&lt;p&gt;Scegliere il proprio il codice di onboarding, copiarlo con il tasto destro del mouse e poi cliccare sul link di finalizzazione dell&amp;rsquo;onboarding.&lt;/p&gt;
+&lt;p&gt;Effettuare l&amp;rsquo;accesso con il proprio CH-LOGIN.&lt;/p&gt;
+
+
+&lt;/div&gt;
+
+
+
+
+&lt;div class="col column-layout "&gt;
+ 
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/mail_onboarding_de.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+
+&lt;/div&gt;
+
+
+
+
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class="row row-layout align-items-center "&gt;
+ 
+
+
+&lt;div class="col-6 column-layout "&gt;
+ 
+Inserire il codice di onboarding precedentemente copiato e inviare il codice di registrazione cliccando sull'apposito pulsante.
+
+&lt;/div&gt;
+
+
+
+
+&lt;div class="col column-layout "&gt;
+ 
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/enregistrement_it.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+
+&lt;/div&gt;
+
+
+
+
+&lt;/div&gt;
+
+
+
+&lt;/div&gt;
+
+
+&lt;p&gt;L&amp;rsquo;accesso alla piattaforma SpiGes è ora stato attivato. Per effettuare il login, andare sul sito 
+
+
+
+
+
+
+
+&lt;a
+ href="https://www.spiges.admin.ch/home"
+ target="_blank" rel="noopener noreferrer"
+ &gt;www.spiges.admin.ch&lt;/a
+&gt;
+&lt;/p&gt;</description></item><item><title>Struttura delle unità eIAM</title><link>https://spiges.github.io/handbook-test/it/eiam_onboarding/ch_unit_eiam/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/it/eiam_onboarding/ch_unit_eiam/</guid><description>&lt;p&gt;I vari utenti della piattaforma SpiGes sono organizzati come segue:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cantone
+&lt;ul&gt;
+&lt;li&gt;Imprese &lt;!--Aziende--&gt;
+&lt;ul&gt;
+&lt;li&gt;Sedi&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Un Cantone comprende una o più imprese, che a loro volta comprendono una o più sedi.&lt;/p&gt;
+
+
+
+&lt;div class="alert alert-warning " role="alert"&gt;
+ &lt;div class="alert-icon"&gt;
+ &lt;div class="icon-wrapper"&gt;
+ 
+ &lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fit="" height="100%" width="100%" focusable="false"&gt;&lt;circle cx="12" cy="19.5" r="1.5" fill="#fff"/&gt;&lt;line x1="12" y1="3" x2="12" y2="14.83154" fill="#fff" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/&gt;&lt;/svg&gt;&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="alert-content"&gt;
+ 
+ 
+ In alcuni casi, il Cantone geografico di una sede e il Cantone amministrativo dell&amp;rsquo;impresa non coincidono.
+ 
+ &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Esempio:&lt;/p&gt;
+
+
+
+&lt;div class="container grid-layout "&gt;
+ 
+
+
+&lt;div class="row row-layout "&gt;
+ 
+
+
+&lt;div class="col-6 column-layout "&gt;
+ 
+
+&lt;ol&gt;
+&lt;li&gt;nella colonna 1 è indicato l&amp;rsquo;EntID a livello di impresa e il numero RIS a livello di sede;&lt;/li&gt;
+&lt;li&gt;nella colonna 2 è indicato il Cantone amministrativo (responsabile) dell&amp;rsquo;impresa o della sede dell&amp;rsquo;ospedale;&lt;/li&gt;
+&lt;li&gt;nella colonna 3 viene indicato il Cantone geografico dell&amp;rsquo;impresa / della sede.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;In questo caso si può notare che il Cantone amministrativo e quello geografico della sede 1 sono diversi.&lt;/p&gt;</description></item></channel></rss>

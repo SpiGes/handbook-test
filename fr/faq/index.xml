@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FAQ on Handbuch SpiGes</title><link>https://spiges.github.io/handbook-test/fr/faq/</link><description>Recent content in FAQ on Handbuch SpiGes</description><generator>Hugo</generator><language>fr</language><atom:link href="https://spiges.github.io/handbook-test/fr/faq/index.xml" rel="self" type="application/rss+xml"/><item><title>Identifiants</title><link>https://spiges.github.io/handbook-test/fr/faq/identifikatoren/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/fr/faq/identifikatoren/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Ouvrir toutes les questions: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Tout ouvrir"
+ expanded-text="Tout fermer"
+ group-id="identifikatoren"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour tout développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Le numéro AVS est un champ obligatoire. Malgré tout, il y aura des cas sans numéro AVS. Où est décrit ce qui doit être mis dans la variable dans ce cas ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="identifikatoren"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Si le numéro AVS est inconnu, nous nous basons sur le Forum Datenaustausch, qui utilise la valeur fictive «7569999999991».
+&lt;!--Précisément cette question est encore ouverte. Dans la description des variables, on peut lire : «Remarque : en ce qui concerne les personnes qui ne peuvent pas avoir de numéro AVS, des clarifications sont encore en cours (voir aussi la colonne "A indiquer pour")». A court terme, il est envisagé de laisser la variable vide dans ce cas ou d'indiquer un numéro fictif. Mais certains cantons frontaliers se sont fortement opposés à cette idée, raison pour laquelle cette question sera encore clarifiée plus en détail à long terme.--&gt;
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Le numéro AVS doit être utilisé pour la collecte des données. Le numéro AVS sera-t-il également visible pour les caisses maladie via les partenaires tarifaires ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="identifikatoren"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Lors de la transmission des données, les identifiants et les données sont envoyés séparément. Le canal de données est crypté. L'OFS utilise un validateur pour vérifier le numéro AVS. Une fois que le numéro AVS a été crypté, il est enregistré dans la base de données sécurisée des identifiants. Pendant le traitement des données sur la plateforme, le numéro AVS est ainsi pseudonymisé et n'est pas stocké avec l'ensemble des données de prestations. Le numéro AVS ne peut être transmis aux utilisateurs de données que sous forme cryptée. Comme ces utilisateurs de données ne connaissent pas la clé, le numéro AVS est anonymisé pour eux. Il n'est pas possible d'en déduire la valeur originale.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Le canton a-t-il accès au fichier ID des livraisons ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="identifikatoren"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Le canton peut exporter des données pendant l'enquête à des fins de plausibilisation, le NAVS sera alors pseudonymisé.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+&lt;/ol&gt;
+
+&lt;/div&gt;</description></item><item><title>Coûts et produits non liées à un cas</title><link>https://spiges.github.io/handbook-test/fr/faq/falldunabhangige/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/fr/faq/falldunabhangige/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Ouvrir toutes les questions: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Tout ouvrir"
+ expanded-text="Tout fermer"
+ group-id="falldunabhangige"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour tout développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Comment saisir les coûts et les revenus des prestations d'intérêt général dans SpiGes ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="falldunabhangige"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Pour ce faire, il suffit de sélectionner sous ktr_typ le code de la prestation PIG correspondante et de saisir les coûts et les revenus correspondants à l'aide des numéros de charge par nature ou de centre de charges et des comptes de revenus définis dans REKOLE®. Ci-dessous vous trouvez la liste des différents types de PIG et le code ktr_typ correspondant :
+&lt;table class="w-100"&gt;
+ &lt;tr&gt;
+ &lt;th style="width:20%"&gt; Code &lt;/div&gt;&lt;/th&gt;
+ &lt;th&gt; GWL &lt;/th&gt;
+ &lt;th style="width:60%"&gt; Désignation &lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 501 &lt;/td&gt;
+ &lt;td&gt; Typ a) &lt;/td&gt;
+ &lt;td&gt; Prestations en attente (exclus prestations en attente pour l'urgence) &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 502 &lt;/td&gt;
+ &lt;td&gt; Typ a) &lt;/td&gt;
+ &lt;td&gt; Service de sauvetage et d'ambulance / Appel d'urgence 144 &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 503 &lt;/td&gt;
+ &lt;td&gt; Typ a) &lt;/td&gt;
+ &lt;td&gt; Unités d'hôpital protégées &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 504 &lt;/td&gt;
+ &lt;td&gt; Typ a) &lt;/td&gt;
+ &lt;td&gt; Jardins d'enfants et écoles pour les patients &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 505 &lt;/td&gt;
+ &lt;td&gt; Typ a) &lt;/td&gt;
+ &lt;td&gt; Services sociaux pour patients &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 506 &lt;/td&gt;
+ &lt;td&gt; Typ a) &lt;/td&gt;
+ &lt;td&gt; Prévention / promotion de la santé &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 507 &lt;/td&gt;
+ &lt;td&gt; Typ a) &lt;/td&gt;
+ &lt;td&gt; Protection de la population &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 508 &lt;/td&gt;
+ &lt;td&gt; Typ a) &lt;/td&gt;
+ &lt;td&gt; Aumônerie hospitalière / lieu de recueillement &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 599 &lt;/td&gt;
+ &lt;td&gt; Typ a) &lt;/td&gt;
+ &lt;td&gt; Autres missions de l'hôpital &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 601 &lt;/td&gt;
+ &lt;td&gt; Typ b) &lt;/td&gt;
+ &lt;td&gt; Recherche, y compris le doctorat (MD et PhD) &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 602 &lt;/td&gt;
+ &lt;td&gt; Typ b) &lt;/td&gt;
+ &lt;td&gt; Formation universitaire de base (enseignement dispensé et formation reçue) &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 603 &lt;/td&gt;
+ &lt;td&gt; Typ b) &lt;/td&gt;
+ &lt;td&gt; Enseignement dispensé en formation postgraduée &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 701 &lt;/td&gt;
+ &lt;td&gt; Typ c) &lt;/td&gt;
+ &lt;td&gt; Maintien de surcapacités hospitalières pour des raisons de politiques régionales &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 702 &lt;/td&gt;
+ &lt;td&gt; Typ c) &lt;/td&gt;
+ &lt;td&gt; Maternité &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 703 &lt;/td&gt;
+ &lt;td&gt; Typ c) &lt;/td&gt;
+ &lt;td&gt; Tarifs ne couvrant pas les coûts (par ex. TARMED.) &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 799 &lt;/td&gt;
+ &lt;td&gt; Typ c) &lt;/td&gt;
+ &lt;td&gt; Autres prestations d'intérêt général liées à l'hôpital &lt;/td&gt;
+ &lt;/tr&gt;
+&lt;/table&gt;
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Les objets de coûts non reliés à un cas peuvent-ils être rattachés à un hôpital (burnr_gesv) au lieu d'un site ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="falldunabhangige"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Non, ce n'est pas possible.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Peut-on utiliser les types KTR plusieurs fois ? Par exemple, pour 599, livrer plusieurs lignes avec un texte libre différent dans la variable «ktr_beschr» ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="falldunabhangige"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Oui, c'est possible. Une unité finale d'imputation est attribuée à une colonne ITAR_K® sur la base de l'indication «ktr_typ». Ainsi, une des valeurs prédéfinies doit être utilisée dans la variable «ktr_typ». Il est toutefois possible d'indiquer plusieurs unités finales d'imputation avec le même type de KTR, par exemple pour le ktr_typ 205, une fois avec le texte libre «LAMal» et une fois avec le texte libre «CTM» dans la variable «ktr_beschr». Ces deux objets de coûts sont ensuite additionnés et représentés dans la colonne ITAR_K® «Psy. Hôpital de jour enfants, adolescents». En théorie, d'autres déclinaisons sont techniquement possibles, jusqu'au cas ambulatoire. Tant qu'ils présentent tous le même type KTR, ils sont additionnés et représentés comme décrit.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+La partie CUFI est-elle également attendue pour les cas ambulatoires ou se rapporte-t-elle également exclusivement aux cas hospitaliers ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="falldunabhangige"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Pour pouvoir remplir ITAR_K®, les coûts des cas ambulatoires sont remplis sommairement par type de CUFI (p. ex. Tarif Dialyse).
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+&lt;/ol&gt;
+
+&lt;/div&gt;</description></item><item><title>Passerelle d'ajustement</title><link>https://spiges.github.io/handbook-test/fr/faq/abstimmungsbrucke/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/fr/faq/abstimmungsbrucke/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Ouvrir toutes les questions: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Tout ouvrir"
+ expanded-text="Tout fermer"
+ group-id="abstimmungsbrucke"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour tout développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Je connais la comptabilité des ajustements dans SDEP. Est-ce qu'elle existera aussi dans SpiGes ou seulement selon ITAR_K® ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="abstimmungsbrucke"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+SpiGes utilise la passerelle d'ajustement de la CDS / de REKOLE®.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Où les justifications des délimitations sont-elles intégrées dans l'OFS ? Ou comment dois-je comprendre cela ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="abstimmungsbrucke"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Les justifications sont saisies en tant que contrôles dans SpiGes. Cela signifie que si un montant de la comptabilité financière et de la comptabilité analytique ne concorde pas, la différence doit être justifiée. Ces justifications sont ensuite utilisées, par exemple pour le rapport national de vérification et pour ITAR_K®, ou encore pour la passerelle d'ajustement de la CDS.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Où sont pris en compte les coûts des séjours à cheval dans la passerelle d'ajustement ? 
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="abstimmungsbrucke"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Dans la comptabilité par unité finale d'imputation de SpiGes, il est possible de calculer les coûts des patients sortis au cours de l'année (cas A). Ces coûts seront donc calculés par l'OFS. Ceux-ci peuvent déjà être entrés à l'hôpital l'année précédente et avoir généré des coûts. Dans la comptabilité financière, les charges sont saisies par année (calcul périodique). La différence qui en résulte est corrigée dans la passerelle d'ajustement de SpiGes.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Pour 2024 (données 2023), SwissDRG a demandé le détail des coûts d'utilisation des immobilisations des cas selon OCP. Dans SpiGes, les variables "_ank" permettent d'envoyer le détail des coûts d'utilisation des immobilisations des cas selon REKOLE®.
+Ce détail étant maintenant nécessaire à SwissDRG, ne faudrait-il pas prévoir dans SpiGes les variables "_ank" pour les résultats OCP également ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="abstimmungsbrucke"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Il ne s&amp;rsquo;agit que d&amp;rsquo;un relevé test de SwissDRG SA. Si le passage définitif à OCP devait avoir lieu, les coûts d&amp;rsquo;utilisation des immobilisations par centre de charges dans SpiGes seraient livrés selon OCP au lieu de REKOLE® et les coûts d&amp;rsquo;utilisation des immobilisations REKOLE® seraient relevés sous forme de somme.&lt;/li&gt;
+&lt;li&gt;En résumé, les coûts d&amp;rsquo;utilisation des immobilisations doivent être représentés selon les méthodes suivantes :&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Variables&lt;/th&gt;
+ &lt;th&gt;Méthodologie CUI&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Variables «ktr_10_ank» jusqu&amp;rsquo;à «ktr_77_ank»&lt;/td&gt;
+ &lt;td&gt;REKOLE®&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Variables «ktr_44_vkl»&lt;/td&gt;
+ &lt;td&gt;OCP&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;KS FIBU: SA6, en particulier var. A.15.06 jusqu&amp;rsquo;à A.15.06.05&lt;/td&gt;
+ &lt;td&gt;OCP&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;KS Passerelle d&amp;rsquo;ajustement: SA81-84&lt;/td&gt;
+ &lt;td&gt;OCP&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;KS Passerelle d&amp;rsquo;ajustement: SA85, var. A.17.22.25 jusqu&amp;rsquo;à A.17.24.28&lt;/td&gt;
+ &lt;td&gt;REKOLE®&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Le compte 441 ne rentre dans aucun calcul des coûts d'utilisation des immobilisations, ni selon OCP, ni selon REKOLE®. Pouvez-vous confirmer cela ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="abstimmungsbrucke"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;p&gt;Les coûts d&amp;rsquo;utilisation des immobilisations (selon REKOLE® et OCP) correspondent aux charges par nature suivante :&lt;/p&gt;</description></item></channel></rss>

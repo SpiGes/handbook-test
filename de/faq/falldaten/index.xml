@@ -1,0 +1,1563 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Falldaten on Handbuch SpiGes</title><link>https://spiges.github.io/handbook-test/de/faq/falldaten/</link><description>Recent content in Falldaten on Handbuch SpiGes</description><generator>Hugo</generator><language>de</language><atom:link href="https://spiges.github.io/handbook-test/de/faq/falldaten/index.xml" rel="self" type="application/rss+xml"/><item><title>Admninistratives</title><link>https://spiges.github.io/handbook-test/de/faq/falldaten/admninistratives/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/falldaten/admninistratives/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="admninistratives"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Werden im SpiGes-Datensatz die Fallklammer-Fälle (=zusammengeführter Fall) erwartet? ANQ erwartet im Bereich der Psychiatrie einen Datensatz mit den Einzelfällen, also nicht zusammengeführte Fälle. Gibt es bereits einen Austausch zwischen Ihnen und ANQ, bzgl. Nutzung des SpiGes-Datensatzes?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="admninistratives"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Die Fallzusammenführung wird in SpiGes gemäss den Richtlinien der SwissDRG AG gehandhabt. Wir sind mit dem ANQ im Austausch bezüglich der Handhabung der nicht zusammengeführten Fälle.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+fall_id_ch: Wer generiert diese Fallnummer und wird diese automatisch in Opale (ERP-System) hinterlegt? Bisher konnten wir die Fallidentifikation in beiden Dateien (BFS-Daten und Fallkostendatei) automatisch in Opale generieren.
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="admninistratives"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Die schweizweit eindeutige Fallnummer wird durch die SpiGes-Plattform generiert. Bei einem Datenexport aus der Plattform steht diese fall_id_ch den Datennutzern zur Verfügung.&lt;/li&gt;
+&lt;li&gt;Der Identifikator des Falls, die Variable fall_id wird durch die Spitäler generiert. Die Spitalsoftware (wie z.B. Opale) sollte weiterhin über diese Funktion verfügen.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Es gibt Variablen (z.B. Beatmung), wo im Zeitbezug «ganzer Fall» oder «Erhebungsjahr» steht. In den meisten Spitälern wird diese Position aber nicht auf der Zeitachse geführt, sondern einmalig auf dem Fall. Auch im bisherigen MS-Datensatz wurden solche Positionen immer nur für A-Fälle geliefert. Wie stellen Sie sich eine Lieferung von B/C-Fällen für diese Variablen vor?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="admninistratives"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Tatsächlich sind die Definitionen in diesem Aspekt vielleicht noch nicht für alle Variablen ganz detailscharf. Bis heute war es nicht festgelegt, ob diese Variablen für die B und C Fälle geliefert werden müssen. Grundsätzlich sollte es möglich sein, die Angaben zu liefern, nur so ist es mit den Daten möglich, Auslastungen zu berechnen. Allerdings dürfte es vielen Spitälern wie Ihnen gehen, dass Sie die Angaben für B und C-Fälle nicht haben. In diesem Fall können die Variablen für die B und C-Fälle leer gelassen werden.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wie ist der «interne Übertritt» definiert?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="admninistratives"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Übertritt von einem Bereich (Akut, Psychiatrie, Rehabilitation) in einen anderen Bereich desselben Spitals (burnr_gesv),&lt;/li&gt;
+&lt;li&gt;oder für die sogenannten Wartepatienten/-patientinnen.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Ist es möglich, eine Definition für den Wert «7 = Repatriierung» zu erhalten?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="admninistratives"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Rückführung eines Patienten oder einer Patientin mit Schweizer Hauptwohnsitz aus dem Ausland in die Schweiz, ohne spezielle Anforderungen an Transportmittel oder Begleitung.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wie ist eine «Verlegung» definiert? (z.B. die Codes «5 = Verlegung innerhalb 24 Std.» und «6 = Rückverlegung» der Variable Eintrittsart)
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="admninistratives"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+
+
+&lt;ul class="unordered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Die Variable Eintrittsart existiert bereits in der MS und hat sich mit SpiGes auch nicht verändert. Eine Verlegung grenzt sich vom internen Übertritt dadurch ab, dass diese nicht im gleichen Spital (BURGESV) geschieht, sondern spitalübergreifend (zwei unterschiedliche BURGESV). Die Definition richtet sich nach den Grundsätzen der SwissDRG AG, welche Sie hier finden: 
+
+
+
+
+
+
+
+
+&lt;a
+ href="https://www.swissdrg.org/de/akutsomatik/swissdrg-system-1302024/regeln-und-definitionen"
+ target="_blank" rel="noopener noreferrer"
+ &gt;Regeln und Definitionen&lt;/a
+&gt;
+
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Bei der Eintrittsart «6=Rückverlegung» wurde von der SwissDRG AG folgende Spezifizierung kommuniziert: Bei ununterbrochenem Spitalaufenthalt in einem anderen Spital von mehr als 18 Tagen und Rückkehr in das ursprüngliche Spital.
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Gemäss SwissDRG AG wird Rückverlegung nur genutzt als Eintrittsart, wenn der Patient &gt;18 Tage in einem anderen Spital war und wieder zurückkommt und somit ein neuer Fall eröffnet wird.
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Ein Patient, der nach &lt;18 Tage ins Spital zurückkommt, erhält die Eintrittsart-Angabe seines 1. Eintritts, weil er ja zusammengelegt wird.
+
+&lt;/li&gt;
+
+
+&lt;/ul&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wie werden Fälle, die von der Rehabilitation (Tarif ST-REHA) in die Langzeitpflege (Tarif «Pflegetaxe») des gleichen Betriebs übergehen codiert? Die Variablen 1.2.V02 und 1.5.V03 erlauben uns nicht, «Langzeitpflege, gleicher Betrieb» anzugeben.
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="admninistratives"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;p&gt;Dies war bereits bei der MS so; der Fall wechselt von Rehabilitation zu SOMED (gleicher Betrieb); bei Code 2 sind beide Möglichkeiten enthalten (gleicher Betrieb oder anderer Betrieb). Der Fall muss wie folgt kodiert werden:&lt;/p&gt;</description></item><item><title>Neugeborene</title><link>https://spiges.github.io/handbook-test/de/faq/falldaten/neugeborene/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/falldaten/neugeborene/</guid><description/></item><item><title>Psychiatrie</title><link>https://spiges.github.io/handbook-test/de/faq/falldaten/psychiatrie/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/falldaten/psychiatrie/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="psychiatrie"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Variable psy_zivilstand: Was ist mit dem Code "5 = unverheiratet" gemeint bzw. wie unterscheidet sich dieser von ledig etc.?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="psychiatrie"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+ Die Codeliste der Variable Zivilstand wird beim BFS einheitlich genutzt. Der Zivilstand «Unverheiratet» kann als Folge einer Ungültigerklärung der letzten Ehe oder als Folge einer Verschollenerklärung des letzten Ehepartners bzw. der letzten Ehepartnerin entstehen. Siehe Link:
+
+
+
+
+
+
+
+&lt;a
+ href="https://www.bfs.admin.ch/bfs/de/home/statistiques/population/effectif-evolution/etat-civil.html"
+ target="_blank" rel="noopener noreferrer"
+ &gt;Zivilstand&lt;/a
+&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Müssen bei Fallzusammenführungen in der Psychiatrie jeweils die Eintritts- und Austritts-HoNOS (CHOP-Codes) aller zusammengeführten Fälle gemeldet werden? Für die Codierung ist jedoch nur der Eintritts-HoNOS des ersten Falles und der Austritts-HoNOS des letzten Falles relevant.
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="psychiatrie"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;p&gt;Wir richten uns für die Statistik an die Vorgaben der Kodierung:&lt;/p&gt;</description></item><item><title>Diagnose</title><link>https://spiges.github.io/handbook-test/de/faq/falldaten/diagnose/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/falldaten/diagnose/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="diagnose"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+POA-Variable: Könnten Sie uns bitte sagen, zu welchem Zweck die Variable diagnose_poa verwendet wird?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="diagnose"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Die Angabe «POA» kann unter anderem zur Verbesserung der Qualität und der Patientensicherheit verwendet werden. Siehe z. B. die Mitteilung des Kantons Zürich zu diesem Thema: 
+
+
+
+
+
+
+
+&lt;a
+ href="https://www.zh.ch/content/dam/zhweb/bilder-dokumente/themen/gesundheit/gesundheitsversorgung/spitaeler_kliniken/daten_und_statistik_der_listenspitaeler/datenerhebung/poa_informationen.pdf"
+ target="_blank" rel="noopener noreferrer"
+ &gt;Present on admission - Informationen zur Erfassung (zh.ch)&lt;/a
+&gt;
+.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+ Variable «diagnose_zusatz»: Welche Angaben müssen hier bei Stern-Kodes und Kodes mit Ausrufezeichen gemacht werden?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="diagnose"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;p&gt;Bei Stern-Kodes wird hier der zugehörige Kreuz-Kode angegeben. Bei Kodes mit Ausrufezeichen, der zu präzisierende Kode. Stern-Kodes werden nicht als solche markiert, die Vergabe erfolgt gemäss ICD-10-GM.&lt;/p&gt;</description></item><item><title>Behandlungen</title><link>https://spiges.github.io/handbook-test/de/faq/falldaten/behandlungen/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/falldaten/behandlungen/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="behandlungen"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Variable «behandlung_id»: Gibt es hier Empfehlungen für die umzusetzende Reihenfolge in der Psychiatrie? Gerade die HoNOS-Items, die als CHOPs geliefert werden, sind ja diagnose- bzw. behandlungsunspezifisch.
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="behandlungen"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Gemäss Variablenbeschreibung gilt: &lt;br&gt;
+Eindeutige, fortlaufende Nummer der Behandlung. &lt;br&gt;
+1 = Behandlung 1 &lt;br&gt;
+2 = Behandlung 2 &lt;br&gt;
+3 = Behandlung 3 &lt;br&gt;
+(…) etc. -&amp;gt; Unbegrenzt &lt;br&gt;
+Für die Reihenfolge der Behandlungen sind die folgenden Kriterien empfohlen:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;Prozeduren zur Behandlung der Hauptdiagnose&lt;/li&gt;
+&lt;li&gt;Prozeduren zur Behandlung der Nebendiagnosen&lt;/li&gt;
+&lt;li&gt;Prozeduren zur Bestimmung der Hauptdiagnose&lt;/li&gt;
+&lt;li&gt;Prozeduren zur Bestimmung der Nebendiagnosen&lt;/li&gt;
+&lt;li&gt;Weitere Prozeduren&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Für die HoNOS-Items würden wir eine chronologische Nummerierung empfehlen (frühere HoNOS-Messungen = tiefere IDs, spätere HoNOS-Messungen = höhere IDs).&lt;/li&gt;
+&lt;/ul&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Behandlung_chop: Müssen Behandlungen mit oder ohne Punkt geliefert werden?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="behandlungen"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Ohne Punkte.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wir sorgen uns etwas, dass insbesondere in der Anfangszeit diese Daten nicht vollständig erfasst werden und es zu vielen Nacharbeiten kommen könnte. Daher würden wir gern bei den betroffenen CHOP-Codes das Feld als Muss-Feld definieren. Gibt es für den CHOP-Katalog eine Zuordnung, welche Codes als Operativ bzw. interventionell gelten?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="behandlungen"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Das BFS ist sich bewusst, dass bei Einführung dieser neuen Angabe die Daten unvollständig sein werden. Nach der üblichen Konsolidierungsphase wird sich zeigen, welche Präzisierungen nötig sind. Es ist gar nicht möglich, für jeden CHOP-Kode eindeutig zu bestimmen, ob er eine Angabe der Zeit erfordert oder nicht. Es sind andere Merkmale, die hier massgeblich sind: ob die Behandlung in einem Zusammenhang mit der Benützung eines Operationssaals oder eines Herzkatheterlabors steht.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Operierende: Hier haben wir ein Verständnisproblem bei der Interpretation der Vorgaben des XML-Files. In der Variablenbeschreibung steht, dass pro Operation maximal zwei Operierende angerechnet werden können. In der Übersicht ist beim Attribut aber nicht zu erkennen, ob dies mehrfach exportiert werden kann.
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/Image1.jpg" alt="no description available" style="margin-bottom:1rem;" /&gt;
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="behandlungen"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Wie viele Operateure einer Operation angerechnet werden können, ist eine konzeptuelle Frage und kann von Kanton zu Kanton unterschiedlich sein (in der Regel 2 ist ein Richtwert!). Technisch lassen sich mehrere Operierende erfassen.
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/Image2.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Variable «behandlung_auswaerts»: Können Sie die Zuordnung der Ausprägungen dieser Variable genauer definieren und den Zusammenhang mit der episode_art=5 (ambulante Behandlung auswärts) erläutern?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="behandlungen"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Der Begriff Krankenhausareal ist unscharf. Wir haben hierzu folgendes Schema gemacht:
+
+&lt;p&gt;Legende:&lt;/p&gt;</description></item><item><title>Medikamente</title><link>https://spiges.github.io/handbook-test/de/faq/falldaten/medikamente/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/falldaten/medikamente/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="medikamente"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Variable «medi_id»: Die Leistungsnummern können bei unseren Kunden alphanumerisch sein, die Variable ist nur numerisch vorgesehen. Wäre es hier auch möglich, den Pharmacode oder den GTIN zu exportieren?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="medikamente"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Diese Variable musste aus rein technischen Gründen hinzugefügt werden (XML Struktur) und stellt eine eindeutige Zeilennummer der thematischen Tabelle «Medikamente» dar. Solange die Variable eindeutig und vollständig ausgefüllt wird, wären theoretisch auch Pharmacode oder GTIN als Angabe möglich. Das BFS bezweifelt jedoch, ob diese Bedingungen für restlos alle Medikamente eingehalten werden könnten. Für gewisse liegen diese Infos einfach noch nicht vor.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+&lt;/ol&gt;
+
+&lt;/div&gt;</description></item><item><title>Rechnungen</title><link>https://spiges.github.io/handbook-test/de/faq/falldaten/rechnungen/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/falldaten/rechnungen/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="rechnungen"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Wird für jede gestellte Rechnung - und jedes Zusatzentgelt - eine Zeile exportiert?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="rechnungen"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Es ist dieselbe Granularität, wie die Zeilen auf den verschickten Rechnungen anzugeben. Wurde z.B. für einen grundversicherten Fall eine Fallpauschale sowie ein Zusatzentgelt abgerechnet und der Grundversicherung sowie dem Kanton in Rechnung gestellt, so sind vier Zeilen zu liefern (1.Pauschale an Kanton, 2.Zusatzentgelt an Kanton, 3.Pauschale an Versicherer, 4.Zusatzentgelt an Versicherer).
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wie werden die entsprechenden Felder ausgefüllt für Rechnungen, die nicht über SwissDRG, TARPSY oder ST Reha abgerechnet werden?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="rechnungen"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Grundsätzlich analog Forum Datenaustausch, einfach nur für die stationären Behandlungen.&lt;/li&gt;
+&lt;li&gt;Tariftyp, Betrag und Menge sollten klar sein.&lt;/li&gt;
+&lt;li&gt;Felder, die bei anderen Tarifen keinen Sinn machen, können leer gelassen werden.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wie sind Angaben zu den Fällen bzw. Rechnungen zu liefern, wenn letztere zum Exportzeitpunkt storniert sind?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="rechnungen"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Die Angaben zu den Fällen sind zu liefern. Bei den Rechnungen ist der letzte Stand zu liefern, im Falle von stornierten Rechnungen also nichts.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wie sind Angaben zu A-Fällen zu liefern, die zum Exportzeitpunkt noch nicht fakturiert sind?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="rechnungen"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Die Angaben zu den Fällen sind zu liefern. Bei den Rechnungen ist der letzte Stand zu liefern, also nichts.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+&lt;!--Variable «rech_unfallnr»: Für die Angaben dieser Nummer ist das Feld auf 17 Zeichen beschränkt. Nun zirkulieren in älteren Systemen auch 20-stellige Schadensnummern. Wie müssen wir vorgehen?--&gt;
+Variable «rech_unfallnr»: Für die Angaben dieser Nummer ist das Feld auf 17 Zeichen beschränkt. Nun zirkulieren aber auch 32-stellige Schadensnummern. Wie müssen wir vorgehen?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="rechnungen"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+&lt;!--In Absprache mit der Zentralstelle für Medizinaltarife UVG (ZMT) können die ersten drei Stellen gestrichen werden. Zum Beispiel würde die folgende Schadennummer 01.05.01.23.009999.3 als Nummer 05.01.23.009999.3 gesendet, d.h. ohne den Prefix ‘01.'--&gt;
+Wir werden die Anzahl Zeichen auf 50 erweitern.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Element Rechnung - Zeitbezug = "Jahresende": Verstehen wir das richtig, dass für jeden Austritt (im Erhebungsjahr) Rechnungsangaben zu liefern sind, sofern dieser Fall bis zum Zeitpunkt der Datenabgabe fakturiert wurde ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="rechnungen"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Sie haben unsere Vorgaben richtig interpretiert. Wir möchten den aktuellsten Stand der Rechnungen zum Zeitpunkt der Datenlieferung. Es soll nicht der Fakturierungsstand Ende Jahr abgebildet werden.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+&lt;/ol&gt;
+
+&lt;/div&gt;</description></item><item><title>Patientenbewegung</title><link>https://spiges.github.io/handbook-test/de/faq/falldaten/patientenbewegung/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/falldaten/patientenbewegung/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="patientenbewegung"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Gelten der Eintritt und Austritt auch als Episode?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="patientenbewegung"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Eintritt und Austritt werden wie bisher unter Eintrittsdatum und Austrittsdatum angegeben. Falls der Fall nicht transferiert wurde, werden keine Episoden erfasst. Sobald es aber zu einem Transfer kommt (z.B. ein Zwischenaustritt) wird Episode 1 vom Eintrittsdatum bis zum Zwischenaustritt erfasst. Episode 2 beginnt beim Zwischenausstritt und endet mit dem Wiedereintritt. Episode 3 beginnt mit dem Wiedereintritt und endet mit dem nächsten Transfer (z.B. Urlaub). Dies kann für den gleichen Fall in mehrere Episoden enden (siehe Abbildung). Die letzte Episode (9) endet mit dem Austrittsdatum. Episoden sind die Abschnitte vor und nach einem Standortwechsel eines Falls, Zwischenaustritte / Wiedereintritte, externe ambulante Behandlungen, Urlaube und Belastungserprobungen. 
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/Image3.jpg" alt="no description available" style="margin-bottom:1rem;" /&gt;
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wird ein Fall, der den Standort wechselt, in beiden Standorten geführt?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="patientenbewegung"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Nein, jeder Fall wird nur am Hauptstandort geführt, auch wenn er innerhalb eines Spitals (BURGESV) von einem Standort zum anderen verlegt wird. Wechselt ein Patient in ein anderes Spital (BURGESV), ist ein neuer Fall zu eröffnen. 
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Variablen "wiedereintritt_aufenthalt" und "grund_wiedereintritt": Wieso können diese Angaben nur für A Fälle gemacht werden, wenn sämtliche Episodenangaben für ABC Fälle gedacht sind?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="patientenbewegung"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Abklärungen mit der SwissDRG AG haben ergeben, dass die beiden Variablen "wiedereintritt_aufenthalt" und "grund_wiedereintritt" für Statistikfälle ABC angegeben werden können. Wir werden dies im Variablenbeschrieb 1.4 anpassen.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+episode_id: Wir sind der Meinung, dass für unsere Klinik bei den stationären Fällen keine Episoden unterschieden werden müssen, da wir keine Standortwechsel innerhalb des Spitals verzeichnen. Ist das unsererseits richtig verstanden?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="patientenbewegung"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Die Vermutung trifft zu, was Episoden aufgrund von Standortwechseln betrifft. Episoden aufgrund von Zwischenaustritten/Wiedereintritten, Urlaub, Belastungserprobung oder ambulanten Behandlungen auswärts sind jedoch zu erfassen.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Verstehen wir dies richtig, dass z.B. der Eintritt bis zur ambulanten Behandlung auswärts bereits eine Episode ist? Wir haben also zwischen Urlauben, Belastungserprobungen und auswärtigen Behandlungen immer eine episode_art="1"?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="patientenbewegung"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Richtig
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wir haben zum Beispiel keine Standortwechsel innerhalb desselben Spitals. Verstehen wir es richtig, dass bei der episode_art="1" immer die BUR Nummer Standort des Spitals anzugeben ist?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="patientenbewegung"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Richtig
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Die Zeitangabe für die Rückkehr von der ambulanten Behandlung auswärts wird unseres Wissens nach nicht dokumentiert. Eventuell wird dies aber in den Krankenhausinformationssystemen der Spitäler erfasst. Ist diese Angabe zwingend?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="patientenbewegung"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Ja, Datum und Stundenangabe müssen für alle Episoden sowohl für den Beginn als auch für das Ende geliefert werden. Falls das Ende einer ambulanten auswärtigen Behandlung nicht erfasst wird, empfehlen wir diese Erfassung zu ergänzen. Sollte dies nicht (so rasch) möglich sein, empfehlen wir für ambulante auswärtige Behandlungen einen Standarddauer zu verwenden.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Die Angabe der BURNR des auswärts behandelnden Spitals ist fakultativ, richtig?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="patientenbewegung"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Ja, bei externen ambulanten Behandlungen kann die BUR-Nummer des behandelnden Standorts angegeben werden, falls diese bekannt ist.
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/Image4.jpg" alt="no description available" style="margin-bottom:1rem;" /&gt;
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Variable «wiedereintritt_aufenthalt»: Uns ist noch nicht ganz klar, was bei der episode_art=1 (also wenn der Patient im Spital anwesend ist) in der Variablen wiedereintritt_aufenthalt exportiert werden muss.
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="patientenbewegung"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+wiedereintritt_aufenthalt wird nur bei episode_art=2 ausgefüllt, bei allen anderen episode_arten wird diese Variable nicht erfasst.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Variablen «episode_art=3 (Urlaub)» und «admin_urlaub»: Das Format der Episoden ist JJJJMMDDHH. Die Episoden kennen also keine Minuten. In der Definition steht, dass Urlaube nur angegeben werden sollen, wenn sie grösser als 24 Stunden sind.
+Muss ein Urlaub ab 24 Stunden und 20 Minuten angegeben werden oder erst ab 25 Stunden?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="patientenbewegung"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Gemäss den Regeln und Definitionen zur Fallabrechnung der SwissDRG AG zählen auch die Minuten als Kriterium, ob die 24h-Marke überschritten wurde. Hier werden zusätzlich zur episode_art=3 (Urlaub) noch bei der Variable admin_urlaub (ehemalig 1.3.V04 in der MS) die Anzahl Stunden erfasst. Dort steht, dass nur vollendete Stunden erfasst werden. Somit würde bei Ihrem Beispiel von einem Urlaub von 24h und 20 Minuten der Wert 24h angegeben.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+&lt;/ol&gt;
+
+&lt;/div&gt;</description></item><item><title>Kostenträger Fall</title><link>https://spiges.github.io/handbook-test/de/faq/falldaten/kostentraeger_fall/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/falldaten/kostentraeger_fall/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="kostentraeger"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Wie sollen die Kosten für forensische C-Fälle (mehrere Jahre Liegedauer) eingereicht werden? Für den ganzen Fall (ganze Liegedauer) oder nur die Kosten für das jeweilige Kalenderjahr und der Rest über Abgrenzungen?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="kostentraeger"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Für B- und C-Fälle sind die Kosten im Kalenderjahr anzugeben, für A-Fälle die Kosten über die ganze Falldauer. Für ambulante und nicht-fallbezogene Kostenträger auch die Kosten im Kalenderjahr. Siehe auch Spalte «Zeitbezug» der Variablenliste.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Zuschläge für Anlagenutzungskosten (ANK) bei den Einzelkosten: Auf den Einzelkosten (Medizinischer Bedarf 400 und 401) dürfen gemäss REKOLE® ANK-Zuschläge erfasst werden. Für diese KTR-Variablen existieren in SpiGes und im SwissDRG Kostendatensatz aber im Gegensatz zu den Gemeinkosten keine separaten ANK-Variablen, auf denen die Anlagenutzungskosten gemäss REKOLE angegeben werden können. In ITAR_K® müssen die Konten 400 und 401 ohne ANK-Zuschläge angegeben werden. Wie ist mit diesen ANK-Zuschlägen auf den Konten 400 und 401 zu verfahren?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="kostentraeger"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Die ANK-Zuschläge sind auf den Konten 400 und 401 nicht zu erfassen. Sie sind jedoch in den Total-Variablen der ANK einzuschliessen (ktr_44_vkl / ktr_44_rekole).&lt;/li&gt;
+&lt;li&gt;Die Variable ktr_44_rekole wird mit der Version 1.4 der Schnittstelle von einer berechneten in eine erhobene Variable umgewandelt (und im XML hinzugefügt), so dass damit ein Total ANK REKOLE® erhoben werden kann, das von der Summe der einzelnen KTR-Variablen abweicht.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Die rein ambulanten Standorte sind in SpiGes nicht in der Grundgesamtheit erfasst. ITAR_K® enthält die Kosten pro ambulanten Tarif. Auf welcher Ebene werden die rein ambulanten Kosten in SpiGes geliefert?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="kostentraeger"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;p&gt;Die Kosten der rein ambulanten Standorte werden im Element &lt;strong&gt;KostentraegerStandort&lt;/strong&gt; auf einen anderen Standortsebene oder im Element &lt;strong&gt;KostentraegerUnternehmen&lt;/strong&gt; auf Unternehmensebene geliefert werden (siehe fiktives xml Beispiel). Die Kosten werden nicht pro Patient (Fall) sondern pro ambulanten Tarif (ktr_typ, im Beispiel &amp;ldquo;301&amp;rdquo; = Tarif TARMED, KVG reine OKP) erfasst.&lt;/p&gt;</description></item></channel></rss>

@@ -1,0 +1,1376 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Allgemeine Angaben on Handbuch SpiGes</title><link>https://spiges.github.io/handbook-test/de/faq/allgemeine_angaben/</link><description>Recent content in Allgemeine Angaben on Handbuch SpiGes</description><generator>Hugo</generator><language>de</language><atom:link href="https://spiges.github.io/handbook-test/de/faq/allgemeine_angaben/index.xml" rel="self" type="application/rss+xml"/><item><title>Rollen und Stakeholder</title><link>https://spiges.github.io/handbook-test/de/faq/allgemeine_angaben/rollen/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/allgemeine_angaben/rollen/</guid><description>&lt;div class="faq-block "&gt;
+ 
+
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="Rollen"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Wen kontaktiert das Spital, wenn es inhaltliche Fragen betreffend der SpiGes Erhebung hat?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="Rollen"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Bei fachlichen oder technischen Fragen zur SpiGes wendet sich das Spital primär an seine zuständige kantonale Erhebungsstelle.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wie sieht die Rolle der Kantone, insbesondere der kantonalen Erhebungspartner, zukünftig aus?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="Rollen"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Die kantonalen Erhebungsstellen wirken bei der BFS Erhebung mit wie bisher (Grundgesamtheit, Koordination und Kommunikation Spital, Mahnwesen usw.).&lt;/p&gt;</description></item><item><title>Inhaltliche Anpassungen</title><link>https://spiges.github.io/handbook-test/de/faq/allgemeine_angaben/inhaltliche_anpassungen/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/allgemeine_angaben/inhaltliche_anpassungen/</guid><description>&lt;div class="faq-block "&gt;
+ 
+
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="anpassungen"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Welche Variablen ändern sich mit SpiGes?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="anpassungen"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+
+&lt;ul class="unordered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+SpiGes hat vor allem grössere Auswirkungen auf den Prozess der Datenprüfung und das Datenformat der Lieferung. Bei den medizinischen Angaben (heutige MS) ändern sich nur wenige Punkte. Die wichtigsten dürften für Sie die folgenden sein:
+
+&lt;ul&gt;
+&lt;li&gt;Die Hauptbehandlung wird abgeschafft.&lt;/li&gt;
+&lt;li&gt;Der Zusatz zur Hauptdiagnose wird abgeschafft.&lt;/li&gt;
+&lt;li&gt;Diagnosen und Behandlungen können neu in unbegrenzter Zahl erfasst werden.&lt;/li&gt;
+&lt;li&gt;Die chirurgische Leistungszeit wird bei operativen Prozeduren erfasst.&lt;/li&gt;
+&lt;li&gt;Der Behandlungsbeginn muss bei operativen Prozeduren mit der Uhrzeit (der Operation insgesamt) erfasst werden.&lt;/li&gt;
+&lt;li&gt;Der Bezug zwischen mehreren Diagnosen (Kreuz/Stern, Ausrufezeichen) wird neu mit einer Bezugsvariable (diagnose_zusatz) anstelle des Sonderzeichens erfasst.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Alle Änderungen am Datensatz sowie die genauen Details können Sie am besten nachvollziehen, wenn Sie die Variablenliste zur Hand nehmen und die Spalte «Neu/MS-Variable» filtern nach neuen und angepassten Variablen.
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Neu werden Rechnungsdaten und Kosten, resp. Erlöse pro Fall erhoben.
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Hier finden Sie den 
+
+
+
+
+
+
+
+&lt;a
+ href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/gesundheitswesen/projekt-spiges.assetdetail.25885643.html"
+ target="_blank" rel="noopener noreferrer"
+ &gt;kompletten Datensatz&lt;/a
+&gt;
+.
+
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Welche Auswirkungen hat SpiGes auf die Kodierrichtlinien?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="anpassungen"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Diese Informationen finden Sie im 
+
+
+
+
+
+
+
+&lt;a
+ href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk.html"
+ target="_blank" rel="noopener noreferrer"
+ &gt;Kodierungshandbuch&lt;/a
+&gt;
+.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Was ist der Inhalt des nationalen Prüfprotokolls?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="anpassungen"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Der genaue Inhalt des Prüfprotokolls hängt von den Prüfungen ab, welche aktuell mit einer Arbeitsgruppe mit allen Stakeholdern erarbeitet werden. Im Wesentlichen umfasst das Prüfprotokoll die Prüfungen, welche angeschlagen haben sowie die offiziellen Begründungen zu diesen Prüfungen (ein Auszug aus dem Chat zur Prüfung).
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Die Pilotspitäler werden bereits im Frühjahr 2024 einen ersten «Datensatz» erstellen können. Andere Kantone stellen die Anforderung, bis September ein erstes XML-Datenfile abzugeben. Werden bei diesen Abgaben Echtdaten aus einem Produktivsystem erwartet, oder reichen Testdaten aus einem Testsystem aus? Anders gefragt: Beginnt die «richtige» Auswertung erst mit dem Jahre 2025, oder will das BFS auch schon Echtdaten aus 2024 auswerten?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="anpassungen"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Für den Pilot im Frühjahr 2024 werden von den Pilotspitälern Echtdaten aus einem Produktivsystem erwartet. Diese werden nur analysiert, um Erkenntnisse über den Pilot zu gewinnen.&lt;/li&gt;
+&lt;li&gt;Per August 2024 müssen alle Spitäler (in allen Kantonen) einen Schnittstellentest durchführen, um zu zeigen, dass die technische Umsetzung der Schnittstelle funktioniert. Dafür genügen Teillieferungen auch aus Testsystemen.&lt;/li&gt;
+&lt;li&gt;Ab dem 1.1. 2025 müssen alle Spitäler Echtdaten des Jahres 2024 aus den Produktivsystemen liefern und diese bis Ende April vollständig prüfen und ggf. begründen.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+
+Vertauschte Werte: Uns ist aufgefallen, dass bei ein paar Variablen die Werte anders gegenüber der MS-Statistik sind. Als Beispiel gibt es hier den Vitalwert.
+MS-Statistik:
+0 = totgeboren
+1 = lebendgeboren
+Spiges (genau andersrum):
+0 = Lebendgeburt
+1 = Totgeburt
+
+
+&lt;br /&gt;
+
+Andere Beispiele wären hier die Schulbildung oder der Zivilstand. Das ist aus unserer Sicht nicht optimal und wir würden gerne wissen, ob dies beabsichtigt ist, und wenn ja, warum?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="anpassungen"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Das ist beabsichtigt. Im Sinne des "once only" haben wir die Codelisten und Metadaten in ein BFS System integriert, welches dann auch veröffentlicht wird. Die neuen Codelisten entsprechen jetzt dem schweizweiten Standard der Interoperabilitätsplattform i14y.admin.ch, vorher war es eine MS Sonderlösung.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Berechnete Werte: In der Variablenliste gibt es einige Zeilen die ausgegraut sind mit der Bemerkung berechnet (Beispiel uid). Heisst das, wir liefern sie im XML leer mit und das BFS wird diese berechnen und eintragen? Oder liefern wir diese Werte gar nicht mit und ignorieren sie?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="anpassungen"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Wie Sie dem XML Schema entnehmen können, sind diese berechneten Variablen nicht enthalten. Sie können diese ignorieren.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+&lt;/div&gt;</description></item><item><title>Grundgesamtheit und Erhebungseinheiten</title><link>https://spiges.github.io/handbook-test/de/faq/allgemeine_angaben/grundgesamtheit_erhebungseinheiten/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/allgemeine_angaben/grundgesamtheit_erhebungseinheiten/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="GGH"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Wird bei der Einführung von SpiGes bzw. zum Zeitpunkt der Definition der Grundgesamtheit für die erste SpiGes-Erhebung noch mit den herkömmlichen «Spitallisten» oder bereits mit SpiReg gearbeitet?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="GGH"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Bei der ersten SpiGes Erhebung (Daten 2024) im Jahre 2025 wird noch manuell die Grundgesamtheit KS in Form von Excellisten importiert.&lt;/li&gt;
+&lt;li&gt;Die bisherige BUR wird BURGESV heissen und der Identifikator des Spitals bleiben. Die Standort-BUR heisst ab den Daten 2024 (Erhebung 2025) BUR.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Was ist der Unterschied zwischen einem Spitalunternehmen, einem Spital und einem Spitalstandort?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="GGH"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Ein Spitalunternehmen, ist ein Unternehmen mit dem NOGA-Code 861001 (Allgemeine Krankenhäuser), 861002 (Spezialkliniken) oder 869004 (Geburtshäuser). Es ist mit der Identifikationsnummer ENTID eindeutig bezeichnet.&lt;/li&gt;
+&lt;li&gt;Das Spital ist in der SpiGes Erhebung eine Einheit, welche ein ITAR_K® ausfüllt und nach der sich die Falldefinition der SwissDRG AG richtet. Ein Spital ist mit der BUR-Nr. GESV gekennzeichnet, welche nur auf der Datenbank von GESV geführt wird.&lt;/li&gt;
+&lt;li&gt;Ein Spitalstandort ist mit der BUR-Nr. eindeutig gekennzeichnet und gehört immer zu genau einem Spitalunternehmen.
+Folgende Tabelle zeigt als Beispiel ein Unternehmen (UID/ENTID) mit 12 Spitälern (BURGESV) und 14 Standorten (BUR) :&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+&lt;img class="max-w-90" src="https://spiges.github.io/handbook-test/img/tableauFAQ1.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Welche Begriffe werden in der SpiGes Erhebung synonym für Spitalunternehmen, Spital und Spitalstandort verwendet?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="GGH"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Ebene&lt;/th&gt;
+ &lt;th&gt;Begriffe synony&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Spitalunternehmen&lt;/strong&gt;&lt;br&gt;juristische Einheit&lt;/td&gt;
+ &lt;td&gt;(Spital-)Unternehmen&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Spital&lt;/strong&gt; (gemäss Angabe Kanton, Erhebung MS/KS, Falldefinition)&lt;/td&gt;
+ &lt;td&gt;Spital, Klinik, (Spital-)Betrieb&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Spitalstandort&lt;/strong&gt;&lt;br&gt;lokale Einheit&lt;/td&gt;
+ &lt;td&gt;(Spital-)Standort&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wie wird festgestellt, zu welchem Spital (burnr_gesv) ein Standort (burnr) gehört?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="GGH"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Die Zuordnung der Standorte (BUR) zu den Spitälern (BURGESV) erfragen wir bei der Erhebung der Grundgesamtheit. In diesem Prozess sind es die Kantone, die uns in Zusammenarbeit mit den Krankenhäusern die Informationen geben.&lt;/li&gt;
+&lt;li&gt;Die burnr_gesv wird auf Wunsch unserer Partner auch erhoben.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Was versteht man unter einer Hauptleistungsstelle (z.B. M000, M050)?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="GGH"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Eine Leistungsstelle ist eine organisatorische Einheit im Spital, in der u.a. medizinische, medizinisch-technische oder medizinisch-therapeutische Leistungen erbracht werden. In der SpiGes Erhebung wird angegeben, in welcher medizinischen Hauptleistungsstelle der Patient behandelt wird.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wenn ein Spital mehrere Standorte hat, wird ein Fall immer nur an einem Standort erfasst, auch wenn er von einem Standort zu einem anderen Standort desselben Spitals verlegt wurde?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id=""
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Ja, ein Fall wird immer nur an einem Standort erfasst und zwar am Hauptstandort (vgl. variable burnr).
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+&lt;/ol&gt;
+
+&lt;/div&gt;</description></item><item><title>ITAR_K®</title><link>https://spiges.github.io/handbook-test/de/faq/allgemeine_angaben/itar_k/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/allgemeine_angaben/itar_k/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="ITARK"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+
+&lt;li class="list-item "&gt;
+ 
+SpiGes erhebt nur Informationen zu den stationären Fällen. Wie kann der ambulante Teil des ITAR_K® ausgefüllt werden?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="ITARK"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+ITAR_K® kann mit den SpiGes Daten erstellt werden. Die ambulanten Angaben werden in den dafür vorgesehenen KTR Typen erhoben (z.B. Tarif Labor).
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wie wird ITAR_K® von Kliniken erstellt, welche nur Teil eines Spitalunternehmens sind? (z.B. Klinik St. Anne von Fribourg ist Teil der Swiss Medical Network AG)
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="ITARK"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Die Klinik St. Anne von Fribourg wird die Finanzbuchhaltung (und alle anderen Angaben) in der Krankenhausstatistik pro Klinik (Ebene BURGESV) ausfüllen. Die Kosten aus SpiGes lassen sich nach BURGESV aggregieren.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Die Kostendaten muss man bis zum 31.3 erfassen. Müssen diese Daten revidiert sein? Aktuell könnten wir das nicht umsetzen da der Jahresabschluss erst Ende März revidiert wird.
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="ITARK"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Bei dieser Frist müssen die Kostendaten erstmals automatisch auf der SpiGes Plattform geprüft sein. Die Revision kann später erfolgen.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wir finden keine SpiGes-Variable, die es ermöglichen würde, die direkt mit einem Fall verbundenen GWL-Kosten/Erlöse in die dafür vorgesehene GWL Spalte im ITAR_K® zu überführen. Wie wird die GWL-Spalte von ITAR_K® mit den SpiGes Daten berechnet?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="ITARK"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Es gibt keine direkt fallbezogenen Kosten/Erlöse von gemeinwirtschaftlichen Leistungen (GWL). SpiGes hält sich bei der Abbildung der GWL an die Rechtsprechung und die Empfehlungen des Spitalverbandes H+ und dessen Branchenlösung REKOLE®.&lt;/li&gt;
+&lt;li&gt;Gemäss REKOLE® kann es innerhalb von Spitalbetrieben GWL für spezielle Aufgaben und/oder für die Forschung und universitäre Ausbildung geben. Die Kosten und Erlöse für diese Leistungen werden über klar definierte Aufträge verbucht (Kap. 9.10 von REKOLE®). REKOLE® sieht auch vor, dass die Erlöse aus anderen Beiträgen für die Aufrechterhaltung von Spitalkapazitäten aus regionalpolitischen Gründen oder für nicht kostendeckende Tarife auf Kosten-/Erlösträger verbucht werden, die nur Erlöse enthalten. Diesen Erlösen steht jedoch keine definierte Leistung gegenüber. Sie dürfen daher keinen Einfluss auf die Kosten der stationären Betrieben haben (Kap. 9.11.3 von REKOLE®).&lt;/li&gt;
+&lt;li&gt;In der SpiGes-Variablenliste Version heisst es in der Beschreibung der Variablen „ktr_typ“: &amp;ldquo;Hier ist die Art des Kostenträgers anzugeben: Fall (=1) oder &lt;strong&gt;Auftrag&lt;/strong&gt; mit genauen Unterkategorien; die Ausprägungen sind dem separaten Tabellenblatt &amp;ldquo;KTR-Typen&amp;rdquo; zu entnehmen (KTR=Kostenträgerrechnung). &lt;strong&gt;Für alle GWL und Nebenbetriebe muss eine separate Zeile ausgefüllt werden&lt;/strong&gt;. Genauere Angaben zu den kostenträgerspezifischen Vorgaben sind dem Tabellenblatt &amp;ldquo;KTR-Typen&amp;rdquo; zu entnehmen. Diese Variable ist für die Zuteilung der Fälle auf die Spalten in ITAR_K® relevant&amp;rdquo;. Die Kosten/Erlöse der GWL werden also von SpiGes über im Erhebungsteil KTR erhoben und als Summe in der Spalte GWL der ITAR_K®-Datei abgefüllt.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- avant input H+:
+-	Bei der Abbildung der gemeinwirtschaftlichen Leistungen hält sich SpiGes grundsätzlich an die Rechtsprechung und die Empfehlungen des Spitalverbandes H+. REKOLE® sieht vor, dass die Kosten der fallbezogenen gemeinwirtschaftlichen Leistungen auf dem Fall, die Erlöse jedoch auf einem separaten GWL-Kostenträger abgebildet werden. Kosten und Erlöse von fallunabhängigen GWL werden ebenfalls auf einem separaten GWL-Kostenträger abgebildet.
+-	Aus technischer Sicht ist es möglich, von den Vorgaben von REKOLE® abzuweichen. Die Kosten und Erlöse der fallbezogenen GWL könnten auch auf einem eigenen Kostenträger (Typ KTR 700-799) erfasst werden. Dies liegt im Ermessen des Kantons. Wichtig ist in diesem Fall, dass die Kosten und Erlöse für die OKP-Leistungen trotzdem auf dem Fall erfasst werden (Typ KTR = 1).--&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+ITAR_K® kann sowohl auf Unternehmens als auch auf Standort-Ebene ausgefüllt werden. Was wird in SpiGes verlangt? Liegt die Entscheidung dazu bei den Kantonen?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="ITARK"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;ITAR_K® wird immer auf der Ebene BURGESV ausgefüllt, diese Ebene muss mit der Erhebung der KS übereinstimmen. Die Informationen dazu liefert der Kanton in der Erhebung der Grundgesamtheit an das BFS. Insofern hat der Kanton einen Einfluss. Er muss sich aber mit dem Spital absprechen.&lt;/li&gt;
+&lt;li&gt;ITAR_K® stellt das Grundinstrument für die Verhandlungen der Spitäler mit den Versicherern dar. Ob dabei der Kanton bezüglich Granularität mitbestimmt, ist abhängig davon ob es sich um ein Listenspital, ein Vertragsspital oder ein Ausstandspital handelt.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Ab wann wird das ITAR_K® ab der SpiGes Plattform generiert werden?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="ITARK"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Das zentrale Instrument für Tarifierung und Wirtschaftlichkeitsprüfung soll in Zukunft durch SpiGes erstellt werden. Um einen sicheren Übergang sowie die Korrektheit zu gewährleisten, ist ein Parallelbetrieb der alten und neuen Plattform (H+ resp. SpiGes) zur Erstellung von ITAR_K® vorgesehen. Im Jahr 2025 (Daten 2024) werden die offiziellen ITAR_K® noch wie bisher von der H+-Plattform erstellt. Ab September 2025 erhalten alle Spitäler zudem die Möglichkeit, die ITAR_K® 2025 (Daten 2024) über SpiGes zu erstellen und die beiden Resultate zu vergleichen. So können allfällige Unklarheiten noch vor der produktiven Einführung der ITAR_K® -Erstellung über SpiGes im Jahr 2026 (Daten 2025) ausgeräumt werden.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Was ist, wenn der Fall noch nicht abgerechnet ist, dann fehlen die Informationen aus den Rechnungsdaten bezüglich CM und Zusatzentgelte?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="ITARK"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+In ITAR_K® werden die Grouper-Ergebnisse für diese Informationen verwendet. Nur für die Beträge der unbewerteten Zusatzentgelte werden die Rechnungsdaten herangezogen.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Beim Herunterladen von ITAR_K® sind die Zellen für Nebenbetriebe und Überlieger leer. Warum ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="ITARK"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Gemeinsam mit H+ wurde beschlossen, diese Felder vorerst leer zu lassen und von den Spitälern ausfüllen zu lassen. Diese Felder sind lila markiert (ab Version 16 von ITAR_K®), um zu zeigen, dass SpiGes diese Felder nicht ausfüllt.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Warum sind die Kosten für die VKL-Hotellerie (Zeilen 38-40) negativ ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="ITARK"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Diese Zeilen werden in ITAR_K® berechnet. Ausserdem erfasst SpiGes keine Details zur VKL-Hotellerie (sondern nur REKOLE), daher müssen diese Beträge von den Spitälern ergänzt werden. Sobald die Zeilen ausgefüllt sind, sind die Beträge positiv und korrekt. 
+
+&lt;ul&gt;
+&lt;li&gt;Grün: wird von SpiGes ausgefüllt&lt;/li&gt;
+&lt;li&gt;Lila: wird vom Spital ausgefüllt&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/itark_hot_ocp_de.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Die Beträge für die in ITAR_K® unbewerteten Zusatzentgelte werden nicht übernommen. Wie muss vorgegangen werden, damit SpiGes diese übernehmen kann ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="ITARK"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+SpiGes übernimmt die Angaben aus der Rechnung. Um die Verbindung herzustellen, verwendet SpiGes zwei Dinge: rech_tariftyp 11-21-31, was den Zusatzvergütungen gemäss ForumDatenaustausch entspricht, und den Code für die Zusatzentgelte unter rech_tarifcode.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Die Spaltennamen für die vom Spital im ambulanten Bereich festgelegten Tarife werden in ITAR_K® nicht übernommen. Warum ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="ITARK"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+SpiGes enthält mehr KTR_TYP als in ITAR_K® für diese Tarife erforderlich. Die Unterscheidung zwischen KVG, Zusatzversicherung und Selbstzahler wird in ITAR_K® nicht mehr getroffen. Wie im Entscheidungsbaum angegeben, sind diese Spalten in ITAR_K® wie folgt definiert:
+
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;ITAR_K®-Spalte&lt;/th&gt;
+ &lt;th&gt;KTR_TYP&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;übrige ambulante Tarife&lt;/td&gt;
+ &lt;td&gt;371,372,373&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;übrige ambulante Tarife&lt;/td&gt;
+ &lt;td&gt;374,375,376&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;übrige ambulante Tarife&lt;/td&gt;
+ &lt;td&gt;377,378,379&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;übrige ambulante Tarife&lt;/td&gt;
+ &lt;td&gt;380,381,382,402&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+ 
+Wenn in der KTR_BESCHR eine Unterscheidung getroffen wird, erscheint in SpiGes eine Fehlermeldung, die darauf hinweist. Wenn die KTR_BESCHR für eine ITAR_K®-Spalte nicht identisch ist, kann SpiGes nicht entscheiden, welche korrekt ist. 
+
+
+&lt;br /&gt;
+
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/itark_erreur_tarifambu_de.png" alt="no description available" style="margin-bottom:1rem;" /&gt; 
+
+
+&lt;br /&gt;
+
+SpiGes weist Sie jedoch darauf hin, dass Sie diesen Spaltennamen manuell ergänzen müssen: 
+
+
+&lt;br /&gt;
+
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/itark_tarifambu.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Patientenadministration (ambulant): ist es immer möglich, zwischen einer manuellen und einer automatischen Aufteilung zu wählen ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="ITARK"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Um die Zeile ITAR_K® ambulante Patientenadministration auszufüllen, berücksichtigt SpiGes die zwei Möglichkeiten (manuelle oder automatische Aufteilung). Der Betrieb kann:
+
+&lt;ul&gt;
+&lt;li&gt;ktr_10 unter KTR_typ = 403 verwenden (zu verteilender Gesamtbetrag).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Wenn der Betrieb eine Kombination aus beiden verwendet, wird der Gesamtbetrag auf &lt;strong&gt;alle&lt;/strong&gt; ambulanten Aktivitäten aufgeteilt und zu den Einzelbeträgen &lt;strong&gt;addiert&lt;/strong&gt;.&lt;/p&gt;</description></item><item><title>Abgrenzung der Fälle</title><link>https://spiges.github.io/handbook-test/de/faq/allgemeine_angaben/fall/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/allgemeine_angaben/fall/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="Fall"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Sind stationäre Begleitpersonen auch Bestandteil der Datenlieferung SpiGes ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="Fall"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Grundsätzlich sind Begleitpersonen (Eltern, Kinder, Partner) keine stationären Fälle, diese beanspruchen reine Hotelleriedienste (ohne medizinische Leistung) und werden nicht erfasst (war schon bei der MS so).
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wie sind die Wartepatienten in SpiGes zu liefern ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="Fall"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;p&gt;Die &lt;em&gt;Wartepatienten&lt;/em&gt; (unterschiedliche Nomenklaturen je nach Kanton) sind Fälle, welche keine akute Spitalpflege mehr benötigen, die aber nicht entlassen werden können, weil sie noch auf eine Anschlusslösung warten. Es sind zwei Fälle zu führen. Der erste Fall bildet die normale Behandlung während des akuten Spitalpflegebedarfs ab und wird nach SwissDRG, ST Reha, TARPSY oder anderen Spitaltarifen abgerechnet. Der zweite Fall ist der Wartefall ohne den Bedarf der Spitalpflege.&lt;/p&gt;</description></item><item><title>Kantonale Plausibilisierung</title><link>https://spiges.github.io/handbook-test/de/faq/allgemeine_angaben/kantonplausi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/allgemeine_angaben/kantonplausi/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="Kantonplausi"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Wann sollen die Kantone Fehler als OK markieren und wann sollen sie sie als fehlerhaft markieren?
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/fehlerhaft_de.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="Kantonplausi"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;p&gt;&lt;strong&gt;Fälle als OK markieren (√):&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Wenn die Begründung der Spitäler korrekt ist…
+oder&lt;/li&gt;
+&lt;li&gt;Wenn in diesem Jahr keine Korrektur mehr möglich ist und der Umfang des Fehlers begrenzt ist.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;In diesem zweiten Fall sollte das Spital die Daten für die Datenlieferung des kommenden Jahres korrigieren.&lt;/em&gt;
+ &lt;/p&gt;</description></item></channel></rss>

@@ -1,0 +1,6156 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SpiGes Handbuch on Handbuch SpiGes</title><link>https://spiges.github.io/handbook-test/de/</link><description>Recent content in SpiGes Handbuch on Handbuch SpiGes</description><generator>Hugo</generator><language>de</language><atom:link href="https://spiges.github.io/handbook-test/de/index.xml" rel="self" type="application/rss+xml"/><item><title>22.07.2025</title><link>https://spiges.github.io/handbook-test/de/release_notes/2025_07_22/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/release_notes/2025_07_22/</guid><description>&lt;div class="release-notes"&gt;
+ &lt;h2&gt;
+ Versionshinweise
+ 
+ 
+
+ &lt;/h2&gt;
+ &lt;br /&gt;
+ &lt;p&gt;Ein neuer SpiGes Release wurde freigeschaltet.&lt;/p&gt;
+
+ 
+
+&lt;div class="release-notes-improvements"&gt;
+ &lt;h3&gt;Folgende Anpassungen wurden gemacht&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Ab sofort können Daten auf Unternehmensebene importiert werden. Dies betrifft besonders die «ktr_unternehmen». Einige Unternehmen erfassen auf dieser Ebene die ambulanten Kosten, gemeinwirtschaftliche Leistungen oder Nebenbetrieben.&lt;br&gt;
+&lt;strong&gt;Wichtig: Auch wenn die Spitäler bereits zu einem früheren Zeitpunkt Datenfiles mit Unternehmensdaten hochgeladen haben, wurden diese nicht in die Datenbank geschrieben. Die Unternehmensdaten können erst ab heute hochgeladen und kommentiert werden.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;div class="release-notes-fixed-bugs"&gt;
+ &lt;h3&gt;Folgende Bugs wurden behoben&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Der «weiter» Knopf kann wieder aktiviert werden, wenn der Datenimport abgeschlossen ist.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/bug_suivant_d.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+&lt;ul&gt;
+&lt;li&gt;Um mehr Spitäler auf der Liste zu sehen (für Kantone) wurde der Kopfteil anders dargestellt.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/bug_liste_hop_d.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;div class="release-notes-next-features"&gt;
+ &lt;h3&gt;Folgende Funktionalitäten werden folgen&lt;/h3&gt;
+ (in der aufgeführten Priorität folgen)
+
+&lt;ul&gt;
+&lt;li&gt;Provisorische KVG Datenexporte im August (CSV Format)&lt;/li&gt;
+&lt;li&gt;Export des XML-Formats für Plausibilisierungszwecke&lt;/li&gt;
+&lt;li&gt;E-Mail-Benachrichtigung des Users, wenn hochgeladene Daten verarbeitet sind.&lt;/li&gt;
+&lt;li&gt;Integration der SwissDRG Grouper&lt;/li&gt;
+&lt;li&gt;Weitere Verbesserung der Benutzerfreundlichkeit (Usability)&lt;/li&gt;
+&lt;li&gt;Kennzahlprüfungen&lt;/li&gt;
+&lt;li&gt;Detailliertere E-Mail-Updates über Aktivitäten auf der Plattform&lt;/li&gt;
+&lt;li&gt;Abschlussprozess&lt;/li&gt;
+&lt;li&gt;API für Datenlieferung und -prüfung&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+
+
+
+ &lt;br /&gt;
+ &lt;p&gt;&lt;/p&gt;</description></item><item><title>15.05.2025</title><link>https://spiges.github.io/handbook-test/de/release_notes/2025_05_15/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/release_notes/2025_05_15/</guid><description>&lt;div class="release-notes"&gt;
+ &lt;h2&gt;
+ Versionshinweise
+ 
+ 
+
+ &lt;/h2&gt;
+ &lt;br /&gt;
+ &lt;p&gt;Ein neuer SpiGes Release wurde freigeschaltet.&lt;/p&gt;
+
+ 
+
+&lt;div class="release-notes-improvements"&gt;
+ &lt;h3&gt;Folgende Anpassungen wurden gemacht&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Die Exportfunktion wurde inzwischen freigeschaltet. Dies Funktion steht ab sofort auf der Benutzereben der Kantone, Unternehmen und Standorte zur Verfügung. Sie ist auf der SpiGes Plattform neben der Registerkarte «Erhebungsübersicht» zu finden, als neue Registerkarte «Datenexport». Je nach Berechtigung können die Exporte für verschiedene Betriebe und Standorte angewählt werden. Wenn der Export fertig gestellt worden ist (im Moment nur .csv Version möglich), bekommt der Benutzer ein Email mit dem Download Link für die Datei direkt zugestellt.
+Diese von der SpiGes Plattform exportierten Daten dürfen nur zu Plausibilisierungszwecke verwendet werden.
+Bitte beachten Sie, dass es inzwischen noch kleinere Anpassung gab und die Reihenfolge der Exportvariablen nicht ganz der in der Beschreibung entspricht. Die neuste Beschreibung finden Sie auf der auf der SpiGes-Homepage.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;lt;a
+href=&amp;ldquo;&lt;a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/gesundheitswesen/projekt-spiges.assetdetail.33607857.html%22"&gt;https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/gesundheitswesen/projekt-spiges.assetdetail.33607857.html"&lt;/a&gt;
+target=&amp;quot;_blank&amp;rdquo; rel=&amp;ldquo;noopener noreferrer&amp;rdquo;&lt;/p&gt;</description></item><item><title>01.05.2025</title><link>https://spiges.github.io/handbook-test/de/release_notes/2025_05_01/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/release_notes/2025_05_01/</guid><description>&lt;div class="release-notes"&gt;
+ &lt;h2&gt;
+ Versionshinweise
+ 
+ 
+
+ &lt;/h2&gt;
+ &lt;br /&gt;
+ &lt;p&gt;Ein neuer SpiGes Release wurde freigeschaltet.&lt;/p&gt;
+
+ 
+
+&lt;div class="release-notes-improvements"&gt;
+ &lt;h3&gt;Folgende Anpassungen wurden gemacht&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Die SpiGes Benutzer können nun den KS-Import auslösen, ohne dass neue Daten hochzuladen werden müssen (SpiGes .xml-Datei). Vorher konnte die KS nur in Kombination mit dem Upload einer .xml-Datei gestartet werden
+Zur Erinnerung: Wenn das KS-Kontrollkästchen aktiviert ist, können die neuesten KS-Daten für alle beteiligten BURGESV eingelesen werden. Dies kann aber nur als eingeloggter Unternehmens User geschehen, nicht (mehr) als Standort User (KS Kontrollkästchen nicht ersichtlich, KS Import nicht möglich)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;div class="release-notes-fixed-bugs"&gt;
+ &lt;h3&gt;Folgende Bugs wurden behoben&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Fehler behoben, welcher zu einer «Hängenden Fortschrittsanzeige» (hanging progress bar) führte&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;div class="release-notes-next-features"&gt;
+ &lt;h3&gt;Folgende Funktionalitäten werden folgen&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Exportfunktionalität mit Benachrichtigung der fertiggestellten Datenaufbereitung&lt;/li&gt;
+&lt;li&gt;Weitere Verbesserung der Perfomance&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+
+
+
+ &lt;br /&gt;
+ &lt;p&gt;&lt;/p&gt;</description></item><item><title>26.03.2025</title><link>https://spiges.github.io/handbook-test/de/release_notes/2025_03_26/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/release_notes/2025_03_26/</guid><description>&lt;div class="release-notes"&gt;
+ &lt;h2&gt;
+ Versionshinweise
+ 
+ 
+
+ &lt;/h2&gt;
+ &lt;br /&gt;
+ &lt;p&gt;Ein neuer SpiGes Release wurde freigeschaltet.&lt;/p&gt;
+
+ 
+
+&lt;div class="release-notes-improvements"&gt;
+ &lt;h3&gt;Folgende Anpassungen wurden gemacht&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Nach dem Import der KS-Daten werden die Erhebungsteile «Ertrag (KS)», «Aufwand (KS)», «ANK nach REKOLE (KS)» in der Übersicht angezeigt.
+Zur Erinnerung: KS-Daten können aktuell nur importiert werden, wenn sie auf der KS-Plattform den Status «Validiert Kanton» haben.&lt;/li&gt;
+&lt;li&gt;Fehlerlisten können als CSV heruntergeladen werden.&lt;/li&gt;
+&lt;li&gt;Verbesserte Benutzerführung und erweiterte Funktionalitäten bei der Kommentarfunktion.&lt;/li&gt;
+&lt;li&gt;Neue Erhebung «2025 Test»: Auf der Plattform ist neue die Erhebung 2025 Test aufgeschaltet. Diese kann verwendet werden, um Daten des laufenden Jahres zu prüfen. Die Daten sowie zugehörige Begründungen werden zum Jahresende wieder gelöscht.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;div class="release-notes-fixed-bugs"&gt;
+ &lt;h3&gt;Folgende Bugs wurden behoben&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Caching Problem bei der Kommentarfunktion&lt;/li&gt;
+&lt;li&gt;Existierende Plausibiliserungseinträge und deren Kommentare werden gelöscht, wenn die Regel im letzten Processing nicht mehr ausgeführt wurde (z.B. weil sie geändert/gelöscht wurde).&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;div class="release-notes-next-features"&gt;
+ &lt;h3&gt;Folgende Funktionalitäten werden folgen&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Weitere Verbesserung der Perfomance&lt;/li&gt;
+&lt;li&gt;Exportfunktionalität mit Benachrichtigung der fertiggestellten Datenaufbereitung&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+
+
+
+ &lt;br /&gt;
+ &lt;p&gt;&lt;/p&gt;</description></item><item><title>10.02.2025</title><link>https://spiges.github.io/handbook-test/de/release_notes/2025_02_10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/release_notes/2025_02_10/</guid><description>&lt;div class="release-notes"&gt;
+ &lt;h2&gt;
+ Versionshinweise
+ 
+ 
+
+ &lt;/h2&gt;
+ &lt;br /&gt;
+ &lt;p&gt;Ein neuer SpiGes Release wurde freigeschaltet.&lt;/p&gt;
+
+ 
+
+&lt;div class="release-notes-improvements"&gt;
+ &lt;h3&gt;Folgende Anpassungen wurden gemacht&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Aufgrund umfangreicher Performancetests konnte der Verarbeitungsprozess effizienter gestaltet werden. Die Performance wird aber weiter verbessert.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;div class="release-notes-fixed-bugs"&gt;
+ &lt;h3&gt;Folgende Bugs wurden behoben&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Beim Erstellen von Plausibilisierungseinträgen für Regeln wurde teilweise die fall_id nicht gefunden und fälschlicherweise eine «0» angezeigt.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;div class="release-notes-next-features"&gt;
+ &lt;h3&gt;Folgende Funktionalitäten werden folgen&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Weitere Verbesserung der Perfomance&lt;/li&gt;
+&lt;li&gt;Files mit reinen Unternehmensdaten liefern (z.B. reines GWL-File ohne Standorte und Fälle).&lt;/li&gt;
+&lt;li&gt;Die Daten sollten zu Plausibilisierungszwecken bis April 2025 exportierbar sein.&lt;/li&gt;
+&lt;li&gt;Abschlussprozess, Prüfprotokolle und Exportieren von Fehlerlisten sind auf Juni 2025 geplant.&lt;/li&gt;
+&lt;li&gt;Die Kennzahl-Prüfungen und der selbständige Export des ITAR_K®-Eingabefiles werden Herbst 2025 folgen für die Erhebung der Daten 2025 im 2026.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+
+
+
+ &lt;br /&gt;
+ &lt;p&gt;&lt;/p&gt;</description></item><item><title>22.01.2025</title><link>https://spiges.github.io/handbook-test/de/release_notes/2025_01_22/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/release_notes/2025_01_22/</guid><description>&lt;div class="release-notes"&gt;
+ &lt;h2&gt;
+ Versionshinweise
+ 
+ 
+
+ &lt;/h2&gt;
+ &lt;br /&gt;
+ &lt;p&gt;Ein neuer SpiGes Release wurde freigeschaltet.&lt;/p&gt;
+
+ 
+
+&lt;div class="release-notes-improvements"&gt;
+ &lt;h3&gt;Folgende Anpassungen wurden gemacht&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Die Einzelfallprüfungen zu den Rechnungen (Nr. 766, 1447, 1448, 1450, 1451, 1454, 1455, 1456, 1458, 1459, 1460, 1461, 1462, 1604, 1665 und 1666) wurden bezüglich der Strenge von Fehler auf Warnung heruntergestuft. Da das Regelwerk zum Zeitpunkt der Inbetriebnahme aufgrund Ihrer Feedbacks öfter angepasst wird, werden wir dieses ebenfalls auf der SpiGes Plattform Webseite ablegen.&lt;/li&gt;
+&lt;li&gt;Aufgrund umfangreicher Performencetests konnte der Verarbeitungsprozess effizienter gestaltet werden. Die Performence wird aber weiter verbessert.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;div class="release-notes-fixed-bugs"&gt;
+ &lt;h3&gt;Folgende Bugs wurden behoben&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Diverse Bugs, welche die zeitlich und inhaltlich korrekten Fehleranzeigen verhinderten, wurden behoben.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;div class="release-notes-next-features"&gt;
+ &lt;h3&gt;Folgende Funktionalitäten werden folgen&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Weitere Verbesserung der Perfomance&lt;/li&gt;
+&lt;li&gt;Files mit reinen Unternehmensdaten liefern (z.B. reines GWL-File ohne Standorte und Fälle).&lt;/li&gt;
+&lt;li&gt;Die Daten sollten zu Plausibilisierungszwecken bis April 2025 exportierbar sein.&lt;/li&gt;
+&lt;li&gt;Abschlussprozess, Prüfprotokolle, Exportieren von Fehlerlisten und ITAR_K® sind auf Mai 2025 geplant.&lt;/li&gt;
+&lt;li&gt;Die Kennzahl-Prüfungen werden Herbst 2025 folgen für die Erhebung der Daten 2025 im 2026.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+
+
+
+ &lt;br /&gt;
+ &lt;p&gt;&lt;/p&gt;</description></item><item><title>09.12.2024</title><link>https://spiges.github.io/handbook-test/de/release_notes/2024_12_09/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/release_notes/2024_12_09/</guid><description>&lt;div class="release-notes"&gt;
+ &lt;h2&gt;
+ Versionshinweise
+ 
+ 
+
+ &lt;/h2&gt;
+ &lt;br /&gt;
+ &lt;p&gt;Ein neuer SpiGes Release wurde freigeschaltet.&lt;/p&gt;
+
+ 
+
+&lt;div class="release-notes-improvements"&gt;
+ &lt;h3&gt;Folgende Anpassungen wurden gemacht&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Beim ersten Login erscheint ein Text mit den Nutzungsbedingungen zur SpiGes Plattform. Diese müssen akzeptiert werden, um die SpiGes Plattform nutzen zu können.&lt;/li&gt;
+&lt;li&gt;Die Texte in den «progress bars» wurden weniger technisch formuliert und vom Englischen in die drei Landessprachen (d/f/i) übersetzt.&lt;/li&gt;
+&lt;li&gt;Im Handbuch sind die letzten «release notes» einsehbar.&lt;/li&gt;
+&lt;li&gt;Auf der Startseite sind die Links zum Variablen- und Schnittstellenbeschrieb 1.4 aktualisiert worden.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;div class="release-notes-fixed-bugs"&gt;
+ &lt;h3&gt;Folgende Bugs wurden behoben&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Diverse Bugs, welche die zeitlich und inhaltlich korrekten Fehleranzeigen verhinderten, wurden behoben.&lt;/li&gt;
+&lt;li&gt;Unstimmigkeiten bezüglich der Anzeige der Grundgesamtheit 2024 wurden behoben.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;div class="release-notes-next-features"&gt;
+ &lt;h3&gt;Folgende Funktionalitäten werden folgen&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Filterfunktionen, Verbesserung der Perfomance und andere Erweiterungen der Navigation auf der Plattform, werden so schnell wie möglich folgen.&lt;/li&gt;
+&lt;li&gt;Files mit reinen Unternehmensdaten liefern (z.B. reines GWL-File ohne Standorte und Fälle).&lt;/li&gt;
+&lt;li&gt;Die Daten sollten zu Plausibilisierungszwecken bis Februar/März 2025 exportierbar sein.&lt;/li&gt;
+&lt;li&gt;Abschlussprozess, Prüfprotokolle, Exportieren von Fehlerlisten und ITAR_K sind auf Mai 2025 geplant.&lt;/li&gt;
+&lt;li&gt;Die Kennzahl-Prüfungen werden Herbst 2025 folgen für die Erhebung der Daten 2025 im 2026.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+
+
+
+ &lt;br /&gt;
+ &lt;p&gt;&lt;/p&gt;</description></item><item><title>08.11.2024</title><link>https://spiges.github.io/handbook-test/de/release_notes/2024_11_08/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/release_notes/2024_11_08/</guid><description>&lt;div class="release-notes"&gt;
+ &lt;h2&gt;
+ Versionshinweise
+ 
+ 
+
+ &lt;/h2&gt;
+ &lt;br /&gt;
+ &lt;p&gt;Ein neuer SpiGes Release wurde freigeschaltet.&lt;/p&gt;
+
+ 
+
+&lt;div class="release-notes-improvements"&gt;
+ &lt;h3&gt;Folgende Anpassungen wurden gemacht&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Die Grundgesamtheit 2024 wurde auf der SpiGes Plattform hinterlegt. Demzufolge stammen die Namen der Unternehmen (Ebene ENTID) nun aus dem Betriebs- und Unternehmensregister und sind nicht mehr ein Provisorium, wie bei der alten Version.&lt;/li&gt;
+&lt;li&gt;Die Erhebung 2024 steht bereit. Daten 2024 können importiert werden.&lt;/li&gt;
+&lt;li&gt;Das Layout wurde leicht angepasst, gemäss der neusten Version der Design-Software (Oblique) des Bundes.&lt;/li&gt;
+&lt;li&gt;Neu erscheinen zwei «progress bars», welche Auskunft darüber geben, wie weit der Dataupload und die Datentests fortgeschritten sind.&lt;/li&gt;
+&lt;li&gt;Das Identifikatorenfile lässt sich hochladen, die AHVN wird geprüft und Fehler dazu bei den Einzelfallprüfungen angezeigt.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;div class="release-notes-fixed-bugs"&gt;
+ &lt;h3&gt;Folgende Bugs wurden behoben&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Fehlermeldungen bei Einzelfallprüfungen zu alten Datenlieferungen erscheinen nicht mehr.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;div class="release-notes-new-features"&gt;
+ &lt;h3&gt;Folgende Funktionalitäten sind gleich&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Die Version 1.4 der Schnittstelle kann hochgeladen werden.&lt;/li&gt;
+&lt;li&gt;xml Files, welche wohlgeformt sind, können hochgeladen werden.&lt;/li&gt;
+&lt;li&gt;Formattests werden durchgeführt und Fehler dazu angezeigt.&lt;/li&gt;
+&lt;li&gt;Einzelfallprüfungen werden durchgeführt und Fehler dazu angezeigt.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+&lt;div class="alert alert-warning mt-0 ms-3" role="alert"&gt;
+ &lt;div class="alert-icon"&gt;
+ &lt;div class="icon-wrapper"&gt;
+ 
+ &lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fit="" height="100%" width="100%" focusable="false"&gt;&lt;circle cx="12" cy="19.5" r="1.5" fill="#fff"/&gt;&lt;line x1="12" y1="3" x2="12" y2="14.83154" fill="#fff" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/&gt;&lt;/svg&gt;&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="alert-content"&gt;
+ 
+ 
+ Achtung im Moment erscheint die Fehleranzeige etwas verzögert. Bitte aktualisieren Sie regelmässig manuell.
+ 
+ &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;ul&gt;
+&lt;li&gt;Auf Fall- oder Regelebene können Kommentare eingegeben werden.&lt;/li&gt;
+&lt;li&gt;Durch Klicken bei der Fall-ID unter den Resultaten der Einzelfallprüfungen werden die Variablen angezeigt.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+&lt;img class="w-25 ms-3" src="https://spiges.github.io/handbook-test/img/fehlerhafter_fall_fenster.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+
+&lt;/div&gt;
+
+
+&lt;div class="release-notes-next-features"&gt;
+ &lt;h3&gt;Folgende Funktionalitäten werden folgen&lt;/h3&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Filterfunktionen, Verbesserung der Perfomance und andere Erweiterungen der Navigation auf der Plattform, werden so schnell wie möglich folgen.&lt;/li&gt;
+&lt;li&gt;Files mit reinen Unternehmensdaten liefern (z.B. reines GWL-File ohne Standorte und Fälle).&lt;/li&gt;
+&lt;li&gt;Die Daten sollten zu Plausibilisierungszwecken bis Februar/März 2025 exportierbar sein.&lt;/li&gt;
+&lt;li&gt;Abschlussprozess, Prüfprotokolle, Exportieren von Fehlerlisten und ITAR_K sind auf Mai 2025 geplant.&lt;/li&gt;
+&lt;li&gt;Die Kennzahl-Prüfungen werden Herbst 2025 folgen für die Erhebung der Daten 2025 im 2026.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+
+
+
+
+ &lt;br /&gt;
+ &lt;p&gt;&lt;/p&gt;</description></item><item><title>Admninistratives</title><link>https://spiges.github.io/handbook-test/de/faq/falldaten/admninistratives/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/falldaten/admninistratives/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="admninistratives"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Werden im SpiGes-Datensatz die Fallklammer-Fälle (=zusammengeführter Fall) erwartet? ANQ erwartet im Bereich der Psychiatrie einen Datensatz mit den Einzelfällen, also nicht zusammengeführte Fälle. Gibt es bereits einen Austausch zwischen Ihnen und ANQ, bzgl. Nutzung des SpiGes-Datensatzes?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="admninistratives"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Die Fallzusammenführung wird in SpiGes gemäss den Richtlinien der SwissDRG AG gehandhabt. Wir sind mit dem ANQ im Austausch bezüglich der Handhabung der nicht zusammengeführten Fälle.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+fall_id_ch: Wer generiert diese Fallnummer und wird diese automatisch in Opale (ERP-System) hinterlegt? Bisher konnten wir die Fallidentifikation in beiden Dateien (BFS-Daten und Fallkostendatei) automatisch in Opale generieren.
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="admninistratives"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Die schweizweit eindeutige Fallnummer wird durch die SpiGes-Plattform generiert. Bei einem Datenexport aus der Plattform steht diese fall_id_ch den Datennutzern zur Verfügung.&lt;/li&gt;
+&lt;li&gt;Der Identifikator des Falls, die Variable fall_id wird durch die Spitäler generiert. Die Spitalsoftware (wie z.B. Opale) sollte weiterhin über diese Funktion verfügen.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Es gibt Variablen (z.B. Beatmung), wo im Zeitbezug «ganzer Fall» oder «Erhebungsjahr» steht. In den meisten Spitälern wird diese Position aber nicht auf der Zeitachse geführt, sondern einmalig auf dem Fall. Auch im bisherigen MS-Datensatz wurden solche Positionen immer nur für A-Fälle geliefert. Wie stellen Sie sich eine Lieferung von B/C-Fällen für diese Variablen vor?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="admninistratives"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Tatsächlich sind die Definitionen in diesem Aspekt vielleicht noch nicht für alle Variablen ganz detailscharf. Bis heute war es nicht festgelegt, ob diese Variablen für die B und C Fälle geliefert werden müssen. Grundsätzlich sollte es möglich sein, die Angaben zu liefern, nur so ist es mit den Daten möglich, Auslastungen zu berechnen. Allerdings dürfte es vielen Spitälern wie Ihnen gehen, dass Sie die Angaben für B und C-Fälle nicht haben. In diesem Fall können die Variablen für die B und C-Fälle leer gelassen werden.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wie ist der «interne Übertritt» definiert?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="admninistratives"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Übertritt von einem Bereich (Akut, Psychiatrie, Rehabilitation) in einen anderen Bereich desselben Spitals (burnr_gesv),&lt;/li&gt;
+&lt;li&gt;oder für die sogenannten Wartepatienten/-patientinnen.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Ist es möglich, eine Definition für den Wert «7 = Repatriierung» zu erhalten?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="admninistratives"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Rückführung eines Patienten oder einer Patientin mit Schweizer Hauptwohnsitz aus dem Ausland in die Schweiz, ohne spezielle Anforderungen an Transportmittel oder Begleitung.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wie ist eine «Verlegung» definiert? (z.B. die Codes «5 = Verlegung innerhalb 24 Std.» und «6 = Rückverlegung» der Variable Eintrittsart)
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="admninistratives"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+
+
+&lt;ul class="unordered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Die Variable Eintrittsart existiert bereits in der MS und hat sich mit SpiGes auch nicht verändert. Eine Verlegung grenzt sich vom internen Übertritt dadurch ab, dass diese nicht im gleichen Spital (BURGESV) geschieht, sondern spitalübergreifend (zwei unterschiedliche BURGESV). Die Definition richtet sich nach den Grundsätzen der SwissDRG AG, welche Sie hier finden: 
+
+
+
+
+
+
+
+
+&lt;a
+ href="https://www.swissdrg.org/de/akutsomatik/swissdrg-system-1302024/regeln-und-definitionen"
+ target="_blank" rel="noopener noreferrer"
+ &gt;Regeln und Definitionen&lt;/a
+&gt;
+
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Bei der Eintrittsart «6=Rückverlegung» wurde von der SwissDRG AG folgende Spezifizierung kommuniziert: Bei ununterbrochenem Spitalaufenthalt in einem anderen Spital von mehr als 18 Tagen und Rückkehr in das ursprüngliche Spital.
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Gemäss SwissDRG AG wird Rückverlegung nur genutzt als Eintrittsart, wenn der Patient &gt;18 Tage in einem anderen Spital war und wieder zurückkommt und somit ein neuer Fall eröffnet wird.
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Ein Patient, der nach &lt;18 Tage ins Spital zurückkommt, erhält die Eintrittsart-Angabe seines 1. Eintritts, weil er ja zusammengelegt wird.
+
+&lt;/li&gt;
+
+
+&lt;/ul&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wie werden Fälle, die von der Rehabilitation (Tarif ST-REHA) in die Langzeitpflege (Tarif «Pflegetaxe») des gleichen Betriebs übergehen codiert? Die Variablen 1.2.V02 und 1.5.V03 erlauben uns nicht, «Langzeitpflege, gleicher Betrieb» anzugeben.
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="admninistratives"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;p&gt;Dies war bereits bei der MS so; der Fall wechselt von Rehabilitation zu SOMED (gleicher Betrieb); bei Code 2 sind beide Möglichkeiten enthalten (gleicher Betrieb oder anderer Betrieb). Der Fall muss wie folgt kodiert werden:&lt;/p&gt;</description></item><item><title>CH-LOGIN/AGOV</title><link>https://spiges.github.io/handbook-test/de/faq/onboarding_eiam/ch_login/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/onboarding_eiam/ch_login/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="CH_LOGIN"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Was ist ein zweiter Identifikationsfaktor?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="CH_LOGIN"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Der Begriff zweiter Identifikationsfaktor bezieht sich auf das Sicherheitsmerkmal, das Sie zusätzlich zum ersten Identifikationsfaktor, der Ihr CH-LOGIN/AGOV-Passwort ist, eingeben müssen.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Ist es möglich, nur ein CH-LOGIN/AGOV für das Unternehmen/den Standort zu haben?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="CH_LOGIN"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Nein, die CH-LOGIN/AGOV ist persönlich. Da Ihre Identität verifiziert werden muss, um auf die SpiGes-Plattform zugreifen zu können, ist es daher unerlässlich, dass Ihr Konto persönlich ist.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Es gibt einen Wechsel des Mitarbeiters/der Mitarbeiterin im Unternehmen/am Standort, ist es möglich, das CH-LOGIN/AGOV auf den neuen Mitarbeiter/die neue Mitarbeiterin zu übertragen?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="CH_LOGIN"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Nein, das CH-LOGIN/AGOV ist persönlich. Da Ihre Identität verifiziert werden muss, um auf die SpiGes-Plattform zugreifen zu können, ist es daher unerlässlich, dass Ihr Konto persönlich ist.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Ich habe bereits ein CH-LOGIN/AGOV, muss ich ein neues erstellen?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="CH_LOGIN"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Nein, Sie können Ihr CH-LOGIN/AGOV verwenden. Sie müssen allerdings einen zweiten starken Faktor einrichten und dort die Videoidentifikation durchführen, falls dies auf Ihrem CH-LOGIN/AGOV noch nicht geschehen ist.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Ist die Verbindung mit AGOV für die SpiGes-Anwendung möglich?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="CH_LOGIN"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Seit dem 8. September 2025 ist AGOV mit SpiGes kompatibel.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+&lt;/ol&gt;
+
+&lt;/div&gt;</description></item><item><title>Onboarding mit SpiGes</title><link>https://spiges.github.io/handbook-test/de/eiam_onboarding/onboarding_spiges/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/eiam_onboarding/onboarding_spiges/</guid><description>&lt;p&gt;Sie werden eine E-Mail erhalten, in der Sie aufgefordert werden, Ihr Onboarding mit Ihrem Zugang zur SpiGes-Erhebungsplattform abzuschliessen.&lt;/p&gt;
+
+
+
+&lt;div class="container grid-layout mb-3"&gt;
+ 
+
+
+&lt;div class="row row-layout align-items-center mb-3"&gt;
+ 
+
+
+&lt;div class="col-6 column-layout "&gt;
+ 
+
+&lt;p&gt;Wählen Sie Ihren Onboarding-Code aus, kopieren Sie ihn mit der rechten Maustaste und klicken Sie dann auf den Onboarding-Abschluss-Link.&lt;/p&gt;
+&lt;p&gt;Melden Sie sich mit Ihrem CH-LOGIN an.&lt;/p&gt;
+
+
+&lt;/div&gt;
+
+
+
+
+&lt;div class="col column-layout "&gt;
+ 
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/mail_onboarding_de.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+
+&lt;/div&gt;
+
+
+
+
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class="row row-layout align-items-center "&gt;
+ 
+
+
+&lt;div class="col-6 column-layout "&gt;
+ 
+Fügen Sie nun Ihren Onboarding-Code ein und klicken Sie auf "Registrierungscode senden".
+
+&lt;/div&gt;
+
+
+
+
+&lt;div class="col column-layout "&gt;
+ 
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/enregistrement_de.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+
+&lt;/div&gt;
+
+
+
+
+&lt;/div&gt;
+
+
+
+&lt;/div&gt;
+
+
+&lt;p&gt;Sie haben nun Zugang zur SpiGes-Plattform. Um sich einzuloggen, gehen Sie auf die Webseite 
+
+
+
+
+
+
+
+&lt;a
+ href="https://www.spiges.admin.ch/home"
+ target="_blank" rel="noopener noreferrer"
+ &gt;www.spiges.admin.ch&lt;/a
+&gt;
+&lt;/p&gt;</description></item><item><title>Rollen und Stakeholder</title><link>https://spiges.github.io/handbook-test/de/faq/allgemeine_angaben/rollen/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/allgemeine_angaben/rollen/</guid><description>&lt;div class="faq-block "&gt;
+ 
+
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="Rollen"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Wen kontaktiert das Spital, wenn es inhaltliche Fragen betreffend der SpiGes Erhebung hat?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="Rollen"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Bei fachlichen oder technischen Fragen zur SpiGes wendet sich das Spital primär an seine zuständige kantonale Erhebungsstelle.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wie sieht die Rolle der Kantone, insbesondere der kantonalen Erhebungspartner, zukünftig aus?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="Rollen"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Die kantonalen Erhebungsstellen wirken bei der BFS Erhebung mit wie bisher (Grundgesamtheit, Koordination und Kommunikation Spital, Mahnwesen usw.).&lt;/p&gt;</description></item><item><title>Schnittstelle der Plattform</title><link>https://spiges.github.io/handbook-test/de/plattform/interface/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/plattform/interface/</guid><description>&lt;h3 id="startbildschirm"&gt;Startbildschirm&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/ecran_accueil_de.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Das Feld “ Aufgaben Erhebungen” erlaubt es Ihnen, direkt zu einer der aktuellsten Erhebungen zu springen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Das Feld &amp;ldquo;Quick Links&amp;rdquo; gibt Ihnen Links mit verschiedenen nützlichen Informationen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Das Feld &amp;ldquo;News&amp;rdquo; gibt Ihnen Nachrichten über die Plattform.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Die Rubrik &amp;ldquo;Erhebungsübersicht&amp;rdquo; bietet Zugang zu den Datensätzen des aktuellen Jahres und der Vorjahre.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Die Rubrik &amp;ldquo;Handbuch&amp;rdquo; verweist Sie auf das SpiGes-Benutzerhandbuch.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Das Feld &amp;ldquo;Logout&amp;rdquo; oben rechts ermöglicht es Ihnen, sich von der Plattform abzumelden.&lt;/p&gt;</description></item><item><title>1. Daten importieren</title><link>https://spiges.github.io/handbook-test/de/plattform/import/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/plattform/import/</guid><description>&lt;div class="alert alert-info " role="alert"&gt;
+ &lt;div class="alert-icon"&gt;
+ &lt;div class="icon-wrapper"&gt;
+ 
+ &lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fit="" height="100%" width="100%" focusable="false"&gt;&lt;circle cx="12" cy="4.5" r="1.5" fill="#fff"/&gt;&lt;rect x="10.5" y="9.16502" width="3" height="11.83997" fill="#fff"/&gt;&lt;/svg&gt;&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="alert-content"&gt;
+ 
+ 
+ Das Hochladen der Daten kann zeitlich und inhaltlich gestaffelt erfolgen. Bis &lt;strong&gt;spätestens Ende April&lt;/strong&gt; des Jahres, das auf das Jahr der Erhebung folgt, müssen alle Daten des Spitals auf der Plattform verfügbar sein. Der Import der Daten erfolgt kapitelweise.
+ 
+ &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class="alert alert-warning " role="alert"&gt;
+ &lt;div class="alert-icon"&gt;
+ &lt;div class="icon-wrapper"&gt;
+ 
+ &lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fit="" height="100%" width="100%" focusable="false"&gt;&lt;circle cx="12" cy="19.5" r="1.5" fill="#fff"/&gt;&lt;line x1="12" y1="3" x2="12" y2="14.83154" fill="#fff" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/&gt;&lt;/svg&gt;&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="alert-content"&gt;
+ 
+ 
+ Falls das entsprechende Kapitel bereits besteht, werden die früher importierten Daten desselben Kapitels vollständig durch die Daten des Uploads ersetzt.
+ 
+ &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/import_donnees.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+&lt;p&gt; &lt;/p&gt;</description></item><item><title>Allgemein</title><link>https://spiges.github.io/handbook-test/de/faq/technische_fragen/allgemein/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/technische_fragen/allgemein/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="allgemein"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Gibt es für den Datenimport in die SpiGes Applikation eine Formatvorlage?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="allgemein"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Ja, die Formate im Schnittstellenkonzept sind zu übernehmen.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wurden die grossen Anbieter von Pat.-Admin-Software (SAP) ebenfalls vom BFS informiert und entwickeln sie bereits Software-Lösungen? Vermutlich sollte das XML-File künftig in der Pat.-Admin-Software erstellt werden.
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="allgemein"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Im Januar 2023 haben wir ein Informationsveranstaltung Richtung KIS Hersteller (Pat.-Admin-Software) gemacht. SAP war auch repräsentiert. Das BFS informiert diese Gruppe laufend über den Stand von SpiGes.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Gemäss Variablenliste gibt es folgende Tabellen:
+
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;Administratives&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Neugeborene&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;3&lt;/td&gt;
+ &lt;td&gt;Psychiatrie&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;4&lt;/td&gt;
+ &lt;td&gt;KTR&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;5&lt;/td&gt;
+ &lt;td&gt;Diagnosen&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;6&lt;/td&gt;
+ &lt;td&gt;Behandlungen&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;7&lt;/td&gt;
+ &lt;td&gt;Operierende&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;8&lt;/td&gt;
+ &lt;td&gt;Medikamente&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;9&lt;/td&gt;
+ &lt;td&gt;Rechnung&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;10&lt;/td&gt;
+ &lt;td&gt;Patientenbewegungen&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;11&lt;/td&gt;
+ &lt;td&gt;Kantonsdaten&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;12&lt;/td&gt;
+ &lt;td&gt;Personenidentifikatoren&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+
+
+Kann man unter SpiGes diese Tabellen alle als einzelnes xml-File abgeben?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="allgemein"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Die Tabelle 12 Personenidentifikatoren muss in einem separaten File geliefert werden (aus Datenschutzgründen). Für die restlichen Tabellen ist ein anderes File definiert, welches aber Teillieferungen unterstützt. Theoretisch ist es also möglich, alle Tabellen in einem einzelnen XML-File als Teillieferungen zu liefern. Wir empfehlen dies jedoch nicht, da dies eine aufwändige Abstimmung der verschiedenen Tabellen erfordert (Sicherstellen, dass die Informationen zu allen Fällen in allen Files vorhanden sind). Genauere Informationen zu diesem Thema finden Sie in der Beschreibung der XML-Datei für den Datenimport in die SpiGes-Plattform auf unserer 
+
+
+
+
+
+
+
+&lt;a
+ href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/gesundheitswesen/projekt-spiges.html"
+ target="_blank" rel="noopener noreferrer"
+ &gt;Webseite&lt;/a
+&gt;
+.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Ist es richtig, dass die Datenlieferung an die SwissDRG AG im SpiGes Format keine Teillieferungen erlaubt?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="allgemein"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Diesbezüglich konsultieren Sie bitte die Hinweise auf der Webseite der SwissDRG AG zur Erhebung 2025 (Daten 2024) (z.B. Akutsomatik).
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Gibt es eine Möglichkeit für kleine Betriebe aus einem Excel (in der die KTR eingetragen ist) ein XML-File herzustellen. Gibt es ein Anbieter, der dies plant umzusetzen?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="allgemein"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Ja, es gibt private Anbieter, die so ein Tool bereitstellen. Das BFS verfolgt diese Idee darum aktuell nicht weiter.
+&lt;!--Cette possibilité est actuellement examinée par l'OFS.--&gt;
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Ist geplant eine Excel für die fallunabhängigen Kosten zur Verfügung zu stellen, in welchem der Betrieb die fallunabhängigen Kosten im Excel-Format ausfüllen kann und dann als XML-Format exportieren kann?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="allgemein"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Die separate Lieferung von verschiedenen Arten von XML-Elementen ist möglich. D.h. die fallunabhängigen Kostenträger können grundsätzlich in einem anderen File als die fallabhängigen Kostenträger geliefert werden. Es gibt private Anbieter, die ein Excel Konvertierungs-Tool bereitstellen. Das BFS verfolgt diese Idee darum aktuell nicht weiter.
+&lt;!--Nous devons encore déterminer si nous pouvons mettre à disposition un outil pour la transformation des données à partir d'un fichier Excel.--&gt;
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Hat das SpiGes Exportfile die gleiche Struktur wie das File, welches die Spitäler in SpiGes importieren?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="allgemein"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Es wird mehrere Exportfiles geben. Einerseits wird man das XML-File, was die Spitäler importieren, auch exportieren können und andererseits wird ein Export in einem flachen Format (mehrere CSV-Dateien) möglich sein.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Spielt im XML-Format die Reihenfolge der Variablen innerhalb einer Zeile eine Rolle?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="allgemein"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Die Reihenfolge der Elemente ist vorgegeben und nicht veränderbar. Elemente können höchstens weggelassen werden. Also für das Fall-Element sind die Unterelemente immer in der Reihenfolge «Administratives», «Neugeborene», «Psychiatrie», «KostenträgerFall», «Diagnose», «Behandlung», «Medikament», «Rechnung», «Patientenbewegung» und «Kantonsdaten» anzugeben.&lt;/li&gt;
+&lt;li&gt;Die Reihenfolge der Attribute ist hingegen frei wählbar. So kann z.B. im Element «Administratives» sowohl «…geschlecht=&amp;ldquo;2&amp;rdquo; alter=&amp;ldquo;37&amp;rdquo;…» als auch «…alter=&amp;ldquo;37&amp;rdquo; geschlecht=&amp;ldquo;2&amp;rdquo;…» angegeben werden.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Können auch Variablen innerhalb einer Zeile fehlen, falls die Klinik in dieser Zeile nichts zu der entsprechenden Variable auszufüllen hat? Oder müssen immer alle Variablen der Schnittstelle in jeder Zeile stehen?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="allgemein"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Ja, Variablen können fehlen. Gewisse Variablen müssen aber zwingend angegeben werden. Diese sind im XSD-Definitionsfile als «required» gekennzeichnet («xs:attribute name="fall_id" use="required"»). In der Variablenliste werden wir diese Information auch noch ergänzens.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Können die Variablen, welche keinen Inhalt haben, auch mit einem NULLWERT geliefert werden (zum Beispiel vollständige KTR-Zeilen mit NULLEN in den Variablen wo nichts vorhanden ist)?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="allgemein"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Das kommt auf die Variablen an. Bei den KTR-Variablen ist es möglich, alle Variablen mit dem Wert «0» zu erfassen. Leere Variablen («») oder Nullwerte («NULL») sind jedoch nicht zulässig. Falls Sie das konkret überprüfen möchten, können Sie ihr XML-File gegen die XSD-Definition validieren. Dazu gibt es online gratis Tools. Bitte beachten Sie dabei, dass keine echten Daten auf solche Plattformen hochgeladen werden dürfen. Fiktive Beispiel-Files können sie aber so überprüfen. Auch die SpiGes Plattform wird eine solche Validierung bereitstellen.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wird es eine Plausibilisierungssoftware analog Medplaus geben, die vor dem Upload lokal innerhalb der Spitäler eingesetzt werden kann?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="allgemein"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Es wird ein Prüftool via API (Application Programming Interfaces) zur Verfügung gestellt werden. Dies wird jedoch erst im Laufe des kommenden Jahres bereitstehen. Bis dahin empfehlen wir MedPlaus weiter zu verwenden. Davon wird es auch eine Version für das Jahr 2024 geben.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Ist schon bekannt, wie das Vorgehen in Bezug auf die kantonalen Zusatzdaten sein wird? Verschiedene Kantone (z.B. LU, GR, VS und VD) haben ja bereits heute eine MK-Zeile. Zudem erheben die Kantone ZH und BE im Rahmen von SDEP ebenfalls zusätzliche Daten. Wissen Sie bereits, ob diese Daten in den Export SpiGes integriert werden oder ob diese separat exportiert werden müssen?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="allgemein"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+
+&lt;ul class="unordered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Die kantonalen Zusatzdaten wurden in der Schnittstelle berücksichtigt; siehe 
+
+
+
+
+
+
+
+&lt;a
+ href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/gesundheitswesen/projekt-spiges.assetdetail.32129189.html"
+ target="_blank" rel="noopener noreferrer"
+ &gt;Beschreibung der XML-Datei für den Datenimport in die SpiGes-Plattform&lt;/a
+&gt;
+.
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Die kantonalen Zusatzdaten können zwar im XML angegeben werden, werden beim Import auf die SpiGes Plattform jedoch nicht weiterverarbeitet. Sie werden von den Kantonen separat plausibilisiert und bearbeitet.
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Exportierbar sind die Kantonsdaten nur durch das Spital selbst und durch den Kanton. Voraussichtlich sind die Kantonsdaten für diese User im selben XML-File enthalten, wie die restlichen Daten.
+
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wird es möglich sein, Korrekturen direkt auf der Plattform vorzunehmen?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="allgemein"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Nein, die Plattform bietet keine Möglichkeit, Daten einzugeben oder zu korrigieren. Ziel ist es, die Fehler an der Quelle, d.h. in den Systemen der Krankenhäuser, zu korrigieren, damit die späteren Exporte konsistent sind und die Fehler in den nächsten Erhebungen nicht mehr auftauchen.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Es gibt neue Formate. Beispielweise bei rech_betrag. Das Format lautet N10.2 Wir vermuten, es handelt sich hierbei um die Angabe von Dezimalstellen. In diesem Fall 2 Dezimalstellen und eine Gesamtlänge von 12. Ist dies korrekt?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="allgemein"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+N10.2 bezeichnet eine Zahl mit insgesamt 10 Stellen, davon 2 Nachkommastellen (und ergo max. 8 Vorkommastellen).
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Neue Variablen medi_id und rech_id: Aus der Beschreibung sind wir uns nicht sicher, ob hier laufende Nummern oder tatsächliche ID aus dem System gemeint sind. Wenn ja, welche? Bei der medi_id dachten wir sofort an den ATC_Code, jedoch gibt es hierfür eine extra Variable.
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="allgemein"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Es handelt sich bei den beiden neuen Variablen «medi_id» und «rech_id» um Identifikatoren, die zur eindeutigen Zuordnung aus technischen Gründen nötig sind. Diese müssen nicht zwingend mit 1 beginnen, sie müssen aber für jeden Fall eindeutig sein.&lt;/li&gt;
+&lt;li&gt;In der XML-Musterdatei 1.3, welche Sie auf unserer Homepage vorfinden, ist auch ein Beispiel enthalten. medi_id=«1» enthält die Information, dass es sich um das erste hochteure Medikament gemäss den Vorgaben der SwissDRG AG für diesen spezifischen Fall handelt.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/Image5.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+In den Beispieldateien für das Identifikatoren-File und das Daten-File gibt es zwei Felder für die Version. Diese Versionen stimmen aber nicht überein. So wird im Header die Version 1.0 angegeben und beim Tag Unternehmen die Version 1.3. Warum sind die Versionsnummern unterschiedlich? Woher wissen wir wann welche Versionsnummer anzugeben ist?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="allgemein"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/Image6.jpg" alt="no description available" style="margin-bottom:1rem;" /&gt;
+
+
+
+&lt;br /&gt;
+
+
+&lt;code&gt;?xml version=&amp;quot;1.0&amp;quot;&lt;/code&gt; steht immer so.
+Die oberste Version bezieht sich also auf das «XML» selbst, und die untere auf das spezifische SpiGes XML.
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+&lt;/ol&gt;
+
+&lt;/div&gt;</description></item><item><title>Identifikatoren</title><link>https://spiges.github.io/handbook-test/de/faq/identifikatoren/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/identifikatoren/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="identifikatoren"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Die AHVN ist ein Pflichtfeld. Trotzdem wird es Fälle ohne AHV-Nr. geben. Wo ist beschrieben was in diesem Fall in die Variable kommt?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="identifikatoren"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Bei unbekannter AHVN richten wir uns nach dem Forum Datenaustausch, welche den Dummy-Wert «7569999999991» verwendet.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Bei der Datenerhebung soll ja die AHVN genutzt werden. Wird die AHVN über die Tarifpartner auch an die Krankenkassen ersichtlich sein werden?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="identifikatoren"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Bei der Datenübermittlung werden Identifikatoren und Daten separat verschickt. Der Datenkanal ist verschlüsselt. Zur Überprüfung der AHVN wird der «BFS AHVN Validator» eingesetzt. Nachdem die AHVN verschlüsselt worden ist, wird diese auf der gesicherten Identifikatoren Datenbank gespeichert. Während der Bearbeitung der Daten auf der Plattform ist die AHVN somit pseudonymisiert und nicht zusammen mit dem Leistungsdatensatz abgelegt. Die AHVN kann nur verschlüsselt an die Datennutzer weitergegeben werden. Da diese Datennutzer den Schlüssel nicht kennen, ist für diese die AHVN anonymisiert. Ein Rückschluss auf den Originalwert ist nicht möglich.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Hat der Kanton Zugang zum ID-File der Lieferungen?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="identifikatoren"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Der Kanton kann während der Erhebung zu Plausibilisierungszwecken Daten exportieren, dabei wird die AHVN pseudonymisiert werden.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+&lt;/ol&gt;
+
+&lt;/div&gt;</description></item><item><title>Inhaltliche Anpassungen</title><link>https://spiges.github.io/handbook-test/de/faq/allgemeine_angaben/inhaltliche_anpassungen/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/allgemeine_angaben/inhaltliche_anpassungen/</guid><description>&lt;div class="faq-block "&gt;
+ 
+
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="anpassungen"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Welche Variablen ändern sich mit SpiGes?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="anpassungen"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+
+&lt;ul class="unordered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+SpiGes hat vor allem grössere Auswirkungen auf den Prozess der Datenprüfung und das Datenformat der Lieferung. Bei den medizinischen Angaben (heutige MS) ändern sich nur wenige Punkte. Die wichtigsten dürften für Sie die folgenden sein:
+
+&lt;ul&gt;
+&lt;li&gt;Die Hauptbehandlung wird abgeschafft.&lt;/li&gt;
+&lt;li&gt;Der Zusatz zur Hauptdiagnose wird abgeschafft.&lt;/li&gt;
+&lt;li&gt;Diagnosen und Behandlungen können neu in unbegrenzter Zahl erfasst werden.&lt;/li&gt;
+&lt;li&gt;Die chirurgische Leistungszeit wird bei operativen Prozeduren erfasst.&lt;/li&gt;
+&lt;li&gt;Der Behandlungsbeginn muss bei operativen Prozeduren mit der Uhrzeit (der Operation insgesamt) erfasst werden.&lt;/li&gt;
+&lt;li&gt;Der Bezug zwischen mehreren Diagnosen (Kreuz/Stern, Ausrufezeichen) wird neu mit einer Bezugsvariable (diagnose_zusatz) anstelle des Sonderzeichens erfasst.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Alle Änderungen am Datensatz sowie die genauen Details können Sie am besten nachvollziehen, wenn Sie die Variablenliste zur Hand nehmen und die Spalte «Neu/MS-Variable» filtern nach neuen und angepassten Variablen.
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Neu werden Rechnungsdaten und Kosten, resp. Erlöse pro Fall erhoben.
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Hier finden Sie den 
+
+
+
+
+
+
+
+&lt;a
+ href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/gesundheitswesen/projekt-spiges.assetdetail.25885643.html"
+ target="_blank" rel="noopener noreferrer"
+ &gt;kompletten Datensatz&lt;/a
+&gt;
+.
+
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Welche Auswirkungen hat SpiGes auf die Kodierrichtlinien?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="anpassungen"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Diese Informationen finden Sie im 
+
+
+
+
+
+
+
+&lt;a
+ href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk.html"
+ target="_blank" rel="noopener noreferrer"
+ &gt;Kodierungshandbuch&lt;/a
+&gt;
+.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Was ist der Inhalt des nationalen Prüfprotokolls?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="anpassungen"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Der genaue Inhalt des Prüfprotokolls hängt von den Prüfungen ab, welche aktuell mit einer Arbeitsgruppe mit allen Stakeholdern erarbeitet werden. Im Wesentlichen umfasst das Prüfprotokoll die Prüfungen, welche angeschlagen haben sowie die offiziellen Begründungen zu diesen Prüfungen (ein Auszug aus dem Chat zur Prüfung).
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Die Pilotspitäler werden bereits im Frühjahr 2024 einen ersten «Datensatz» erstellen können. Andere Kantone stellen die Anforderung, bis September ein erstes XML-Datenfile abzugeben. Werden bei diesen Abgaben Echtdaten aus einem Produktivsystem erwartet, oder reichen Testdaten aus einem Testsystem aus? Anders gefragt: Beginnt die «richtige» Auswertung erst mit dem Jahre 2025, oder will das BFS auch schon Echtdaten aus 2024 auswerten?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="anpassungen"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Für den Pilot im Frühjahr 2024 werden von den Pilotspitälern Echtdaten aus einem Produktivsystem erwartet. Diese werden nur analysiert, um Erkenntnisse über den Pilot zu gewinnen.&lt;/li&gt;
+&lt;li&gt;Per August 2024 müssen alle Spitäler (in allen Kantonen) einen Schnittstellentest durchführen, um zu zeigen, dass die technische Umsetzung der Schnittstelle funktioniert. Dafür genügen Teillieferungen auch aus Testsystemen.&lt;/li&gt;
+&lt;li&gt;Ab dem 1.1. 2025 müssen alle Spitäler Echtdaten des Jahres 2024 aus den Produktivsystemen liefern und diese bis Ende April vollständig prüfen und ggf. begründen.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+
+Vertauschte Werte: Uns ist aufgefallen, dass bei ein paar Variablen die Werte anders gegenüber der MS-Statistik sind. Als Beispiel gibt es hier den Vitalwert.
+MS-Statistik:
+0 = totgeboren
+1 = lebendgeboren
+Spiges (genau andersrum):
+0 = Lebendgeburt
+1 = Totgeburt
+
+
+&lt;br /&gt;
+
+Andere Beispiele wären hier die Schulbildung oder der Zivilstand. Das ist aus unserer Sicht nicht optimal und wir würden gerne wissen, ob dies beabsichtigt ist, und wenn ja, warum?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="anpassungen"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Das ist beabsichtigt. Im Sinne des "once only" haben wir die Codelisten und Metadaten in ein BFS System integriert, welches dann auch veröffentlicht wird. Die neuen Codelisten entsprechen jetzt dem schweizweiten Standard der Interoperabilitätsplattform i14y.admin.ch, vorher war es eine MS Sonderlösung.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Berechnete Werte: In der Variablenliste gibt es einige Zeilen die ausgegraut sind mit der Bemerkung berechnet (Beispiel uid). Heisst das, wir liefern sie im XML leer mit und das BFS wird diese berechnen und eintragen? Oder liefern wir diese Werte gar nicht mit und ignorieren sie?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="anpassungen"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Wie Sie dem XML Schema entnehmen können, sind diese berechneten Variablen nicht enthalten. Sie können diese ignorieren.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+&lt;/div&gt;</description></item><item><title>Neugeborene</title><link>https://spiges.github.io/handbook-test/de/faq/falldaten/neugeborene/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/falldaten/neugeborene/</guid><description/></item><item><title>Nutzung des Delegationsportals</title><link>https://spiges.github.io/handbook-test/de/benutzer_verwaltung/delegationsplattform/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/benutzer_verwaltung/delegationsplattform/</guid><description>&lt;h2 id="anmeldung-beim-delegationsportal"&gt;Anmeldung beim Delegationsportal&lt;/h2&gt;
+&lt;!-- 1ere paire de colonnes --&gt;
+&lt;div class="two_column"&gt;
+&lt;div class="left_col"&gt;
+&lt;!-- First column content goes here --&gt;
+&lt;p&gt; Um sich in das Delegationsportal einzuloggen, gehen Sie auf die Website 
+
+
+
+
+
+
+
+&lt;a
+ href="https://www.portal.eiam.admin.ch/portal/adminservice/app/home"
+ target="_blank" rel="noopener noreferrer"
+ &gt;eIAM Portal&lt;/a
+&gt;
+ und loggen Sie sich dann mit Ihrem CH-LOGIN ein.&lt;/p&gt;
+&lt;p&gt; Anschliessend müssen Sie die Nutzungsbedingungen akzeptieren, um auf das Portal zugreifen zu können. &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="right_col"&gt;
+&lt;!-- Second column content goes here --&gt;
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/cond_util_de.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;!-- 2eme paire de colonnes --&gt;
+&lt;div class="two_column"&gt;
+&lt;div class="left_col"&gt;
+&lt;!-- First column content goes here --&gt;
+Sie sind nun im eIAM-Portal angemeldet. Um zur Benutzerverwaltung zu gelangen, klicken Sie zuerst auf den Reiter "Benutzermanagement" und dann auf "Delegiertes Management".
+&lt;/div&gt;
+&lt;div class="right_col"&gt;
+&lt;!-- Second column content goes here --&gt;
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/gestion_del_de.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;</description></item><item><title>Rollen Kantone</title><link>https://spiges.github.io/handbook-test/de/benutzer_verwaltung/rollen/rollen_kantone/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/benutzer_verwaltung/rollen/rollen_kantone/</guid><description>&lt;table style="width:100%"&gt;
+ &lt;tr&gt;
+ &lt;th style="width:22%"&gt; Name &lt;/div&gt;&lt;/th&gt;
+ &lt;th&gt; Aufgaben &lt;/th&gt;
+ &lt;th style="width:20%"&gt; Kompetenzen &lt;/div&gt; &lt;/th&gt;
+ &lt;th style="width:32%"&gt; Verantwortung &lt;/div&gt; &lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; KT_Superuser &lt;/td&gt;
+ &lt;td&gt; In der Initialisierungsphase informiert er seine Spitalunternehmen oder -standorte über Neuerungen und kontrolliert die Grundgesamtheit vor der Erhebung. Während der Erhebung sorgt er dafür, dass seine Spitalstandorte die Lieferfristen einhalten. Säumige Betriebe werden daran erinnert. Er überprüft die Qualität der Daten mittels des automatischen Prüfregelwerks und den ergänzenden Kommentaren der Spitalstandorte und gibt diese frei. Bei Schwierigkeiten seitens der Spitäler liefert er den ersten support. Er verwaltet alle User seiner Spitalstandorte und -unternehmen. Er verwaltet auch die Benutzer auf dem eIAM-Portal. Diese Aufgaben kann der KT_Superuser an den KT_ErhV oder KT_User entsprechend derer Kompetenzen delegieren und ist dann für die Supervision zuständig. Er muss das BFS informieren, wenn sich der KT_Superuser ändert. &lt;/td&gt;
+ &lt;td&gt; Er kann alle Daten seiner Spitalunternehmen und- standorte lesen, hochladen, kommentieren, Prüfstati ändern, zu Plausibiliserungszwecken exportieren und die User aller Spitalrollen seiner Spitalstandorte und -unternehmen verwalten. &lt;/td&gt;
+ &lt;td&gt; Er sorgt dafür, dass die Erhebung in den Spitalunternehmen innerhalb seines Zuständigkeitsgebiets durchgeführt wird und informiert diese über anstehende Neuerungen. Bei konzeptuellen, technischen oder inhaltlichen Fragen sind die Kantone erste Anlaufstelle. Sie führen Eingangskontrollen sowie Rückfragen durch und besorgen das Mahnwesen. Bis Ende Juni des Erhebungsjahres sorgt der Kanton dafür, dass die verlangten Informationen aller im Kanton ansässigen Spitalunternehmen und -standorten mit gesundheitspolizeilicher Betriebsbewilligung korrekt und vollständig vorliegen. Die vom Spitalunternehmen angegebenen Begründungen bei Fehlermeldungen auf dem Prüfprotokoll werden vom Kanton auf ihre Plausibilität hin überprüft und akzeptiert. Er ist dafür zuständig, die Aktivitäten der Nutzer zu überwachen, Profile für neue Nutzer zu erstellen und sie zu deaktivieren, wenn sie keinen Zugriff mehr benötigen. &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; KT_ErhV(stat_Abschlussuser) &lt;/td&gt;
+ &lt;td&gt; Er führt die durch den KT_Superuser delegierten Aufgaben durch. &lt;/td&gt;
+ &lt;td&gt; Er kann alle Daten seiner Spitalunternehmen und- standorte lesen, hochladen, kommentieren, Prüfstati ändern, zu Plausibiliserungszwecken exportieren, abschliessen. &lt;/td&gt;
+ &lt;td&gt; Die kantonale Erhebungsstelle gibt für das betroffene Erhebungsjahr Ende Juli die Daten der Spitalunternehmen auf ihrem Hoheitsgebiet für die Nutzung nach BStatG frei. &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; KT_Admin_Abschlussuser &lt;/td&gt;
+ &lt;td&gt; Mittels Einsicht in die Daten seiner Spitalstandorte oder -unternehmen gibt er die Daten am Ende der Erhebung für die administrative Nutzung frei. &lt;/td&gt;
+ &lt;td&gt; Er kann alle Daten seiner Spitalunternehmen und- standorte lesen, hochladen, kommentieren, Prüfstati ändern, zu Plausibiliserungszwecken exportieren, abschliessen. &lt;/td&gt;
+ &lt;td&gt; Das kantonale Gesundheitsamt gibt für das betroffene Erhebungsjahr Ende Juli die Daten der Spitalunternehmen auf ihrem Hoheitsgebiet für die Nutzung nach KVG frei. &lt;/td&gt; 
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; KT_User &lt;/td&gt;
+ &lt;td&gt; Er führt die durch den KT_Superuser delegierten Aufgaben durch. &lt;/td&gt;
+ &lt;td&gt; Er kann alle Daten seiner Spitalunternehmen und- standorte lesen, hochladen, kommentieren. &lt;/td&gt;
+ &lt;td&gt; Er unterstützt den KT_Superuser in seinen Aufgaben. &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; KT_Read &lt;/td&gt;
+ &lt;td&gt; Er kann bei Bedarf auf der Plattform den Stand der Erhebung einsehen. &lt;/td&gt;
+ &lt;td&gt; Er kann alle Daten aller Spitalunternehmen seines Kantons lesen. &lt;/td&gt;
+ &lt;td&gt; Er unterliegt der Schweigepflicht und darf keine Information über gelesene Informationen auf der Plattform Unbefugten mitteilen. &lt;/td&gt;
+ &lt;/tr&gt;
+&lt;/table&gt;</description></item><item><title>Struktur der eIAM Units</title><link>https://spiges.github.io/handbook-test/de/eiam_onboarding/ch_unit_eiam/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/eiam_onboarding/ch_unit_eiam/</guid><description>&lt;p&gt;Die verschiedenen Benutzer der SpiGes-Plattform sind wie folgt organisiert:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Kanton
+&lt;ul&gt;
+&lt;li&gt;Unternehmen
+&lt;ul&gt;
+&lt;li&gt;Standorte&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ein Kanton enthält ein oder mehrere Unternehmen, die ihrerseits einen oder mehrere Standorte enthalten.&lt;/p&gt;
+
+
+
+&lt;div class="alert alert-warning " role="alert"&gt;
+ &lt;div class="alert-icon"&gt;
+ &lt;div class="icon-wrapper"&gt;
+ 
+ &lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fit="" height="100%" width="100%" focusable="false"&gt;&lt;circle cx="12" cy="19.5" r="1.5" fill="#fff"/&gt;&lt;line x1="12" y1="3" x2="12" y2="14.83154" fill="#fff" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/&gt;&lt;/svg&gt;&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="alert-content"&gt;
+ 
+ 
+ In einigen Fällen sind der geografische Kanton eines Standorts und der administrative Kanton des Unternehmens nicht identisch.
+ 
+ &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Beispiel:&lt;/p&gt;
+
+
+
+&lt;div class="container grid-layout "&gt;
+ 
+
+
+&lt;div class="row row-layout "&gt;
+ 
+
+&lt;div class="col-6 column-layout "&gt;
+ 
+
+&lt;ol&gt;
+&lt;li&gt;In der Spalte 1 sehen Sie die EntID auf Ebene des Unternehmens und Sie sehen die Bur-Nummer auf Ebene der Standorte.&lt;/li&gt;
+&lt;li&gt;In der Spalte 2 sehen Sie den administrativen (zuständigen) Kanton des Unternehmens / des Krankenhausstandorts.&lt;/li&gt;
+&lt;li&gt;In der Spalte 3 sehen Sie den geografischen Kanton des Unternehmens / des Standorts.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Hier sehen Sie, dass der administrative und der geografische Kanton von Standort 1 nicht identisch sind.&lt;/p&gt;</description></item><item><title>Zweiter Sicherheitsfaktor</title><link>https://spiges.github.io/handbook-test/de/faq/onboarding_eiam/zweiter_sicherheitsfaktor/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/onboarding_eiam/zweiter_sicherheitsfaktor/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="Zweiter_sicherheitsfaktor"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Welche zweiten Sicherheitsfaktoren kann ich verwenden?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="Zweiter_sicherheitsfaktor"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Für den Zugriff auf die SpiGes-Plattform ist ein starker zweiter Faktor erforderlich. Als stark gelten die folgenden zweiten Faktoren: Mobile ID und FIDO-Schlüssel (physischer Schlüssel oder Windows Hello).&lt;/li&gt;
+&lt;li&gt;mTAN oder App authenticator (oft bereits für die KS-Erhebung installiert) sind als zweite Faktoren nicht stark genug für SpiGes.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Ist die Videoidentifikation für die Nutzung der SpiGes-Erhebungsplattform obligatorisch?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="Zweiter_sicherheitsfaktor"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Ja. Ohne die Videoidentifikation erreichen Sie nicht die QoA 50 (Quality of Authentication), die für den Zugang zur SpiGes-Erhebungsplattform erforderlich ist. Um diese Qualitätsstufe der Authentifizierung zu erreichen, muss der Nutzer über eine verifizierte elektronische Identität verfügen und nicht nur über eine selbstregistrierte.&lt;/li&gt;
+&lt;li&gt;Es ist wichtig, die Videoidentifikation mit einem zweiten starken Faktor durchzuführen (siehe Frage 101). Eine Videoidentifikation, die auf mTAN oder App authenticator gemacht wurde, ermöglicht keinen Zugang zu SpiGes.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Was ist eine verifizierte Identität, und was muss man tun, um eine solche zu erhalten?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="Zweiter_sicherheitsfaktor"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Damit eine elektronische Identität als verifiziert gelten kann, muss ein amtlicher, mit einem Foto versehener Ausweis des Inhabers der elektronischen Identität geprüft, registriert und der Inhaber der elektronischen Identität korrekt identifiziert worden sein. Dazu müssen Sie diese kostenpflichtige (CHF 45.00) Videoidentifikation (VIPS) durchlaufen, bei der Ihre Identität von einer zertifizierten Person überprüft wird.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wie kann ich mein AGOV-Konto überprüfen lassen?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="Zweiter_sicherheitsfaktor"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Informationen zu diesem Thema finden Sie 
+
+
+
+
+
+
+
+&lt;a
+ href="https://help.eiam.swiss/?c=ident50&amp;amp;l=de"
+ target="_blank" rel="noopener noreferrer"
+ &gt;hier&lt;/a
+&gt;
+.
+Um Ihr AGOV-Konto überprüfen zu lassen, müssen Sie einen speziellen Link aufrufen:
+
+
+
+
+
+
+
+&lt;a
+ href="https://www.ident.agov.admin.ch/process?rpcode=2be262f1da0"
+ target="_blank" rel="noopener noreferrer"
+ &gt;Starten Sie die Verifizierung&lt;/a
+&gt;
+ und folgen Sie die Anweisungen.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+&lt;/ol&gt;
+
+&lt;/div&gt;</description></item><item><title>2. Kontrolle der Daten</title><link>https://spiges.github.io/handbook-test/de/plattform/kontrole/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/plattform/kontrole/</guid><description>&lt;div class="alert alert-info " role="alert"&gt;
+ &lt;div class="alert-icon"&gt;
+ &lt;div class="icon-wrapper"&gt;
+ 
+ &lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fit="" height="100%" width="100%" focusable="false"&gt;&lt;circle cx="12" cy="4.5" r="1.5" fill="#fff"/&gt;&lt;rect x="10.5" y="9.16502" width="3" height="11.83997" fill="#fff"/&gt;&lt;/svg&gt;&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="alert-content"&gt;
+ 
+ &lt;h4 class="alert-heading"&gt;Prüfung an der Quelle&lt;/h4&gt;
+ 
+ 
+ &lt;p&gt;Idealerweise werden die Daten direkt im Eingabesystem des Spitals geprüft. Dazu stellt das BFS eine automatisierte Lösung für die Integration in die spitaleigene Informatikumgebung bereit. Die Spitalunternehmen haben zudem die Möglichkeit, ihre Daten mit der SpiGes-Plattform während dem Datenjahr zu überprüfen. Da diese Prüfung vor dem ordentlichen Beginn der Erhebung (Januar des Folgejahres) stattfindet, befindet sich der Status der Erhebung im Zustand &amp;ldquo;Vorbereitung&amp;rdquo;.&lt;/p&gt;</description></item><item><title>Grundgesamtheit und Erhebungseinheiten</title><link>https://spiges.github.io/handbook-test/de/faq/allgemeine_angaben/grundgesamtheit_erhebungseinheiten/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/allgemeine_angaben/grundgesamtheit_erhebungseinheiten/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="GGH"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Wird bei der Einführung von SpiGes bzw. zum Zeitpunkt der Definition der Grundgesamtheit für die erste SpiGes-Erhebung noch mit den herkömmlichen «Spitallisten» oder bereits mit SpiReg gearbeitet?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="GGH"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Bei der ersten SpiGes Erhebung (Daten 2024) im Jahre 2025 wird noch manuell die Grundgesamtheit KS in Form von Excellisten importiert.&lt;/li&gt;
+&lt;li&gt;Die bisherige BUR wird BURGESV heissen und der Identifikator des Spitals bleiben. Die Standort-BUR heisst ab den Daten 2024 (Erhebung 2025) BUR.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Was ist der Unterschied zwischen einem Spitalunternehmen, einem Spital und einem Spitalstandort?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="GGH"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Ein Spitalunternehmen, ist ein Unternehmen mit dem NOGA-Code 861001 (Allgemeine Krankenhäuser), 861002 (Spezialkliniken) oder 869004 (Geburtshäuser). Es ist mit der Identifikationsnummer ENTID eindeutig bezeichnet.&lt;/li&gt;
+&lt;li&gt;Das Spital ist in der SpiGes Erhebung eine Einheit, welche ein ITAR_K® ausfüllt und nach der sich die Falldefinition der SwissDRG AG richtet. Ein Spital ist mit der BUR-Nr. GESV gekennzeichnet, welche nur auf der Datenbank von GESV geführt wird.&lt;/li&gt;
+&lt;li&gt;Ein Spitalstandort ist mit der BUR-Nr. eindeutig gekennzeichnet und gehört immer zu genau einem Spitalunternehmen.
+Folgende Tabelle zeigt als Beispiel ein Unternehmen (UID/ENTID) mit 12 Spitälern (BURGESV) und 14 Standorten (BUR) :&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+&lt;img class="max-w-90" src="https://spiges.github.io/handbook-test/img/tableauFAQ1.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Welche Begriffe werden in der SpiGes Erhebung synonym für Spitalunternehmen, Spital und Spitalstandort verwendet?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="GGH"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Ebene&lt;/th&gt;
+ &lt;th&gt;Begriffe synony&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Spitalunternehmen&lt;/strong&gt;&lt;br&gt;juristische Einheit&lt;/td&gt;
+ &lt;td&gt;(Spital-)Unternehmen&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Spital&lt;/strong&gt; (gemäss Angabe Kanton, Erhebung MS/KS, Falldefinition)&lt;/td&gt;
+ &lt;td&gt;Spital, Klinik, (Spital-)Betrieb&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Spitalstandort&lt;/strong&gt;&lt;br&gt;lokale Einheit&lt;/td&gt;
+ &lt;td&gt;(Spital-)Standort&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wie wird festgestellt, zu welchem Spital (burnr_gesv) ein Standort (burnr) gehört?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="GGH"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Die Zuordnung der Standorte (BUR) zu den Spitälern (BURGESV) erfragen wir bei der Erhebung der Grundgesamtheit. In diesem Prozess sind es die Kantone, die uns in Zusammenarbeit mit den Krankenhäusern die Informationen geben.&lt;/li&gt;
+&lt;li&gt;Die burnr_gesv wird auf Wunsch unserer Partner auch erhoben.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Was versteht man unter einer Hauptleistungsstelle (z.B. M000, M050)?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="GGH"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Eine Leistungsstelle ist eine organisatorische Einheit im Spital, in der u.a. medizinische, medizinisch-technische oder medizinisch-therapeutische Leistungen erbracht werden. In der SpiGes Erhebung wird angegeben, in welcher medizinischen Hauptleistungsstelle der Patient behandelt wird.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wenn ein Spital mehrere Standorte hat, wird ein Fall immer nur an einem Standort erfasst, auch wenn er von einem Standort zu einem anderen Standort desselben Spitals verlegt wurde?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id=""
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Ja, ein Fall wird immer nur an einem Standort erfasst und zwar am Hauptstandort (vgl. variable burnr).
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+&lt;/ol&gt;
+
+&lt;/div&gt;</description></item><item><title>Mobile ID</title><link>https://spiges.github.io/handbook-test/de/faq/onboarding_eiam/mobile_id/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/onboarding_eiam/mobile_id/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="mobile_id"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Ich habe keine SIM-Karte, die neu genug ist, um die Mobile ID zu nutzen, was kann ich tun?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="mobile_id"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Sie können bei Ihrem Telefonanbieter eine SIM-Karte der neuesten Generation bestellen. Sie können auch einen FIDO-Schlüssel als zweiten Sicherheitsfaktor verwenden. 
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Was tun Sie, wenn das mit der Mobile ID verbundene Mobiltelefon gestohlen wird/verloren geht?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="mobile_id"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Lassen Sie Ihre SIM-Karte von Ihrem Mobilfunkanbieter sperren. Dadurch wird Ihre Mobile ID automatisch gesperrt. Sobald Sie eine neue SIM-Karte haben, können Sie Ihre Mobile ID bei Ihrem Netzbetreiber mithilfe des Reaktivierungscodes, den Sie bei der Aktivierung Ihrer Mobile ID erhalten haben, erneut aktivieren. 
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Kann ich die Mobile ID-Anwendung anstelle der Aktivierung mit der SIM-Karte verwenden?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="mobile_id"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Nein. Die Mobile ID-Anwendung wird nicht als zweiter starker Sicherheitsfaktor für Ihr CH-LOGIN akzeptiert. 
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Ich habe bereits eine aktive Mobile ID, was muss ich tun?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="mobile_id"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Sie können einfach überprüfen, ob Ihre Mobile ID aktiv ist, indem Sie sie auf der Mobile ID-Website testen. Danach können Sie die Schritte befolgen, um sie als zweiten starken Sicherheitsfaktor zu Ihrem CH-LOGIN hinzuzufügen.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+&lt;/ol&gt;
+
+&lt;/div&gt;</description></item><item><title>Psychiatrie</title><link>https://spiges.github.io/handbook-test/de/faq/falldaten/psychiatrie/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/falldaten/psychiatrie/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="psychiatrie"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Variable psy_zivilstand: Was ist mit dem Code "5 = unverheiratet" gemeint bzw. wie unterscheidet sich dieser von ledig etc.?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="psychiatrie"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+ Die Codeliste der Variable Zivilstand wird beim BFS einheitlich genutzt. Der Zivilstand «Unverheiratet» kann als Folge einer Ungültigerklärung der letzten Ehe oder als Folge einer Verschollenerklärung des letzten Ehepartners bzw. der letzten Ehepartnerin entstehen. Siehe Link:
+
+
+
+
+
+
+
+&lt;a
+ href="https://www.bfs.admin.ch/bfs/de/home/statistiques/population/effectif-evolution/etat-civil.html"
+ target="_blank" rel="noopener noreferrer"
+ &gt;Zivilstand&lt;/a
+&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Müssen bei Fallzusammenführungen in der Psychiatrie jeweils die Eintritts- und Austritts-HoNOS (CHOP-Codes) aller zusammengeführten Fälle gemeldet werden? Für die Codierung ist jedoch nur der Eintritts-HoNOS des ersten Falles und der Austritts-HoNOS des letzten Falles relevant.
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="psychiatrie"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;p&gt;Wir richten uns für die Statistik an die Vorgaben der Kodierung:&lt;/p&gt;</description></item><item><title>Rollen Spitäler</title><link>https://spiges.github.io/handbook-test/de/benutzer_verwaltung/rollen/rollen_betriebe/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/benutzer_verwaltung/rollen/rollen_betriebe/</guid><description>&lt;table&gt;
+ &lt;tr&gt;
+ &lt;th&gt;&lt;div style="width:155px"&gt; Name &lt;/div&gt;&lt;/th&gt;
+ &lt;th&gt; Aufgaben &lt;/th&gt;
+ &lt;th&gt; &lt;div style="width:110px"&gt; Kompetenzen &lt;/div&gt; &lt;/th&gt;
+ &lt;th&gt; &lt;div style="width:120px"&gt; Verantwortung &lt;/div&gt; &lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;SP_ErhV_Unternehmen &lt;/td&gt;
+ &lt;td&gt; Jedes Unternehmen muss mindestens einen SP_ErhV_Unternehmen benennen. In der Initialisierungsphase liest er die Neuerungen bezüglich der Erhebung und setzt diese bei Bedarf um. Während der Erhebung sorgt er dafür, dass seine Spitalstandorte die Lieferfristen einhalten. Er ladet die Daten hoch, überprüft die Qualität der Daten mittels des automatischen Prüfregelwerks und kommentiert diese bei Bedarf. Am Ende des Erhebungsprozesses gibt er die Daten auf Spitalunternehmensebene frei (abschliessen), damit diese im Prozess weitergereicht werden können (Freigabe des Kantons). &lt;/td&gt;
+ &lt;td&gt; Er kann alle Daten seines Spitalunternehmens und dessen Standorte lesen, hochladen, kommentieren, zu Plausibiliserungszwecken exportieren und abschliessen. &lt;/td&gt;
+ &lt;td&gt; Er sorgt dafür, dass die Daten seines Spitalunternehmens innerhalb der vorgegebenen Frist und in guter Qualität vorliegen und gibt diese auf Ebene Spitalunternehmen frei. &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;SP_ErhV_Standort&lt;/td&gt;
+ &lt;td&gt; Ein Standort kann einen SP_ErhV_Standort benennen. Er ladet die Daten seines Spitalstandortes hoch, überprüft die Qualität der Daten mittels des automatischen Prüfregelwerks und kommentiert diese bei Bedarf. Am Ende des Erhebungsprozesses gibt er die Daten auf Spitalstandortebene frei (abschliessen), damit diese im Prozess weitergereicht werden können (Freigabe des Spitalunternehmens). Diese Rolle ist besonders nützlich, wenn ein Benutzer nicht auf alle Standorte des Unternehmens zugreifen muss.&lt;/td&gt;
+ &lt;td&gt; Er kann alle Daten seines Spitalstandorts lesen, hochladen, kommentieren, zu Plausibiliserungszwecken exportieren und abschliessen. &lt;/td&gt;
+ &lt;td&gt; Er sorgt dafür, dass die Daten seines Spitalstandorts innerhalb der vorgegebenen Frist und in guter Qualität vorliegen und gibt diese auf Ebene Spitalstandort frei. Außerdem informiert er den KT_Superuser sofort, wenn sich die Benutzer seines Krankenhausstandorts ändern (z.B. ein Mitarbeiter kündigt, seine Funktion wechselt und seinen Zugang zur SpiGes-Plattform nicht mehr benötigt, ...). &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; SP_User_Unternehmen &lt;/td&gt;
+ &lt;td&gt; Er führt die durch den SP_ErhV_Unternehmen delegierten Aufgaben durch. &lt;/td&gt;
+ &lt;td&gt; Er kann alle Daten seines Spitalunternehmens und dessen Standorte lesen, hochladen, kommentieren und zu Plausibiliserungszwecken exportieren. &lt;/td&gt;
+ &lt;td&gt; Er unterstützt den SP_ErhV_Unternehmen in seinen Aufgaben. &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; SP_User_Standort &lt;/td&gt;
+ &lt;td&gt; Er führt die durch den SP_ErhV_Standort delegierten Aufgaben durch. &lt;/td&gt;
+ &lt;td&gt; Er kann alle Daten seines Spitalstandorts lesen, hochladen, kommentieren und zu Plausibiliserungszwecken exportieren. &lt;/td&gt;
+ &lt;td&gt; Er unterstützt den SP_ErhV_Standort in seinen Aufgaben. &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; SP_Read_Unternehmen &lt;/td&gt;
+ &lt;td&gt; Er kann bei Bedarf auf der Plattform den Stand der Erhebung einsehen. &lt;/td&gt;
+ &lt;td&gt; Er kann die Daten seines Spitalunternehmens lesen. &lt;/td&gt;
+ &lt;td&gt; Er unterliegt der Schweigepflicht und darf keine Information über gelesene Informationen auf der Plattform Unbefugten mitteilen. &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; SP_Read_Standort &lt;/td&gt;
+ &lt;td&gt; Er kann bei Bedarf auf der Plattform den Stand der Erhebung einsehen. &lt;/td&gt;
+ &lt;td&gt; Er kann die Daten seines Spitalstandorts lesen. &lt;/td&gt;
+ &lt;td&gt; Er unterliegt der Schweigepflicht und darf keine Information über gelesene Informationen auf der Plattform Unbefugten mitteilen. &lt;/td&gt;
+ &lt;/tr&gt;
+&lt;/table&gt;
+&lt;!-- 
+
+ &lt;tr&gt;
+ &lt;td&gt; &lt;/td&gt;
+ &lt;td&gt; &lt;/td&gt;
+ &lt;td&gt; &lt;/td&gt;
+ &lt;td&gt; &lt;/td&gt;
+ &lt;/tr&gt;
+
+ --&gt;</description></item><item><title>Unterstützung der Benutzer</title><link>https://spiges.github.io/handbook-test/de/benutzer_verwaltung/support/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/benutzer_verwaltung/support/</guid><description>&lt;h2 id="zurücksendung-des-onboarding-codes"&gt;Zurücksendung des Onboarding-Codes&lt;/h2&gt;
+&lt;p&gt;Es kann sein, dass der Onboarding-Code an den Nutzer nochmals geschickt werden muss. Zum Beispiel, wenn bei der Eingabe der E-Mail-Adresse ein Fehler gemacht wurde oder wenn es mehr als einen Monat her ist, dass der Code gesendet wurde. In diesem Fall müssen Sie wie folgt vorgehen:&lt;/p&gt;
+&lt;p&gt;Loggen Sie sich in das Delegationsportal 
+
+
+
+
+
+
+
+&lt;a
+ href="https://www.portal.eiam.admin.ch/portal/adminservice/app/home"
+ target="_blank" rel="noopener noreferrer"
+ &gt;eIAM Portal&lt;/a
+&gt;
+ ein, und gehen Sie dann zum Benutzerprofil.&lt;/p&gt;
+&lt;!-- 1eme paire de colonnes --&gt;
+&lt;div class="two_column"&gt;
+&lt;div class="left_col"&gt;
+&lt;!-- First column content goes here --&gt;
+
+&lt;p&gt;Sie können die Berechtigungen des Benutzers bei Bedarf ändern.&lt;/p&gt;</description></item><item><title>3. Überprüfung der Daten</title><link>https://spiges.github.io/handbook-test/de/plattform/verification/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/plattform/verification/</guid><description>&lt;h3 id="plausibilisierung"&gt;Plausibilisierung&lt;/h3&gt;
+&lt;p&gt;Wenn der Datenlieferant sämtliche Fehler korrigiert oder begründet hat, ist es die Aufgabe der Kantone, die Begründungen zu plausibilisieren. Dazu können die Kantone Begründungen akzeptieren (Status «OK») oder in der Chat-Funktion, die bei jeder fehlerhaften Prüfung zu sehen ist, Rückfragen stellen oder eine Neulieferung anfordern. Ist ein Fehler nicht korrigierbar, so kann der Kanton diesen auch definitiv als Fehler kennzeichnen (Status «Fehler»).&lt;/p&gt;
+&lt;p&gt;Die Datenlieferanten können im Chat antworten oder korrigierte Daten hochladen, wobei der Prozess wiederum bei der autonomen Prüfung beginnt. Dieser iterative Prozess dauert so lange bis keine Fehler mehr offen sind. D.h. die Fehler wurden entweder korrigiert, als definitiv gekennzeichnet oder die Begründung des Datenlieferanten wurde angenommen.&lt;/p&gt;</description></item><item><title>Diagnose</title><link>https://spiges.github.io/handbook-test/de/faq/falldaten/diagnose/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/falldaten/diagnose/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="diagnose"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+POA-Variable: Könnten Sie uns bitte sagen, zu welchem Zweck die Variable diagnose_poa verwendet wird?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="diagnose"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Die Angabe «POA» kann unter anderem zur Verbesserung der Qualität und der Patientensicherheit verwendet werden. Siehe z. B. die Mitteilung des Kantons Zürich zu diesem Thema: 
+
+
+
+
+
+
+
+&lt;a
+ href="https://www.zh.ch/content/dam/zhweb/bilder-dokumente/themen/gesundheit/gesundheitsversorgung/spitaeler_kliniken/daten_und_statistik_der_listenspitaeler/datenerhebung/poa_informationen.pdf"
+ target="_blank" rel="noopener noreferrer"
+ &gt;Present on admission - Informationen zur Erfassung (zh.ch)&lt;/a
+&gt;
+.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+ Variable «diagnose_zusatz»: Welche Angaben müssen hier bei Stern-Kodes und Kodes mit Ausrufezeichen gemacht werden?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="diagnose"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;p&gt;Bei Stern-Kodes wird hier der zugehörige Kreuz-Kode angegeben. Bei Kodes mit Ausrufezeichen, der zu präzisierende Kode. Stern-Kodes werden nicht als solche markiert, die Vergabe erfolgt gemäss ICD-10-GM.&lt;/p&gt;</description></item><item><title>Fallunabhängige Kosten und Erlöse</title><link>https://spiges.github.io/handbook-test/de/faq/falldunabhangige/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/falldunabhangige/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="falldunabhangige"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Wie lassen sich die Kosten und Erlöse der gemeinwirtschaftlichen Leistungen in SpiGes erfassen?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="falldunabhangige"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Dazu wählen Sie unter ktr_typ den passenden Code der entsprechenden GWL Leistung aus und tragen die entsprechenden Kosten und Erlöse anhand den in REKOLE® definierten Kostenarten-, bzw. Kostenstellennummern und Erlöskonten ein. Anbei die Liste der unterschiedlichen GWL Typen und dem entsprechenden ktr_typ Code:
+&lt;table class="w-100"&gt;
+ &lt;tr&gt;
+ &lt;th style="width:20%"&gt; Code &lt;/div&gt;&lt;/th&gt;
+ &lt;th&gt; GWL &lt;/th&gt;
+ &lt;th style="width:60%"&gt; Bezeichnung &lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 501 &lt;/td&gt;
+ &lt;td&gt; Typ a) &lt;/td&gt;
+ &lt;td&gt; Vorhalteleistungen (exkl. Vorhalteleistungen für den Notfall) &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 502 &lt;/td&gt;
+ &lt;td&gt; Typ a) &lt;/td&gt;
+ &lt;td&gt; Rettungswesen/Notruf 144 &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 503 &lt;/td&gt;
+ &lt;td&gt; Typ a) &lt;/td&gt;
+ &lt;td&gt; Geschützte Spitalbereiche &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 504 &lt;/td&gt;
+ &lt;td&gt; Typ a) &lt;/td&gt;
+ &lt;td&gt; Kindergarten und Schule für Patientinnen und Patienten &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 505 &lt;/td&gt;
+ &lt;td&gt; Typ a) &lt;/td&gt;
+ &lt;td&gt; Sozialdienstliche Leistungen für Patienten &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 506 &lt;/td&gt;
+ &lt;td&gt; Typ a) &lt;/td&gt;
+ &lt;td&gt; Prävention/Gesundheitsförderung &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 507 &lt;/td&gt;
+ &lt;td&gt; Typ a) &lt;/td&gt;
+ &lt;td&gt; Bevölkerungsschutz &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 508 &lt;/td&gt;
+ &lt;td&gt; Typ a) &lt;/td&gt;
+ &lt;td&gt; Spitalseelsorge / Andachtsraum &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 599 &lt;/td&gt;
+ &lt;td&gt; Typ a) &lt;/td&gt;
+ &lt;td&gt; Weitere Spezialaufgaben &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 601 &lt;/td&gt;
+ &lt;td&gt; Typ b) &lt;/td&gt;
+ &lt;td&gt; Forschung, inkl. Doktorat (MD und PhD) &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 602 &lt;/td&gt;
+ &lt;td&gt; Typ b) &lt;/td&gt;
+ &lt;td&gt; Erteilte und erhaltene universitäre Ausbildung &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 603 &lt;/td&gt;
+ &lt;td&gt; Typ b) &lt;/td&gt;
+ &lt;td&gt; Erteilte berufliche Weiterbildung &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 701 &lt;/td&gt;
+ &lt;td&gt; Typ c) &lt;/td&gt;
+ &lt;td&gt; Aufrechterhaltung von Überkapazitäten aus regionalpolitischen Gründen &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 702 &lt;/td&gt;
+ &lt;td&gt; Typ c) &lt;/td&gt;
+ &lt;td&gt; Geburtshilfe &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 703 &lt;/td&gt;
+ &lt;td&gt; Typ c) &lt;/td&gt;
+ &lt;td&gt; Nicht kostendeckende Tarife (z. B.TARMED.) &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 799 &lt;/td&gt;
+ &lt;td&gt; Typ c) &lt;/td&gt;
+ &lt;td&gt; Weitere spitalbezogene gemeinwirtschaftliche Leistungen &lt;/td&gt;
+ &lt;/tr&gt;
+&lt;/table&gt;
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Können fallunabhängige Kostenträger einem Spital (burnr_gesv) angehängt werden anstelle eines Standortes?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="falldunabhangige"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Nein, das ist nicht möglich.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Kann man KTR-Typen auch mehrfach verwenden? Zum Beispiel bei 599 mehrfache Zeilen abliefern mit unterschiedlichem Freitext in der Variable "ktr_beschr" ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="falldunabhangige"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Ja, das ist möglich. Anhand der Angabe «ktr_typ» wird ein Kostenträger einer ITAR_K®-Spalte zugeordnet. Somit muss in der Variable «ktr_typ» einer der vordefinierten Werte verwendet werden. Es ist jedoch möglich mehrere Kostenträger mit demselben KTR-Typ anzugeben, z.B. für den ktr_typ 205 einmal mit dem Freitext «KVG» und einmal mit dem Freitext «MTK» in der Variable «ktr_beschr». Diese beiden Kostenträger werden dann summiert und in der ITAR_K®-Spalte «Tagesklinik Kind- &amp; Jugendpsychiatrie» abgebildet. Theoretisch sind auch weitere Aufteilungen technisch möglich, bis auf den ambulanten Fall. Solange alle denselben KTR-Typ aufweisen, werden sie wie beschrieben summiert und abgebildet.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wird der KTR-Teil auch bei ambulanten Fällen erwartet, oder bezieht sich dieser ebenfalls ausschliesslich auf stationäre Fälle?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="falldunabhangige"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Um ein ITAR_K® ausfüllen zu können, werden die Kosten der ambulanten Fälle summarisch pro KTR Typ (z.B. Tarif Dialyse) abgefüllt.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+&lt;/ol&gt;
+
+&lt;/div&gt;</description></item><item><title>Formatprüfungen und Fehlermeldungen</title><link>https://spiges.github.io/handbook-test/de/faq/technische_fragen/format_fehlermeldung/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/technische_fragen/format_fehlermeldung/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="format_fehlermeldung"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Generelle Begriffe, die in den Fehlermeldungen verwendet werden
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="format_fehlermeldung"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Element = Erhebungsteil (z.B. Unternehmen, Standort, Fall usw)&lt;/li&gt;
+&lt;li&gt;Attribut = Variable (z.B. ent_id, burnr usw)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/tf1.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Welche Fehler verursachen die Fehlermeldung «interner Serverfehler 500»?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="format_fehlermeldung"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Beim internen Serverfehler 500 gibt es verschiedene Ursachen, welche Sie hier aufgeführt finden:
+
+&lt;ol&gt;
+&lt;li&gt;Datei leer&lt;/li&gt;
+&lt;li&gt;Datei zu gross&lt;/li&gt;
+&lt;li&gt;Kopfzeile falsch&lt;/li&gt;
+&lt;li&gt;Nicht mit UTF 8 codiert&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+&lt;br /&gt;
+
+
+&lt;p&gt;Kopfzeile:&lt;/p&gt;</description></item><item><title>ITAR_K®</title><link>https://spiges.github.io/handbook-test/de/faq/allgemeine_angaben/itar_k/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/allgemeine_angaben/itar_k/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="ITARK"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+
+&lt;li class="list-item "&gt;
+ 
+SpiGes erhebt nur Informationen zu den stationären Fällen. Wie kann der ambulante Teil des ITAR_K® ausgefüllt werden?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="ITARK"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+ITAR_K® kann mit den SpiGes Daten erstellt werden. Die ambulanten Angaben werden in den dafür vorgesehenen KTR Typen erhoben (z.B. Tarif Labor).
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wie wird ITAR_K® von Kliniken erstellt, welche nur Teil eines Spitalunternehmens sind? (z.B. Klinik St. Anne von Fribourg ist Teil der Swiss Medical Network AG)
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="ITARK"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Die Klinik St. Anne von Fribourg wird die Finanzbuchhaltung (und alle anderen Angaben) in der Krankenhausstatistik pro Klinik (Ebene BURGESV) ausfüllen. Die Kosten aus SpiGes lassen sich nach BURGESV aggregieren.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Die Kostendaten muss man bis zum 31.3 erfassen. Müssen diese Daten revidiert sein? Aktuell könnten wir das nicht umsetzen da der Jahresabschluss erst Ende März revidiert wird.
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="ITARK"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Bei dieser Frist müssen die Kostendaten erstmals automatisch auf der SpiGes Plattform geprüft sein. Die Revision kann später erfolgen.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wir finden keine SpiGes-Variable, die es ermöglichen würde, die direkt mit einem Fall verbundenen GWL-Kosten/Erlöse in die dafür vorgesehene GWL Spalte im ITAR_K® zu überführen. Wie wird die GWL-Spalte von ITAR_K® mit den SpiGes Daten berechnet?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="ITARK"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Es gibt keine direkt fallbezogenen Kosten/Erlöse von gemeinwirtschaftlichen Leistungen (GWL). SpiGes hält sich bei der Abbildung der GWL an die Rechtsprechung und die Empfehlungen des Spitalverbandes H+ und dessen Branchenlösung REKOLE®.&lt;/li&gt;
+&lt;li&gt;Gemäss REKOLE® kann es innerhalb von Spitalbetrieben GWL für spezielle Aufgaben und/oder für die Forschung und universitäre Ausbildung geben. Die Kosten und Erlöse für diese Leistungen werden über klar definierte Aufträge verbucht (Kap. 9.10 von REKOLE®). REKOLE® sieht auch vor, dass die Erlöse aus anderen Beiträgen für die Aufrechterhaltung von Spitalkapazitäten aus regionalpolitischen Gründen oder für nicht kostendeckende Tarife auf Kosten-/Erlösträger verbucht werden, die nur Erlöse enthalten. Diesen Erlösen steht jedoch keine definierte Leistung gegenüber. Sie dürfen daher keinen Einfluss auf die Kosten der stationären Betrieben haben (Kap. 9.11.3 von REKOLE®).&lt;/li&gt;
+&lt;li&gt;In der SpiGes-Variablenliste Version heisst es in der Beschreibung der Variablen „ktr_typ“: &amp;ldquo;Hier ist die Art des Kostenträgers anzugeben: Fall (=1) oder &lt;strong&gt;Auftrag&lt;/strong&gt; mit genauen Unterkategorien; die Ausprägungen sind dem separaten Tabellenblatt &amp;ldquo;KTR-Typen&amp;rdquo; zu entnehmen (KTR=Kostenträgerrechnung). &lt;strong&gt;Für alle GWL und Nebenbetriebe muss eine separate Zeile ausgefüllt werden&lt;/strong&gt;. Genauere Angaben zu den kostenträgerspezifischen Vorgaben sind dem Tabellenblatt &amp;ldquo;KTR-Typen&amp;rdquo; zu entnehmen. Diese Variable ist für die Zuteilung der Fälle auf die Spalten in ITAR_K® relevant&amp;rdquo;. Die Kosten/Erlöse der GWL werden also von SpiGes über im Erhebungsteil KTR erhoben und als Summe in der Spalte GWL der ITAR_K®-Datei abgefüllt.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- avant input H+:
+-	Bei der Abbildung der gemeinwirtschaftlichen Leistungen hält sich SpiGes grundsätzlich an die Rechtsprechung und die Empfehlungen des Spitalverbandes H+. REKOLE® sieht vor, dass die Kosten der fallbezogenen gemeinwirtschaftlichen Leistungen auf dem Fall, die Erlöse jedoch auf einem separaten GWL-Kostenträger abgebildet werden. Kosten und Erlöse von fallunabhängigen GWL werden ebenfalls auf einem separaten GWL-Kostenträger abgebildet.
+-	Aus technischer Sicht ist es möglich, von den Vorgaben von REKOLE® abzuweichen. Die Kosten und Erlöse der fallbezogenen GWL könnten auch auf einem eigenen Kostenträger (Typ KTR 700-799) erfasst werden. Dies liegt im Ermessen des Kantons. Wichtig ist in diesem Fall, dass die Kosten und Erlöse für die OKP-Leistungen trotzdem auf dem Fall erfasst werden (Typ KTR = 1).--&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+ITAR_K® kann sowohl auf Unternehmens als auch auf Standort-Ebene ausgefüllt werden. Was wird in SpiGes verlangt? Liegt die Entscheidung dazu bei den Kantonen?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="ITARK"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;ITAR_K® wird immer auf der Ebene BURGESV ausgefüllt, diese Ebene muss mit der Erhebung der KS übereinstimmen. Die Informationen dazu liefert der Kanton in der Erhebung der Grundgesamtheit an das BFS. Insofern hat der Kanton einen Einfluss. Er muss sich aber mit dem Spital absprechen.&lt;/li&gt;
+&lt;li&gt;ITAR_K® stellt das Grundinstrument für die Verhandlungen der Spitäler mit den Versicherern dar. Ob dabei der Kanton bezüglich Granularität mitbestimmt, ist abhängig davon ob es sich um ein Listenspital, ein Vertragsspital oder ein Ausstandspital handelt.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Ab wann wird das ITAR_K® ab der SpiGes Plattform generiert werden?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="ITARK"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Das zentrale Instrument für Tarifierung und Wirtschaftlichkeitsprüfung soll in Zukunft durch SpiGes erstellt werden. Um einen sicheren Übergang sowie die Korrektheit zu gewährleisten, ist ein Parallelbetrieb der alten und neuen Plattform (H+ resp. SpiGes) zur Erstellung von ITAR_K® vorgesehen. Im Jahr 2025 (Daten 2024) werden die offiziellen ITAR_K® noch wie bisher von der H+-Plattform erstellt. Ab September 2025 erhalten alle Spitäler zudem die Möglichkeit, die ITAR_K® 2025 (Daten 2024) über SpiGes zu erstellen und die beiden Resultate zu vergleichen. So können allfällige Unklarheiten noch vor der produktiven Einführung der ITAR_K® -Erstellung über SpiGes im Jahr 2026 (Daten 2025) ausgeräumt werden.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Was ist, wenn der Fall noch nicht abgerechnet ist, dann fehlen die Informationen aus den Rechnungsdaten bezüglich CM und Zusatzentgelte?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="ITARK"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+In ITAR_K® werden die Grouper-Ergebnisse für diese Informationen verwendet. Nur für die Beträge der unbewerteten Zusatzentgelte werden die Rechnungsdaten herangezogen.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Beim Herunterladen von ITAR_K® sind die Zellen für Nebenbetriebe und Überlieger leer. Warum ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="ITARK"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Gemeinsam mit H+ wurde beschlossen, diese Felder vorerst leer zu lassen und von den Spitälern ausfüllen zu lassen. Diese Felder sind lila markiert (ab Version 16 von ITAR_K®), um zu zeigen, dass SpiGes diese Felder nicht ausfüllt.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Warum sind die Kosten für die VKL-Hotellerie (Zeilen 38-40) negativ ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="ITARK"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Diese Zeilen werden in ITAR_K® berechnet. Ausserdem erfasst SpiGes keine Details zur VKL-Hotellerie (sondern nur REKOLE), daher müssen diese Beträge von den Spitälern ergänzt werden. Sobald die Zeilen ausgefüllt sind, sind die Beträge positiv und korrekt. 
+
+&lt;ul&gt;
+&lt;li&gt;Grün: wird von SpiGes ausgefüllt&lt;/li&gt;
+&lt;li&gt;Lila: wird vom Spital ausgefüllt&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/itark_hot_ocp_de.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Die Beträge für die in ITAR_K® unbewerteten Zusatzentgelte werden nicht übernommen. Wie muss vorgegangen werden, damit SpiGes diese übernehmen kann ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="ITARK"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+SpiGes übernimmt die Angaben aus der Rechnung. Um die Verbindung herzustellen, verwendet SpiGes zwei Dinge: rech_tariftyp 11-21-31, was den Zusatzvergütungen gemäss ForumDatenaustausch entspricht, und den Code für die Zusatzentgelte unter rech_tarifcode.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Die Spaltennamen für die vom Spital im ambulanten Bereich festgelegten Tarife werden in ITAR_K® nicht übernommen. Warum ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="ITARK"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+SpiGes enthält mehr KTR_TYP als in ITAR_K® für diese Tarife erforderlich. Die Unterscheidung zwischen KVG, Zusatzversicherung und Selbstzahler wird in ITAR_K® nicht mehr getroffen. Wie im Entscheidungsbaum angegeben, sind diese Spalten in ITAR_K® wie folgt definiert:
+
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;ITAR_K®-Spalte&lt;/th&gt;
+ &lt;th&gt;KTR_TYP&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;übrige ambulante Tarife&lt;/td&gt;
+ &lt;td&gt;371,372,373&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;übrige ambulante Tarife&lt;/td&gt;
+ &lt;td&gt;374,375,376&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;übrige ambulante Tarife&lt;/td&gt;
+ &lt;td&gt;377,378,379&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;übrige ambulante Tarife&lt;/td&gt;
+ &lt;td&gt;380,381,382,402&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+ 
+Wenn in der KTR_BESCHR eine Unterscheidung getroffen wird, erscheint in SpiGes eine Fehlermeldung, die darauf hinweist. Wenn die KTR_BESCHR für eine ITAR_K®-Spalte nicht identisch ist, kann SpiGes nicht entscheiden, welche korrekt ist. 
+
+
+&lt;br /&gt;
+
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/itark_erreur_tarifambu_de.png" alt="no description available" style="margin-bottom:1rem;" /&gt; 
+
+
+&lt;br /&gt;
+
+SpiGes weist Sie jedoch darauf hin, dass Sie diesen Spaltennamen manuell ergänzen müssen: 
+
+
+&lt;br /&gt;
+
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/itark_tarifambu.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Patientenadministration (ambulant): ist es immer möglich, zwischen einer manuellen und einer automatischen Aufteilung zu wählen ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="ITARK"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Um die Zeile ITAR_K® ambulante Patientenadministration auszufüllen, berücksichtigt SpiGes die zwei Möglichkeiten (manuelle oder automatische Aufteilung). Der Betrieb kann:
+
+&lt;ul&gt;
+&lt;li&gt;ktr_10 unter KTR_typ = 403 verwenden (zu verteilender Gesamtbetrag).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Wenn der Betrieb eine Kombination aus beiden verwendet, wird der Gesamtbetrag auf &lt;strong&gt;alle&lt;/strong&gt; ambulanten Aktivitäten aufgeteilt und zu den Einzelbeträgen &lt;strong&gt;addiert&lt;/strong&gt;.&lt;/p&gt;</description></item><item><title>Rollen Datenempfänger</title><link>https://spiges.github.io/handbook-test/de/benutzer_verwaltung/rollen/rollen_empf/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/benutzer_verwaltung/rollen/rollen_empf/</guid><description>&lt;p&gt;Im Rahmen des KVG oder von Verträgen haben bestimmte Einheiten Zugriff auf den spezifischen Datensatz, damit sie ihre Rolle im Gesundheitssystem bestmöglich wahrnehmen können.&lt;/p&gt;
+&lt;p&gt;Jeder Einheit wird eine bestimmte Rolle zugewiesen, um die Datendatei gemäss den Bestimmungen des KVG oder des Vertrags zu verwalten.&lt;/p&gt;
+&lt;p&gt;Alle diese Rollen ermöglichen es den Empfängern ausschliesslich, die KVG-Daten oder die vertraglich vereinbarten Daten zu exportieren. Es besteht kein direkter Zugriff auf die Erhebung.&lt;/p&gt;
+
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;EMPF_BAG&lt;/td&gt;
+ &lt;td&gt;BAG (Bundesamt für Gesundheit)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;EMPF_GD&lt;/td&gt;
+ &lt;td&gt;kantonale Gesundheitsämter oder -behörden&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;EMPF_PUE&lt;/td&gt;
+ &lt;td&gt;Preisüberwacher&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;EMPF_Versicherer&lt;/td&gt;
+ &lt;td&gt;Versicherer&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;EMPF_kantonale_Daten&lt;/td&gt;
+ &lt;td&gt;Zugang zu zusätzlichen kantonalen Daten (betrifft nicht alle Kantone)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;EMPF_ZMT&lt;/td&gt;
+ &lt;td&gt;ZMT Zentralstelle für Medizinaltarife UVG&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;EMPF_HPlus&lt;/td&gt;
+ &lt;td&gt;H+ Die Spitäler der Schweiz&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Diese Liste ist nicht endgültig. Bei Interesse wenden Sie sich bitte an &lt;a href="mailto:Gesundheit_DSV@bfs.admin.ch"&gt;Gesundheit_DSV@bfs.admin.ch&lt;/a&gt;, um die Vertragsbedingungen zu besprechen.&lt;/p&gt;</description></item><item><title>Zugang zur SpiGes-Plattform</title><link>https://spiges.github.io/handbook-test/de/faq/onboarding_eiam/zugang/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/onboarding_eiam/zugang/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="zugang"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Läuft der Onboarding-Code nach einer bestimmten Zeit ab? Wenn ja, was soll ich tun, wenn ich mich nicht rechtzeitig anmelden konnte?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="zugang"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Der Onboarding-Code läuft nach einem Monat ab. Wenn Sie nach dieser Frist noch keine Zeit für das Onboarding hatten, wenden Sie sich bitte an Ihren KT_Superuser, damit er Ihnen einen Code zurückschickt.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Was muss ich tun, wenn ich nicht mehr im Krankenhaus arbeite? Kann ich mein Profil löschen?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="zugang"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Wenn Sie aufgrund eines Mitarbeiterwechsels keinen Zugang zur SpiGes-Plattform mehr benötigen oder eine Änderung der Rolle/des Zugangs notwendig ist, müssen Sie sich zwingend bei der zuständigen Person in Ihrem Kanton melden, damit diese Ihnen die Zugänge zur SpiGes-Plattform entziehen kann. Ihr CH-LOGIN-Konto und der zweite verifizierte starke Faktor sind persönlich, können für andere Anwendungen der Bundesverwaltung verwendet werden und müssen nicht gelöscht werden.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+An wen kann ich mich wenden, wenn mein Login nicht funktioniert?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="zugang"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Ihr erster Ansprechpartner ist immer der Verantwortliche Ihres Kantons. Wenn Sie gemeinsam keine Lösung für Ihr Problem finden, können Sie sich anschliessend an das BFS wenden.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Ich habe einen anderen Kontotyp der Bundesverwaltung, kann dieser verwendet werden?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="zugang"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Nein, es wird leider nicht möglich sein, andere elektronische Identitäten als die dargestellte zu verwenden. Dies liegt daran, dass andere elektronische Identitäten keine ausreichende Authentifizierungsqualität für die Nutzung von SpiGes aufweisen.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ &lt;!--DeepL--&gt;
+Mein Zugang zu SpiGes funktioniert nicht mehr: Wenn ich meine CH-Login-Daten eingebe, springt die Seite Welcome to SpiGes zurück ? 
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="zugang"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Ihre Mobile ID wurde wahrscheinlich deaktiviert, das passiert, wenn Sie das Telefon oder den Netzbetreiber wechseln.
+
+&lt;ul&gt;
+&lt;li&gt;Sie können Ihre Mobile ID bei Ihrem Netzbetreiber mithilfe des Reaktivierungscodes, den Sie bei der Aktivierung Ihrer Mobile ID erhalten haben, reaktivieren.&lt;/li&gt;
+&lt;li&gt;Wenn dies nicht möglich ist, schreiben Sie bitte an &lt;a href="mailto:spiges@bfs.admin.ch"&gt;spiges@bfs.admin.ch&lt;/a&gt;. Ihre Mobile ID als zweiten Faktor muss gelöscht werden (Antrag durch Ausfüllen eines Mutationsformulars und einer Kopie des Ausweises). Anschliessend müssen Sie den Anmeldevorgang für SpiGes erneut durchführen: Aktivieren Sie die Mobile ID, fügen Sie sie als zweiten Faktor hinzu und prüfen Sie sie per Videoanruf über.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ &lt;!--DeepL--&gt;
+Ich kümmere mich auch um die KS-Erhebung (und/oder SOMED) und kann mich nicht mehr bei diesen Anwendungen anmelden ? 
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="zugang"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+Der Zugriff auf KS/SOMED und der Zugriff auf SpiGes erfolgen mit demselben CH-Login, jedoch mit einem &lt;strong&gt;anderen Profil&lt;/strong&gt;. Das für KS/SOMED verwendete Profil entspricht dem Standardprofil (CHL&amp;hellip;), der Name kann leider nicht geändert werden, um ihn eindeutiger zu machen, da er für andere Anwendungen des Bundes verwendet werden kann. Unter dem Profilnamen können Sie sehen, welche Anwendungen berücksichtigt werden.
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/profile_DE.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+&lt;/ol&gt;
+
+&lt;/div&gt;</description></item><item><title>4. Freigabe der Daten</title><link>https://spiges.github.io/handbook-test/de/plattform/freigabe/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/plattform/freigabe/</guid><description>&lt;h3 id="abschluss-und-freigabe"&gt;Abschluss und Freigabe&lt;/h3&gt;
+&lt;p&gt;Am Ende der Plausibilisierung muss die Korrektheit der Daten zuerst durch die Verantwortlichen des Spitals auf der SpiGes-Plattform bestätigt werden. Danach kann der Abschluss durch den Kanton erfolgen. Dieser Schritt umfasst sowohl den Abschluss der statistischen Erhebung nach BStatG als auch die Freigabe der Daten für die administrative Verwendung nach KVG.&lt;/p&gt;
+&lt;p&gt;Um die Verbindlichkeit der Daten im KVG-Bereich zu gewährleisten, obliegt es den kantonalen Gesundheitsämtern, die Daten offiziell für diese Nutzung freizugeben. Sollte in einem dieser Abschlussschritte nochmals ein Fehler entdeckt werden, kann der Prozess ausnahmsweise wieder gestartet werden.&lt;/p&gt;</description></item><item><title>Abgrenzung der Fälle</title><link>https://spiges.github.io/handbook-test/de/faq/allgemeine_angaben/fall/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/allgemeine_angaben/fall/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="Fall"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Sind stationäre Begleitpersonen auch Bestandteil der Datenlieferung SpiGes ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="Fall"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Grundsätzlich sind Begleitpersonen (Eltern, Kinder, Partner) keine stationären Fälle, diese beanspruchen reine Hotelleriedienste (ohne medizinische Leistung) und werden nicht erfasst (war schon bei der MS so).
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wie sind die Wartepatienten in SpiGes zu liefern ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="Fall"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;p&gt;Die &lt;em&gt;Wartepatienten&lt;/em&gt; (unterschiedliche Nomenklaturen je nach Kanton) sind Fälle, welche keine akute Spitalpflege mehr benötigen, die aber nicht entlassen werden können, weil sie noch auf eine Anschlusslösung warten. Es sind zwei Fälle zu führen. Der erste Fall bildet die normale Behandlung während des akuten Spitalpflegebedarfs ab und wird nach SwissDRG, ST Reha, TARPSY oder anderen Spitaltarifen abgerechnet. Der zweite Fall ist der Wartefall ohne den Bedarf der Spitalpflege.&lt;/p&gt;</description></item><item><title>Abstimmungsbrücke</title><link>https://spiges.github.io/handbook-test/de/faq/abstimmungsbrucke/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/abstimmungsbrucke/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="abstimmungsbrucke"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Aus SDEP ist mir die Abgrenzungsrechnung bekannt. Wird es diese in SpiGes auch geben oder nur gemäss ITAR_K®?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="abstimmungsbrucke"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+SpiGes nutzt die Abstimmbrücke der GDK / von REKOLE®.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wo im BFS werden die Begründungen zu den Abgrenzungen integriert? Bzw wie muss ich mir das vorstellen?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="abstimmungsbrucke"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Die Begründungen werden als Prüfungen in SpiGes erfasst. D.h. wenn ein Betrag von FiBu und BeBu nicht übereinstimmt, muss die Differenz begründet werden. Diese Begründungen werden dann auch weiterverwendet, z.B. für das Prüfprotokoll und für ITAR_K® oder auch für die GDK Abstimmbrücke.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wo werden die Kosten der Überlieger in der Abstimmungsbrücke berücksichtigt?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="abstimmungsbrucke"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+In der Kostenträgerrechnung von SpiGes lassen sich die Kosten der übers Jahr ausgetretenen Patienten (A Fälle) berechnen. Diese können bereits im Vorjahr ins Spital eingetreten sein und Kosten verursacht haben. In der Finanzbuchhaltung wird der Aufwand pro Jahr (Zeitrechnung) eingegeben. Die daraus entstehende Differenz wird in der Abstimmungsbrücke von SpiGes korrigiert.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Für 2024 (Daten 2023) hat die SwissDRG AG die Details der Anlagenutzungskosten der Fälle nach VKL angefordert. In SpiGes ermöglichen es die Variablen "_ank", die Details der Anlagenutzungskosten der Fälle nach REKOLE zu senden. Da dieses Detail nun für SwissDRG AG benötigt wird, sollte man in SpiGes die "_ank"-Variablen nicht auch für die VKL-Ergebnisse vorsehen?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="abstimmungsbrucke"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Es handelt sich hierbei lediglich um eine Testerhebung der SwissDRG AG. Sollte der definitive Wechsel zu VKL erfolgen, würden die Anlagenutzungskosten pro Kostenstelle in SpiGes nach VKL statt nach REKOLE® erhoben werden und die REKOLE®-Anlagenutzungskosten als Summe.&lt;/li&gt;
+&lt;li&gt;Zusammengefasst sind die Anlagenutzungskosten nach folgenden Methoden abzubilden:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Variablen&lt;/th&gt;
+ &lt;th&gt;ANK-Methodik&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;KTR-Variablen «ktr_10_ank» bis «ktr_77_ank»&lt;/td&gt;
+ &lt;td&gt;REKOLE®&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;KTR-Variable «ktr_44_vkl»&lt;/td&gt;
+ &lt;td&gt;VKL&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;KS FIBU: SA6, insbesondere Var. A.15.06 bis A.15.06.05&lt;/td&gt;
+ &lt;td&gt;VKL&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;KS Abstimmbrücke: SA81-84&lt;/td&gt;
+ &lt;td&gt;VKL&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;KS Abstimmbrücke: SA85, Var. A.17.22.25 bis A.17.24.28&lt;/td&gt;
+ &lt;td&gt;REKOLE®&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+ Das Konto 441 wird weder von VKL noch von REKOLE® in die Berechnung der Anlagenutzungskosten einbezogen. Können Sie das bestätigen?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="abstimmungsbrucke"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;p&gt;Die Anlagenutzungskosten (nach REKOLE® und OCP) entsprechen folgenden Kostenarten:&lt;/p&gt;</description></item><item><title>Behandlungen</title><link>https://spiges.github.io/handbook-test/de/faq/falldaten/behandlungen/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/falldaten/behandlungen/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="behandlungen"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Variable «behandlung_id»: Gibt es hier Empfehlungen für die umzusetzende Reihenfolge in der Psychiatrie? Gerade die HoNOS-Items, die als CHOPs geliefert werden, sind ja diagnose- bzw. behandlungsunspezifisch.
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="behandlungen"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Gemäss Variablenbeschreibung gilt: &lt;br&gt;
+Eindeutige, fortlaufende Nummer der Behandlung. &lt;br&gt;
+1 = Behandlung 1 &lt;br&gt;
+2 = Behandlung 2 &lt;br&gt;
+3 = Behandlung 3 &lt;br&gt;
+(…) etc. -&amp;gt; Unbegrenzt &lt;br&gt;
+Für die Reihenfolge der Behandlungen sind die folgenden Kriterien empfohlen:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;Prozeduren zur Behandlung der Hauptdiagnose&lt;/li&gt;
+&lt;li&gt;Prozeduren zur Behandlung der Nebendiagnosen&lt;/li&gt;
+&lt;li&gt;Prozeduren zur Bestimmung der Hauptdiagnose&lt;/li&gt;
+&lt;li&gt;Prozeduren zur Bestimmung der Nebendiagnosen&lt;/li&gt;
+&lt;li&gt;Weitere Prozeduren&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Für die HoNOS-Items würden wir eine chronologische Nummerierung empfehlen (frühere HoNOS-Messungen = tiefere IDs, spätere HoNOS-Messungen = höhere IDs).&lt;/li&gt;
+&lt;/ul&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Behandlung_chop: Müssen Behandlungen mit oder ohne Punkt geliefert werden?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="behandlungen"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Ohne Punkte.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wir sorgen uns etwas, dass insbesondere in der Anfangszeit diese Daten nicht vollständig erfasst werden und es zu vielen Nacharbeiten kommen könnte. Daher würden wir gern bei den betroffenen CHOP-Codes das Feld als Muss-Feld definieren. Gibt es für den CHOP-Katalog eine Zuordnung, welche Codes als Operativ bzw. interventionell gelten?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="behandlungen"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Das BFS ist sich bewusst, dass bei Einführung dieser neuen Angabe die Daten unvollständig sein werden. Nach der üblichen Konsolidierungsphase wird sich zeigen, welche Präzisierungen nötig sind. Es ist gar nicht möglich, für jeden CHOP-Kode eindeutig zu bestimmen, ob er eine Angabe der Zeit erfordert oder nicht. Es sind andere Merkmale, die hier massgeblich sind: ob die Behandlung in einem Zusammenhang mit der Benützung eines Operationssaals oder eines Herzkatheterlabors steht.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Operierende: Hier haben wir ein Verständnisproblem bei der Interpretation der Vorgaben des XML-Files. In der Variablenbeschreibung steht, dass pro Operation maximal zwei Operierende angerechnet werden können. In der Übersicht ist beim Attribut aber nicht zu erkennen, ob dies mehrfach exportiert werden kann.
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/Image1.jpg" alt="no description available" style="margin-bottom:1rem;" /&gt;
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="behandlungen"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Wie viele Operateure einer Operation angerechnet werden können, ist eine konzeptuelle Frage und kann von Kanton zu Kanton unterschiedlich sein (in der Regel 2 ist ein Richtwert!). Technisch lassen sich mehrere Operierende erfassen.
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/Image2.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Variable «behandlung_auswaerts»: Können Sie die Zuordnung der Ausprägungen dieser Variable genauer definieren und den Zusammenhang mit der episode_art=5 (ambulante Behandlung auswärts) erläutern?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="behandlungen"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Der Begriff Krankenhausareal ist unscharf. Wir haben hierzu folgendes Schema gemacht:
+
+&lt;p&gt;Legende:&lt;/p&gt;</description></item><item><title>Entscheidungsbaum</title><link>https://spiges.github.io/handbook-test/de/itar_k/entscheidungsbaum/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/itar_k/entscheidungsbaum/</guid><description>&lt;p&gt;Sie können den detaillierten Entscheidungsbaum als EXCEL Datei herunterladen. Darin sind die ITAR_K®-Spalten beschrieben (gültig ab ITAR_K® Version 16.0, Daten 2025).
+&lt;a href="https://github.com/SpiGes/itark_spalte/releases/latest/download/itark_spalte.xlsx"&gt;Herunterladen der Date: ITARK_Spalte&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/ItarK_V4_D.png" alt="no description available" style="margin-bottom:1rem;" /&gt;</description></item><item><title>Kantonale Plausibilisierung</title><link>https://spiges.github.io/handbook-test/de/faq/allgemeine_angaben/kantonplausi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/allgemeine_angaben/kantonplausi/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="Kantonplausi"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Wann sollen die Kantone Fehler als OK markieren und wann sollen sie sie als fehlerhaft markieren?
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/fehlerhaft_de.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="Kantonplausi"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;p&gt;&lt;strong&gt;Fälle als OK markieren (√):&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Wenn die Begründung der Spitäler korrekt ist…
+oder&lt;/li&gt;
+&lt;li&gt;Wenn in diesem Jahr keine Korrektur mehr möglich ist und der Umfang des Fehlers begrenzt ist.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;In diesem zweiten Fall sollte das Spital die Daten für die Datenlieferung des kommenden Jahres korrigieren.&lt;/em&gt;
+ &lt;/p&gt;</description></item><item><title>Medikamente</title><link>https://spiges.github.io/handbook-test/de/faq/falldaten/medikamente/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/falldaten/medikamente/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="medikamente"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Variable «medi_id»: Die Leistungsnummern können bei unseren Kunden alphanumerisch sein, die Variable ist nur numerisch vorgesehen. Wäre es hier auch möglich, den Pharmacode oder den GTIN zu exportieren?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="medikamente"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Diese Variable musste aus rein technischen Gründen hinzugefügt werden (XML Struktur) und stellt eine eindeutige Zeilennummer der thematischen Tabelle «Medikamente» dar. Solange die Variable eindeutig und vollständig ausgefüllt wird, wären theoretisch auch Pharmacode oder GTIN als Angabe möglich. Das BFS bezweifelt jedoch, ob diese Bedingungen für restlos alle Medikamente eingehalten werden könnten. Für gewisse liegen diese Infos einfach noch nicht vor.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+&lt;/ol&gt;
+
+&lt;/div&gt;</description></item><item><title>Prozess</title><link>https://spiges.github.io/handbook-test/de/itar_k/itark_prozess/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/itar_k/itark_prozess/</guid><description>&lt;ol&gt;
+&lt;li&gt;Die Daten werden in SpiGes erfasst.&lt;/li&gt;
+&lt;li&gt;Die Daten werden von SpiGes verarbeitet.&lt;/li&gt;
+&lt;li&gt;Die Spitäler können eine erste Version von ITAR_K® exportieren. Diese &lt;strong&gt;automatische Version&lt;/strong&gt; enthält die von SpiGes erfassten Daten, die so aufbereitet wurden, dass sie möglichst viele der von ITAR_K® geforderten Elemente erfüllen.
+
+
+&lt;br /&gt;
+
+&lt;em&gt;Hinweis: Der ITAR_K®-Export erfolgt auf Unternehmensebene, daher ist für die Beantragung des Exports ein Unternehmenszugang erforderlich. Wenn das Unternehmen mehrere Spitäler (BURGESV) hat, werden mehrere ITAR_K® erstellt (einer pro BURGESV).&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Die Spitäler können die automatische Version ergänzen (lilafarbener Teil), um die fehlenden Daten (die nicht von SpiGes erfasst wurden) zu erhalten.&lt;/li&gt;
+&lt;li&gt;Die Spitäler können ihre automatische ergänzte Version an den Verein SpitalBenchmark (SBM) übermitteln, damit ihre Daten überprüft und validiert werden können.&lt;/li&gt;
+&lt;li&gt;Anschliessend müssen die Spitäler die ergänzte automatische Version in SpiGes hochladen.&lt;/li&gt;
+&lt;li&gt;Die Daten werden von SpiGes verarbeitet: Die von den Spitälern ergänzten Daten werden in diesem Schritt übernommen. Die Daten werden überprüft und als Teil der Erhebung validiert.&lt;/li&gt;
+&lt;li&gt;Die Spitäler können eine zweite Version von ITAR_K® exportieren. Diese &lt;strong&gt;provisorische Version&lt;/strong&gt; enthält alle Daten (Basisdaten + ergänzte Daten).&lt;/li&gt;
+&lt;li&gt;Wenn die provisorische Version für das Spital korrekt ist und die Datenerfassung in SpiGes abgeschlossen wurde, kann das Spital den Export der endgültigen Version von ITAR_K® starten. Diese &lt;strong&gt;finale Version&lt;/strong&gt; wird &lt;strong&gt;signiert&lt;/strong&gt;, um ihre Authentizität zu gewährleisten.
+
+
+&lt;br /&gt;
+
+&lt;em&gt;Hinweis: Wenn die provisorische Version nicht korrekt ist, kann das Spital den Vorgang wiederholen, indem es entweder korrigierte Daten erneut in SpiGes hochlädt oder die Daten in der automatischen Version ändert.&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Nach der finalen und signierten Version kann ITAR_K® nicht mehr geändert werden, da die SpiGes-Daten endgültig sind. Wenn nachträglich eine Korrektur vorgenommen werden muss, kann das Spital die TEST-Erhebung verwenden, um den gesamten Prozess erneut durchzuführen und eine neue Version von ITAR_K® zu erhalten, die jedoch nicht signiert wird.&lt;/p&gt;</description></item><item><title>Rechnungen</title><link>https://spiges.github.io/handbook-test/de/faq/falldaten/rechnungen/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/falldaten/rechnungen/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="rechnungen"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Wird für jede gestellte Rechnung - und jedes Zusatzentgelt - eine Zeile exportiert?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="rechnungen"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Es ist dieselbe Granularität, wie die Zeilen auf den verschickten Rechnungen anzugeben. Wurde z.B. für einen grundversicherten Fall eine Fallpauschale sowie ein Zusatzentgelt abgerechnet und der Grundversicherung sowie dem Kanton in Rechnung gestellt, so sind vier Zeilen zu liefern (1.Pauschale an Kanton, 2.Zusatzentgelt an Kanton, 3.Pauschale an Versicherer, 4.Zusatzentgelt an Versicherer).
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wie werden die entsprechenden Felder ausgefüllt für Rechnungen, die nicht über SwissDRG, TARPSY oder ST Reha abgerechnet werden?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="rechnungen"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Grundsätzlich analog Forum Datenaustausch, einfach nur für die stationären Behandlungen.&lt;/li&gt;
+&lt;li&gt;Tariftyp, Betrag und Menge sollten klar sein.&lt;/li&gt;
+&lt;li&gt;Felder, die bei anderen Tarifen keinen Sinn machen, können leer gelassen werden.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wie sind Angaben zu den Fällen bzw. Rechnungen zu liefern, wenn letztere zum Exportzeitpunkt storniert sind?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="rechnungen"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Die Angaben zu den Fällen sind zu liefern. Bei den Rechnungen ist der letzte Stand zu liefern, im Falle von stornierten Rechnungen also nichts.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wie sind Angaben zu A-Fällen zu liefern, die zum Exportzeitpunkt noch nicht fakturiert sind?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="rechnungen"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Die Angaben zu den Fällen sind zu liefern. Bei den Rechnungen ist der letzte Stand zu liefern, also nichts.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+&lt;!--Variable «rech_unfallnr»: Für die Angaben dieser Nummer ist das Feld auf 17 Zeichen beschränkt. Nun zirkulieren in älteren Systemen auch 20-stellige Schadensnummern. Wie müssen wir vorgehen?--&gt;
+Variable «rech_unfallnr»: Für die Angaben dieser Nummer ist das Feld auf 17 Zeichen beschränkt. Nun zirkulieren aber auch 32-stellige Schadensnummern. Wie müssen wir vorgehen?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="rechnungen"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+&lt;!--In Absprache mit der Zentralstelle für Medizinaltarife UVG (ZMT) können die ersten drei Stellen gestrichen werden. Zum Beispiel würde die folgende Schadennummer 01.05.01.23.009999.3 als Nummer 05.01.23.009999.3 gesendet, d.h. ohne den Prefix ‘01.'--&gt;
+Wir werden die Anzahl Zeichen auf 50 erweitern.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Element Rechnung - Zeitbezug = "Jahresende": Verstehen wir das richtig, dass für jeden Austritt (im Erhebungsjahr) Rechnungsangaben zu liefern sind, sofern dieser Fall bis zum Zeitpunkt der Datenabgabe fakturiert wurde ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="rechnungen"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Sie haben unsere Vorgaben richtig interpretiert. Wir möchten den aktuellsten Stand der Rechnungen zum Zeitpunkt der Datenlieferung. Es soll nicht der Fakturierungsstand Ende Jahr abgebildet werden.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+&lt;/ol&gt;
+
+&lt;/div&gt;</description></item><item><title>Patientenbewegung</title><link>https://spiges.github.io/handbook-test/de/faq/falldaten/patientenbewegung/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/falldaten/patientenbewegung/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="patientenbewegung"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Gelten der Eintritt und Austritt auch als Episode?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="patientenbewegung"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Eintritt und Austritt werden wie bisher unter Eintrittsdatum und Austrittsdatum angegeben. Falls der Fall nicht transferiert wurde, werden keine Episoden erfasst. Sobald es aber zu einem Transfer kommt (z.B. ein Zwischenaustritt) wird Episode 1 vom Eintrittsdatum bis zum Zwischenaustritt erfasst. Episode 2 beginnt beim Zwischenausstritt und endet mit dem Wiedereintritt. Episode 3 beginnt mit dem Wiedereintritt und endet mit dem nächsten Transfer (z.B. Urlaub). Dies kann für den gleichen Fall in mehrere Episoden enden (siehe Abbildung). Die letzte Episode (9) endet mit dem Austrittsdatum. Episoden sind die Abschnitte vor und nach einem Standortwechsel eines Falls, Zwischenaustritte / Wiedereintritte, externe ambulante Behandlungen, Urlaube und Belastungserprobungen. 
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/Image3.jpg" alt="no description available" style="margin-bottom:1rem;" /&gt;
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wird ein Fall, der den Standort wechselt, in beiden Standorten geführt?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="patientenbewegung"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Nein, jeder Fall wird nur am Hauptstandort geführt, auch wenn er innerhalb eines Spitals (BURGESV) von einem Standort zum anderen verlegt wird. Wechselt ein Patient in ein anderes Spital (BURGESV), ist ein neuer Fall zu eröffnen. 
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Variablen "wiedereintritt_aufenthalt" und "grund_wiedereintritt": Wieso können diese Angaben nur für A Fälle gemacht werden, wenn sämtliche Episodenangaben für ABC Fälle gedacht sind?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="patientenbewegung"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Abklärungen mit der SwissDRG AG haben ergeben, dass die beiden Variablen "wiedereintritt_aufenthalt" und "grund_wiedereintritt" für Statistikfälle ABC angegeben werden können. Wir werden dies im Variablenbeschrieb 1.4 anpassen.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+episode_id: Wir sind der Meinung, dass für unsere Klinik bei den stationären Fällen keine Episoden unterschieden werden müssen, da wir keine Standortwechsel innerhalb des Spitals verzeichnen. Ist das unsererseits richtig verstanden?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="patientenbewegung"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Die Vermutung trifft zu, was Episoden aufgrund von Standortwechseln betrifft. Episoden aufgrund von Zwischenaustritten/Wiedereintritten, Urlaub, Belastungserprobung oder ambulanten Behandlungen auswärts sind jedoch zu erfassen.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Verstehen wir dies richtig, dass z.B. der Eintritt bis zur ambulanten Behandlung auswärts bereits eine Episode ist? Wir haben also zwischen Urlauben, Belastungserprobungen und auswärtigen Behandlungen immer eine episode_art="1"?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="patientenbewegung"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Richtig
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wir haben zum Beispiel keine Standortwechsel innerhalb desselben Spitals. Verstehen wir es richtig, dass bei der episode_art="1" immer die BUR Nummer Standort des Spitals anzugeben ist?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="patientenbewegung"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Richtig
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Die Zeitangabe für die Rückkehr von der ambulanten Behandlung auswärts wird unseres Wissens nach nicht dokumentiert. Eventuell wird dies aber in den Krankenhausinformationssystemen der Spitäler erfasst. Ist diese Angabe zwingend?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="patientenbewegung"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Ja, Datum und Stundenangabe müssen für alle Episoden sowohl für den Beginn als auch für das Ende geliefert werden. Falls das Ende einer ambulanten auswärtigen Behandlung nicht erfasst wird, empfehlen wir diese Erfassung zu ergänzen. Sollte dies nicht (so rasch) möglich sein, empfehlen wir für ambulante auswärtige Behandlungen einen Standarddauer zu verwenden.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Die Angabe der BURNR des auswärts behandelnden Spitals ist fakultativ, richtig?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="patientenbewegung"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Ja, bei externen ambulanten Behandlungen kann die BUR-Nummer des behandelnden Standorts angegeben werden, falls diese bekannt ist.
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/Image4.jpg" alt="no description available" style="margin-bottom:1rem;" /&gt;
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Variable «wiedereintritt_aufenthalt»: Uns ist noch nicht ganz klar, was bei der episode_art=1 (also wenn der Patient im Spital anwesend ist) in der Variablen wiedereintritt_aufenthalt exportiert werden muss.
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="patientenbewegung"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+wiedereintritt_aufenthalt wird nur bei episode_art=2 ausgefüllt, bei allen anderen episode_arten wird diese Variable nicht erfasst.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Variablen «episode_art=3 (Urlaub)» und «admin_urlaub»: Das Format der Episoden ist JJJJMMDDHH. Die Episoden kennen also keine Minuten. In der Definition steht, dass Urlaube nur angegeben werden sollen, wenn sie grösser als 24 Stunden sind.
+Muss ein Urlaub ab 24 Stunden und 20 Minuten angegeben werden oder erst ab 25 Stunden?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="patientenbewegung"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Gemäss den Regeln und Definitionen zur Fallabrechnung der SwissDRG AG zählen auch die Minuten als Kriterium, ob die 24h-Marke überschritten wurde. Hier werden zusätzlich zur episode_art=3 (Urlaub) noch bei der Variable admin_urlaub (ehemalig 1.3.V04 in der MS) die Anzahl Stunden erfasst. Dort steht, dass nur vollendete Stunden erfasst werden. Somit würde bei Ihrem Beispiel von einem Urlaub von 24h und 20 Minuten der Wert 24h angegeben.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+&lt;/ol&gt;
+
+&lt;/div&gt;</description></item><item><title>Kostenträger Fall</title><link>https://spiges.github.io/handbook-test/de/faq/falldaten/kostentraeger_fall/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/falldaten/kostentraeger_fall/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="kostentraeger"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Wie sollen die Kosten für forensische C-Fälle (mehrere Jahre Liegedauer) eingereicht werden? Für den ganzen Fall (ganze Liegedauer) oder nur die Kosten für das jeweilige Kalenderjahr und der Rest über Abgrenzungen?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="kostentraeger"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Für B- und C-Fälle sind die Kosten im Kalenderjahr anzugeben, für A-Fälle die Kosten über die ganze Falldauer. Für ambulante und nicht-fallbezogene Kostenträger auch die Kosten im Kalenderjahr. Siehe auch Spalte «Zeitbezug» der Variablenliste.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Zuschläge für Anlagenutzungskosten (ANK) bei den Einzelkosten: Auf den Einzelkosten (Medizinischer Bedarf 400 und 401) dürfen gemäss REKOLE® ANK-Zuschläge erfasst werden. Für diese KTR-Variablen existieren in SpiGes und im SwissDRG Kostendatensatz aber im Gegensatz zu den Gemeinkosten keine separaten ANK-Variablen, auf denen die Anlagenutzungskosten gemäss REKOLE angegeben werden können. In ITAR_K® müssen die Konten 400 und 401 ohne ANK-Zuschläge angegeben werden. Wie ist mit diesen ANK-Zuschlägen auf den Konten 400 und 401 zu verfahren?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="kostentraeger"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Die ANK-Zuschläge sind auf den Konten 400 und 401 nicht zu erfassen. Sie sind jedoch in den Total-Variablen der ANK einzuschliessen (ktr_44_vkl / ktr_44_rekole).&lt;/li&gt;
+&lt;li&gt;Die Variable ktr_44_rekole wird mit der Version 1.4 der Schnittstelle von einer berechneten in eine erhobene Variable umgewandelt (und im XML hinzugefügt), so dass damit ein Total ANK REKOLE® erhoben werden kann, das von der Summe der einzelnen KTR-Variablen abweicht.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Die rein ambulanten Standorte sind in SpiGes nicht in der Grundgesamtheit erfasst. ITAR_K® enthält die Kosten pro ambulanten Tarif. Auf welcher Ebene werden die rein ambulanten Kosten in SpiGes geliefert?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="kostentraeger"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;p&gt;Die Kosten der rein ambulanten Standorte werden im Element &lt;strong&gt;KostentraegerStandort&lt;/strong&gt; auf einen anderen Standortsebene oder im Element &lt;strong&gt;KostentraegerUnternehmen&lt;/strong&gt; auf Unternehmensebene geliefert werden (siehe fiktives xml Beispiel). Die Kosten werden nicht pro Patient (Fall) sondern pro ambulanten Tarif (ktr_typ, im Beispiel &amp;ldquo;301&amp;rdquo; = Tarif TARMED, KVG reine OKP) erfasst.&lt;/p&gt;</description></item></channel></rss>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nutzung der Plattform on Handbuch SpiGes</title><link>https://spiges.github.io/handbook-test/de/plattform/</link><description>Recent content in Nutzung der Plattform on Handbuch SpiGes</description><generator>Hugo</generator><language>de</language><atom:link href="https://spiges.github.io/handbook-test/de/plattform/index.xml" rel="self" type="application/rss+xml"/><item><title>Schnittstelle der Plattform</title><link>https://spiges.github.io/handbook-test/de/plattform/interface/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/plattform/interface/</guid><description>&lt;h3 id="startbildschirm"&gt;Startbildschirm&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/ecran_accueil_de.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Das Feld “ Aufgaben Erhebungen” erlaubt es Ihnen, direkt zu einer der aktuellsten Erhebungen zu springen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Das Feld &amp;ldquo;Quick Links&amp;rdquo; gibt Ihnen Links mit verschiedenen nützlichen Informationen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Das Feld &amp;ldquo;News&amp;rdquo; gibt Ihnen Nachrichten über die Plattform.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Die Rubrik &amp;ldquo;Erhebungsübersicht&amp;rdquo; bietet Zugang zu den Datensätzen des aktuellen Jahres und der Vorjahre.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Die Rubrik &amp;ldquo;Handbuch&amp;rdquo; verweist Sie auf das SpiGes-Benutzerhandbuch.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Das Feld &amp;ldquo;Logout&amp;rdquo; oben rechts ermöglicht es Ihnen, sich von der Plattform abzumelden.&lt;/p&gt;</description></item><item><title>1. Daten importieren</title><link>https://spiges.github.io/handbook-test/de/plattform/import/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/plattform/import/</guid><description>&lt;div class="alert alert-info " role="alert"&gt;
+ &lt;div class="alert-icon"&gt;
+ &lt;div class="icon-wrapper"&gt;
+ 
+ &lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fit="" height="100%" width="100%" focusable="false"&gt;&lt;circle cx="12" cy="4.5" r="1.5" fill="#fff"/&gt;&lt;rect x="10.5" y="9.16502" width="3" height="11.83997" fill="#fff"/&gt;&lt;/svg&gt;&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="alert-content"&gt;
+ 
+ 
+ Das Hochladen der Daten kann zeitlich und inhaltlich gestaffelt erfolgen. Bis &lt;strong&gt;spätestens Ende April&lt;/strong&gt; des Jahres, das auf das Jahr der Erhebung folgt, müssen alle Daten des Spitals auf der Plattform verfügbar sein. Der Import der Daten erfolgt kapitelweise.
+ 
+ &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class="alert alert-warning " role="alert"&gt;
+ &lt;div class="alert-icon"&gt;
+ &lt;div class="icon-wrapper"&gt;
+ 
+ &lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fit="" height="100%" width="100%" focusable="false"&gt;&lt;circle cx="12" cy="19.5" r="1.5" fill="#fff"/&gt;&lt;line x1="12" y1="3" x2="12" y2="14.83154" fill="#fff" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/&gt;&lt;/svg&gt;&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="alert-content"&gt;
+ 
+ 
+ Falls das entsprechende Kapitel bereits besteht, werden die früher importierten Daten desselben Kapitels vollständig durch die Daten des Uploads ersetzt.
+ 
+ &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/import_donnees.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+&lt;p&gt; &lt;/p&gt;</description></item><item><title>2. Kontrolle der Daten</title><link>https://spiges.github.io/handbook-test/de/plattform/kontrole/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/plattform/kontrole/</guid><description>&lt;div class="alert alert-info " role="alert"&gt;
+ &lt;div class="alert-icon"&gt;
+ &lt;div class="icon-wrapper"&gt;
+ 
+ &lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fit="" height="100%" width="100%" focusable="false"&gt;&lt;circle cx="12" cy="4.5" r="1.5" fill="#fff"/&gt;&lt;rect x="10.5" y="9.16502" width="3" height="11.83997" fill="#fff"/&gt;&lt;/svg&gt;&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="alert-content"&gt;
+ 
+ &lt;h4 class="alert-heading"&gt;Prüfung an der Quelle&lt;/h4&gt;
+ 
+ 
+ &lt;p&gt;Idealerweise werden die Daten direkt im Eingabesystem des Spitals geprüft. Dazu stellt das BFS eine automatisierte Lösung für die Integration in die spitaleigene Informatikumgebung bereit. Die Spitalunternehmen haben zudem die Möglichkeit, ihre Daten mit der SpiGes-Plattform während dem Datenjahr zu überprüfen. Da diese Prüfung vor dem ordentlichen Beginn der Erhebung (Januar des Folgejahres) stattfindet, befindet sich der Status der Erhebung im Zustand &amp;ldquo;Vorbereitung&amp;rdquo;.&lt;/p&gt;</description></item><item><title>3. Überprüfung der Daten</title><link>https://spiges.github.io/handbook-test/de/plattform/verification/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/plattform/verification/</guid><description>&lt;h3 id="plausibilisierung"&gt;Plausibilisierung&lt;/h3&gt;
+&lt;p&gt;Wenn der Datenlieferant sämtliche Fehler korrigiert oder begründet hat, ist es die Aufgabe der Kantone, die Begründungen zu plausibilisieren. Dazu können die Kantone Begründungen akzeptieren (Status «OK») oder in der Chat-Funktion, die bei jeder fehlerhaften Prüfung zu sehen ist, Rückfragen stellen oder eine Neulieferung anfordern. Ist ein Fehler nicht korrigierbar, so kann der Kanton diesen auch definitiv als Fehler kennzeichnen (Status «Fehler»).&lt;/p&gt;
+&lt;p&gt;Die Datenlieferanten können im Chat antworten oder korrigierte Daten hochladen, wobei der Prozess wiederum bei der autonomen Prüfung beginnt. Dieser iterative Prozess dauert so lange bis keine Fehler mehr offen sind. D.h. die Fehler wurden entweder korrigiert, als definitiv gekennzeichnet oder die Begründung des Datenlieferanten wurde angenommen.&lt;/p&gt;</description></item><item><title>4. Freigabe der Daten</title><link>https://spiges.github.io/handbook-test/de/plattform/freigabe/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/plattform/freigabe/</guid><description>&lt;h3 id="abschluss-und-freigabe"&gt;Abschluss und Freigabe&lt;/h3&gt;
+&lt;p&gt;Am Ende der Plausibilisierung muss die Korrektheit der Daten zuerst durch die Verantwortlichen des Spitals auf der SpiGes-Plattform bestätigt werden. Danach kann der Abschluss durch den Kanton erfolgen. Dieser Schritt umfasst sowohl den Abschluss der statistischen Erhebung nach BStatG als auch die Freigabe der Daten für die administrative Verwendung nach KVG.&lt;/p&gt;
+&lt;p&gt;Um die Verbindlichkeit der Daten im KVG-Bereich zu gewährleisten, obliegt es den kantonalen Gesundheitsämtern, die Daten offiziell für diese Nutzung freizugeben. Sollte in einem dieser Abschlussschritte nochmals ein Fehler entdeckt werden, kann der Prozess ausnahmsweise wieder gestartet werden.&lt;/p&gt;</description></item></channel></rss>
