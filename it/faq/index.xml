@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FAQ on Handbuch SpiGes</title><link>https://spiges.github.io/handbook-test/it/faq/</link><description>Recent content in FAQ on Handbuch SpiGes</description><generator>Hugo</generator><language>it</language><atom:link href="https://spiges.github.io/handbook-test/it/faq/index.xml" rel="self" type="application/rss+xml"/><item><title>Identificatori</title><link>https://spiges.github.io/handbook-test/it/faq/identifikatoren/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/it/faq/identifikatoren/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Per aprire tutte le domande: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Espandere tutto"
+ expanded-text="Comprimere tutto"
+ group-id="identifikatoren"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere tutto"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Il NAVS è un campo obbligatorio. Tuttavia, ci saranno casi senza numero AVS. Dove è descritto cosa occorre indicare nella variabile in questo caso?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="identifikatoren"
+ collapsed-text="Risposta"
+ expanded-text="Risposta"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Nei casi in cui il NAVS non è noto, facciamo riferimento al sito Forum Datenaustausch, che utilizza il valore fittizio «7569999999991».
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Per la rilevazione dei dati infatti bisognerebbe utilizzare il NAVS. Il NAVS, attraverso i partner tariffari, sarà visibile anche alle casse malati?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="identifikatoren"
+ collapsed-text="Risposta"
+ expanded-text="Risposta"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Al momento della trasmissione dei dati, gli identificatori e i dati vengono inviati separatamente. Il canale dei dati è criptato. Per il controllo dei NAVS viene utilizzato il «sistema di validazione UST NAVS». Una volta crittografato, il NAVS viene salvato nella banca dati sicura degli identificatori. Durante l'elaborazione dei dati sulla piattaforma, quindi, il NAVS è pseudonimizzato e non è salvato insieme al set di dati delle prestazioni. Il NAVS può essere trasmesso agli utenti dei dati solo in forma criptata. Dal momento che questi utenti dei dati non ne conoscono la chiave, per loro il NAVS è anonimizzato. Non è possibile risalire al numero originale.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Il Cantone ha accesso al file degli ID delle forniture?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="identifikatoren"
+ collapsed-text="Risposta"
+ expanded-text="Risposta"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Durante la rilevazione il Cantone può esportare dati a scopi di plausibilizzazione; in questa fase il NAVS sarà pseudonimizzato.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+&lt;/ol&gt;
+
+&lt;/div&gt;</description></item><item><title>Costi e ricavi non legati ai casi</title><link>https://spiges.github.io/handbook-test/it/faq/falldunabhangige/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/it/faq/falldunabhangige/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Per aprire tutte le domande: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Espandere tutto"
+ expanded-text="Comprimere tutto"
+ group-id="falldunabhangige"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere tutto"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Come possono essere registrati i costi e i ricavi delle prestazioni economicamente d'interesse generale (PEIG) in SpiGes?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="falldunabhangige"
+ collapsed-text="Risposta"
+ expanded-text="Risposta"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Per la registrazione, selezionare il codice appropriato per le relative prestazioni PEIG sotto ktr_typ e inserire i relativi costi e ricavi utilizzando i numeri dei tipi di costo o dei centri di costo e i conti dei ricavi definiti in REKOLE®. In allegato l'elenco dei diversi tipi di PEIG e il relativo codice ktr_typ:
+&lt;table class="w-100"&gt;
+ &lt;tr&gt;
+ &lt;th style="width:20%"&gt; Codice &lt;/div&gt;&lt;/th&gt;
+ &lt;th&gt; PEIG &lt;/th&gt;
+ &lt;th style="width:60%"&gt; Denominazione &lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 501 &lt;/td&gt;
+ &lt;td&gt; Tipo a) &lt;/td&gt;
+ &lt;td&gt; Prestazioni a disposizione (escluse prestazioni a disposizione per urgenze) &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 502 &lt;/td&gt;
+ &lt;td&gt; Tipo a) &lt;/td&gt;
+ &lt;td&gt; Servizio di salvataggio e di ambulanza / centrale di allarme 144 &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 503 &lt;/td&gt;
+ &lt;td&gt; Tipo a) &lt;/td&gt;
+ &lt;td&gt; Reparti ospedalieri protetti &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 504 &lt;/td&gt;
+ &lt;td&gt; Tipo a) &lt;/td&gt;
+ &lt;td&gt; Scuole dell'infanzia e scuole per pazienti &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 505 &lt;/td&gt;
+ &lt;td&gt; Tipo a) &lt;/td&gt;
+ &lt;td&gt; Prestazioni dei servizi sociali per pazienti &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 506 &lt;/td&gt;
+ &lt;td&gt; Tipo a) &lt;/td&gt;
+ &lt;td&gt; Prevenzione / promozione della salute &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 507 &lt;/td&gt;
+ &lt;td&gt; Tipo a) &lt;/td&gt;
+ &lt;td&gt; Protezione della popolazione &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 508 &lt;/td&gt;
+ &lt;td&gt; Tipo a) &lt;/td&gt;
+ &lt;td&gt; Assistenza spirituale / cappella ecumenica &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 599 &lt;/td&gt;
+ &lt;td&gt; Tipo a) &lt;/td&gt;
+ &lt;td&gt; Ulteriori compiti speciali &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 601 &lt;/td&gt;
+ &lt;td&gt; Tipo b) &lt;/td&gt;
+ &lt;td&gt; Ricerca, compreso il dottorato (MD e PhD) &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 602 &lt;/td&gt;
+ &lt;td&gt; Tipo b) &lt;/td&gt;
+ &lt;td&gt; Formazione universitaria di base (insegnamento impartito e formazione ricevuta) &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 603 &lt;/td&gt;
+ &lt;td&gt; Tipo b) &lt;/td&gt;
+ &lt;td&gt; Insegnamento impartito nel perfezionamento professionale &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 701 &lt;/td&gt;
+ &lt;td&gt; Typ c) &lt;/td&gt;
+ &lt;td&gt; Mantenimento di sovracapacità ospedaliere per motivi di politica regionale &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 702 &lt;/td&gt;
+ &lt;td&gt; Typ c) &lt;/td&gt;
+ &lt;td&gt; Maternità &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 703 &lt;/td&gt;
+ &lt;td&gt; Typ c) &lt;/td&gt;
+ &lt;td&gt; Tariffe che non coprono i costi (ad es. TARMED) &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; 799 &lt;/td&gt;
+ &lt;td&gt; Typ c) &lt;/td&gt;
+ &lt;td&gt; Ulteriori prestazioni economicamente d'interesse generale legate agli ospedali &lt;/td&gt;
+ &lt;/tr&gt;
+&lt;/table&gt;
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Le unità di imputazione indipendenti dal caso possono essere collegate a un ospedale (burnr_gesv) invece che a una sede?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="falldunabhangige"
+ collapsed-text="Risposta"
+ expanded-text="Risposta"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+No, non è possibile.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+I tipi di CUFI possono essere utilizzati più di una volta? Ad esempio, per 599 consegnare più righe con testo libero diverso nella variabile «ktr_beschr»?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="falldunabhangige"
+ collapsed-text="Risposta"
+ expanded-text="Risposta"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Sì, è possibile. Sulla base dell'indicazione «ktr_typ» viene assegnata un'unità di imputazione di una colonna ITAR_K®. Ciò significa che nella variabile «ktr_typ» deve essere utilizzato uno dei valori predefiniti. Tuttavia, è possibile indicare più unità di imputazione con lo stesso tipo di CUFI, ad esempio per ktr_typ 205 una volta con il testo libero «LAMal» e una volta con il testo libero «CTM» nella variabile «ktr_beschr». Queste due unità di imputazione vengono poi sommate e riportate nella colonna ITAR_K® «Ospedali di giorno psichiatria infantile e adolescenziale». In teoria, sono tecnicamente possibili anche altre suddivisioni, ad eccezione del caso ambulatoriale. Se hanno tutti lo stesso tipo di CUFI, vengono sommati e raffigurati come descritto.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+I dati relativi alla CUFI vanno inviati anche per i casi ambulatoriali o solo per i casi stazionari?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="falldunabhangige"
+ collapsed-text="Risposta"
+ expanded-text="Risposta"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Per poter completare un ITAR_K®, i costi dei casi ambulatoriali sono compilati per tipo di CUFI (ad es. tariffa per la dialisi).
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+&lt;/ol&gt;
+
+&lt;/div&gt;</description></item><item><title>Ponte di sintonizzazione</title><link>https://spiges.github.io/handbook-test/it/faq/abstimmungsbrucke/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/it/faq/abstimmungsbrucke/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Per aprire tutte le domande: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Espandere tutto"
+ expanded-text="Comprimere tutto"
+ group-id="abstimmungsbrucke"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere tutto"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Conosco il concetto di contabilità delle delimitazioni dalla piattaforma per la rilevazione dei dati ospedalieri (Spitaldatenerhebungsplattform, SDEP). Tale contabilità ci sarà anche in SpiGes o sarà utilizzato solo ITAR_K®?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="abstimmungsbrucke"
+ collapsed-text="Risposta"
+ expanded-text="Risposta"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+SpiGes utilizza il ponte di sintonizzazione della CDS / di REKOLE®.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+All'interno dell'UST, dove sono integrate le motivazioni delle delimitazioni? Come funziona?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="abstimmungsbrucke"
+ collapsed-text="Risposta"
+ expanded-text="Risposta"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Le motivazioni vengono registrate come verifica in SpiGes. In altre parole, se un importo secondo CoFi non corrisponde a quello secondo COAZ, occorre motivarne la differenza. Tali motivazioni vengono poi utilizzate anche altrove, ad esempio per il rapporto di verifica e per l'ITAR_K® o anche per il ponte di sintonizzazione della CDS.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Nel ponte di sintonizzazione, dove vengono considerati i costi dei pazienti ospedalizzati a cavallo di due anni?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="abstimmungsbrucke"
+ collapsed-text="Risposta"
+ expanded-text="Risposta"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Nella contabilità per unità finali d'imputazione di SpiGes è possibile calcolare i costi dei pazienti dimessi nel corso dell'anno (casi A). Questi pazienti possono essere stati ammessi all'ospedale già nel corso degli anni precedenti e aver generato dei costi. Nella contabilità finanziaria gli oneri sono registrati per anno (calcolo temporale). La differenza risultante viene corretta nel ponte di sintonizzazione di SpiGes.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Per il 2024 (dati 2023), SwissDRG SA ha richiesto i dettagli dei costi di utilizzo delle immobilizzazioni dei casi secondo la OCPre. In SpiGes, le variabili «_ank» consentono di inviare a REKOLE i dettagli dei costi di utilizzo delle immobilizzazioni dei casi. Dal momento che SwissDRG SA ora necessita di questo dettaglio, non sarebbe opportuno in SpiGes prevedere la fornitura delle variabili «_ank» anche per i risultati OCPre?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="abstimmungsbrucke"
+ collapsed-text="Risposta"
+ expanded-text="Risposta"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Si tratta solo di una rilevazione di prova da parte di SwissDRG SA. In caso di passaggio definitivo alla OCPre, i costi di utilizzo delle immobilizzazioni per centro di costo in SpiGes verrebbero addebitati in base alla OCPre anziché a REKOLE® e i costi di utilizzo delle immobilizzazioni di REKOLE come totale.&lt;/li&gt;
+&lt;li&gt;In sintesi, i costi di utilizzo delle immobilizzazioni devono essere rilevati secondo i seguenti metodi:&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;table class="w-100"&gt;
+ &lt;tr&gt;
+ &lt;th style="width:65%"&gt; Variabili &lt;/div&gt;&lt;/th&gt;
+ &lt;th&gt; Metodo ANK &lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; Variabili CUFI da «ktr_10_ank» fino a «ktr_77_ank» &lt;/td&gt;
+ &lt;td&gt; REKOLE® &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; Variabile CUFI «ktr_44_vkl» &lt;/td&gt;
+ &lt;td&gt; OCPre &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; KS FiBu: SA6, in particolare la Var. dalla A.15.06 fino alla A.15.06.05
+ &lt;/td&gt;
+ &lt;td&gt; OCPre &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; Ponte di sintonizzazione KS: SA81-84
+ &lt;/td&gt;
+ &lt;td&gt; OCPre &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; Ponte di sintonizzazione KS: SA85, Var. dalla A.17.22.25 fino alla A.17.24.28
+ &lt;/td&gt;
+ &lt;td&gt; REKOLE® &lt;/td&gt;
+ &lt;/tr&gt;
+&lt;/table&gt;
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Il conto 441 non è incluso nel calcolo dei costi di utilizzo delle immobilizzazioni né dall'OCPre né da REKOLE®. Siete in grado di confermarlo?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="abstimmungsbrucke"
+ collapsed-text="Risposta"
+ expanded-text="Risposta"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Clicca qui per espandere/comprimere"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;p&gt;I costi di utilizzo delle immobilizzazioni (secondo REKOLE® e OCPre) corrispondono ai seguenti tipi di costi:&lt;/p&gt;</description></item></channel></rss>
