@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gestion des utilisateurs on Handbuch SpiGes</title><link>https://spiges.github.io/handbook-test/fr/benutzer_verwaltung/</link><description>Recent content in Gestion des utilisateurs on Handbuch SpiGes</description><generator>Hugo</generator><language>fr</language><atom:link href="https://spiges.github.io/handbook-test/fr/benutzer_verwaltung/index.xml" rel="self" type="application/rss+xml"/><item><title>Utilisation du portail de délégations</title><link>https://spiges.github.io/handbook-test/fr/benutzer_verwaltung/delegationsplattform/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/fr/benutzer_verwaltung/delegationsplattform/</guid><description>&lt;h2 id="connexion-au-portail-de-délégation"&gt;Connexion au portail de délégation&lt;/h2&gt;
+&lt;!-- 1ere paire de colonnes --&gt;
+&lt;div class="two_column"&gt;
+&lt;div class="left_col"&gt;
+&lt;!-- First column content goes here --&gt;
+&lt;p&gt; Pour vous connecter au portail de délégation, rendez-vous sur le site 
+
+
+
+
+
+
+
+&lt;a
+ href="https://www.portal.eiam.admin.ch/portal/adminservice/app/home"
+ target="_blank" rel="noopener noreferrer"
+ &gt;eIAM Portal&lt;/a
+&gt;
+, puis connectez-vous à l'aide de votre CH-LOGIN. &lt;/p&gt;
+&lt;p&gt; Vous devez ensuite accepter les conditions d'utilisation pour pouvoir accéder au portail. &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="right_col"&gt;
+&lt;!-- Second column content goes here --&gt;
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/cond_util_fr.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;!-- 2eme paire de colonnes --&gt;
+&lt;div class="two_column"&gt;
+&lt;div class="left_col"&gt;
+&lt;!-- First column content goes here --&gt;
+Vous êtes maintenant connecté au portail eIAM. Pour accéder à la gestion des utilisateurs, cliquez d'abord dans l'onglet "Gestion des utilisateurs", puis cliquez sur "Gestion déléguée". 
+&lt;/div&gt;
+&lt;div class="right_col"&gt;
+&lt;!-- Second column content goes here --&gt;
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/gestion_del.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;</description></item><item><title>Support aux utilisateurs</title><link>https://spiges.github.io/handbook-test/fr/benutzer_verwaltung/support/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/fr/benutzer_verwaltung/support/</guid><description>&lt;h2 id="renvoi-du-code-donboarding"&gt;Renvoi du code d&amp;rsquo;onboarding&lt;/h2&gt;
+&lt;p&gt;Il se peut qu&amp;rsquo;il faille renvoyer le code d&amp;rsquo;onboarding à l&amp;rsquo;utilisateur. Par exemple en cas d&amp;rsquo;erreur dans l&amp;rsquo;entrée de l&amp;rsquo;adresse e-mail ou si cela fait plus d&amp;rsquo;un mois que le code a été envoyé. Dans ce cas voici ce qu&amp;rsquo;il faut faire:&lt;/p&gt;
+&lt;p&gt;Connectez vous au portail de délégation 
+
+
+
+
+
+
+
+&lt;a
+ href="https://www.portal.eiam.admin.ch/portal/adminservice/app/home"
+ target="_blank" rel="noopener noreferrer"
+ &gt;eIAM Portal&lt;/a
+&gt;
+, puis rendez vous sur le profil de l&amp;rsquo;utilisateur.&lt;/p&gt;
+&lt;!-- 1eme paire de colonnes --&gt;
+&lt;div class="two_column"&gt;
+&lt;div class="left_col"&gt;
+&lt;!-- First column content goes here --&gt;
+
+&lt;p&gt;Vous pouvez modifier les autorisations de l&amp;rsquo;utilisateur si nécessaire.&lt;/p&gt;</description></item></channel></rss>

@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Technische Fragen on Handbuch SpiGes</title><link>https://spiges.github.io/handbook-test/de/faq/technische_fragen/</link><description>Recent content in Technische Fragen on Handbuch SpiGes</description><generator>Hugo</generator><language>de</language><atom:link href="https://spiges.github.io/handbook-test/de/faq/technische_fragen/index.xml" rel="self" type="application/rss+xml"/><item><title>Allgemein</title><link>https://spiges.github.io/handbook-test/de/faq/technische_fragen/allgemein/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/technische_fragen/allgemein/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="allgemein"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Gibt es für den Datenimport in die SpiGes Applikation eine Formatvorlage?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="allgemein"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Ja, die Formate im Schnittstellenkonzept sind zu übernehmen.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wurden die grossen Anbieter von Pat.-Admin-Software (SAP) ebenfalls vom BFS informiert und entwickeln sie bereits Software-Lösungen? Vermutlich sollte das XML-File künftig in der Pat.-Admin-Software erstellt werden.
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="allgemein"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Im Januar 2023 haben wir ein Informationsveranstaltung Richtung KIS Hersteller (Pat.-Admin-Software) gemacht. SAP war auch repräsentiert. Das BFS informiert diese Gruppe laufend über den Stand von SpiGes.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Gemäss Variablenliste gibt es folgende Tabellen:
+
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;Administratives&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Neugeborene&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;3&lt;/td&gt;
+ &lt;td&gt;Psychiatrie&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;4&lt;/td&gt;
+ &lt;td&gt;KTR&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;5&lt;/td&gt;
+ &lt;td&gt;Diagnosen&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;6&lt;/td&gt;
+ &lt;td&gt;Behandlungen&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;7&lt;/td&gt;
+ &lt;td&gt;Operierende&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;8&lt;/td&gt;
+ &lt;td&gt;Medikamente&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;9&lt;/td&gt;
+ &lt;td&gt;Rechnung&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;10&lt;/td&gt;
+ &lt;td&gt;Patientenbewegungen&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;11&lt;/td&gt;
+ &lt;td&gt;Kantonsdaten&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;12&lt;/td&gt;
+ &lt;td&gt;Personenidentifikatoren&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+
+
+Kann man unter SpiGes diese Tabellen alle als einzelnes xml-File abgeben?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="allgemein"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Die Tabelle 12 Personenidentifikatoren muss in einem separaten File geliefert werden (aus Datenschutzgründen). Für die restlichen Tabellen ist ein anderes File definiert, welches aber Teillieferungen unterstützt. Theoretisch ist es also möglich, alle Tabellen in einem einzelnen XML-File als Teillieferungen zu liefern. Wir empfehlen dies jedoch nicht, da dies eine aufwändige Abstimmung der verschiedenen Tabellen erfordert (Sicherstellen, dass die Informationen zu allen Fällen in allen Files vorhanden sind). Genauere Informationen zu diesem Thema finden Sie in der Beschreibung der XML-Datei für den Datenimport in die SpiGes-Plattform auf unserer 
+
+
+
+
+
+
+
+&lt;a
+ href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/gesundheitswesen/projekt-spiges.html"
+ target="_blank" rel="noopener noreferrer"
+ &gt;Webseite&lt;/a
+&gt;
+.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Ist es richtig, dass die Datenlieferung an die SwissDRG AG im SpiGes Format keine Teillieferungen erlaubt?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="allgemein"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Diesbezüglich konsultieren Sie bitte die Hinweise auf der Webseite der SwissDRG AG zur Erhebung 2025 (Daten 2024) (z.B. Akutsomatik).
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Gibt es eine Möglichkeit für kleine Betriebe aus einem Excel (in der die KTR eingetragen ist) ein XML-File herzustellen. Gibt es ein Anbieter, der dies plant umzusetzen?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="allgemein"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Ja, es gibt private Anbieter, die so ein Tool bereitstellen. Das BFS verfolgt diese Idee darum aktuell nicht weiter.
+&lt;!--Cette possibilité est actuellement examinée par l'OFS.--&gt;
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Ist geplant eine Excel für die fallunabhängigen Kosten zur Verfügung zu stellen, in welchem der Betrieb die fallunabhängigen Kosten im Excel-Format ausfüllen kann und dann als XML-Format exportieren kann?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="allgemein"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Die separate Lieferung von verschiedenen Arten von XML-Elementen ist möglich. D.h. die fallunabhängigen Kostenträger können grundsätzlich in einem anderen File als die fallabhängigen Kostenträger geliefert werden. Es gibt private Anbieter, die ein Excel Konvertierungs-Tool bereitstellen. Das BFS verfolgt diese Idee darum aktuell nicht weiter.
+&lt;!--Nous devons encore déterminer si nous pouvons mettre à disposition un outil pour la transformation des données à partir d'un fichier Excel.--&gt;
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Hat das SpiGes Exportfile die gleiche Struktur wie das File, welches die Spitäler in SpiGes importieren?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="allgemein"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Es wird mehrere Exportfiles geben. Einerseits wird man das XML-File, was die Spitäler importieren, auch exportieren können und andererseits wird ein Export in einem flachen Format (mehrere CSV-Dateien) möglich sein.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Spielt im XML-Format die Reihenfolge der Variablen innerhalb einer Zeile eine Rolle?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="allgemein"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Die Reihenfolge der Elemente ist vorgegeben und nicht veränderbar. Elemente können höchstens weggelassen werden. Also für das Fall-Element sind die Unterelemente immer in der Reihenfolge «Administratives», «Neugeborene», «Psychiatrie», «KostenträgerFall», «Diagnose», «Behandlung», «Medikament», «Rechnung», «Patientenbewegung» und «Kantonsdaten» anzugeben.&lt;/li&gt;
+&lt;li&gt;Die Reihenfolge der Attribute ist hingegen frei wählbar. So kann z.B. im Element «Administratives» sowohl «…geschlecht=&amp;ldquo;2&amp;rdquo; alter=&amp;ldquo;37&amp;rdquo;…» als auch «…alter=&amp;ldquo;37&amp;rdquo; geschlecht=&amp;ldquo;2&amp;rdquo;…» angegeben werden.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Können auch Variablen innerhalb einer Zeile fehlen, falls die Klinik in dieser Zeile nichts zu der entsprechenden Variable auszufüllen hat? Oder müssen immer alle Variablen der Schnittstelle in jeder Zeile stehen?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="allgemein"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Ja, Variablen können fehlen. Gewisse Variablen müssen aber zwingend angegeben werden. Diese sind im XSD-Definitionsfile als «required» gekennzeichnet («xs:attribute name="fall_id" use="required"»). In der Variablenliste werden wir diese Information auch noch ergänzens.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Können die Variablen, welche keinen Inhalt haben, auch mit einem NULLWERT geliefert werden (zum Beispiel vollständige KTR-Zeilen mit NULLEN in den Variablen wo nichts vorhanden ist)?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="allgemein"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Das kommt auf die Variablen an. Bei den KTR-Variablen ist es möglich, alle Variablen mit dem Wert «0» zu erfassen. Leere Variablen («») oder Nullwerte («NULL») sind jedoch nicht zulässig. Falls Sie das konkret überprüfen möchten, können Sie ihr XML-File gegen die XSD-Definition validieren. Dazu gibt es online gratis Tools. Bitte beachten Sie dabei, dass keine echten Daten auf solche Plattformen hochgeladen werden dürfen. Fiktive Beispiel-Files können sie aber so überprüfen. Auch die SpiGes Plattform wird eine solche Validierung bereitstellen.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wird es eine Plausibilisierungssoftware analog Medplaus geben, die vor dem Upload lokal innerhalb der Spitäler eingesetzt werden kann?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="allgemein"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Es wird ein Prüftool via API (Application Programming Interfaces) zur Verfügung gestellt werden. Dies wird jedoch erst im Laufe des kommenden Jahres bereitstehen. Bis dahin empfehlen wir MedPlaus weiter zu verwenden. Davon wird es auch eine Version für das Jahr 2024 geben.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Ist schon bekannt, wie das Vorgehen in Bezug auf die kantonalen Zusatzdaten sein wird? Verschiedene Kantone (z.B. LU, GR, VS und VD) haben ja bereits heute eine MK-Zeile. Zudem erheben die Kantone ZH und BE im Rahmen von SDEP ebenfalls zusätzliche Daten. Wissen Sie bereits, ob diese Daten in den Export SpiGes integriert werden oder ob diese separat exportiert werden müssen?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="allgemein"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+
+&lt;ul class="unordered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Die kantonalen Zusatzdaten wurden in der Schnittstelle berücksichtigt; siehe 
+
+
+
+
+
+
+
+&lt;a
+ href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/gesundheitswesen/projekt-spiges.assetdetail.32129189.html"
+ target="_blank" rel="noopener noreferrer"
+ &gt;Beschreibung der XML-Datei für den Datenimport in die SpiGes-Plattform&lt;/a
+&gt;
+.
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Die kantonalen Zusatzdaten können zwar im XML angegeben werden, werden beim Import auf die SpiGes Plattform jedoch nicht weiterverarbeitet. Sie werden von den Kantonen separat plausibilisiert und bearbeitet.
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Exportierbar sind die Kantonsdaten nur durch das Spital selbst und durch den Kanton. Voraussichtlich sind die Kantonsdaten für diese User im selben XML-File enthalten, wie die restlichen Daten.
+
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wird es möglich sein, Korrekturen direkt auf der Plattform vorzunehmen?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="allgemein"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Nein, die Plattform bietet keine Möglichkeit, Daten einzugeben oder zu korrigieren. Ziel ist es, die Fehler an der Quelle, d.h. in den Systemen der Krankenhäuser, zu korrigieren, damit die späteren Exporte konsistent sind und die Fehler in den nächsten Erhebungen nicht mehr auftauchen.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Es gibt neue Formate. Beispielweise bei rech_betrag. Das Format lautet N10.2 Wir vermuten, es handelt sich hierbei um die Angabe von Dezimalstellen. In diesem Fall 2 Dezimalstellen und eine Gesamtlänge von 12. Ist dies korrekt?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="allgemein"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+N10.2 bezeichnet eine Zahl mit insgesamt 10 Stellen, davon 2 Nachkommastellen (und ergo max. 8 Vorkommastellen).
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Neue Variablen medi_id und rech_id: Aus der Beschreibung sind wir uns nicht sicher, ob hier laufende Nummern oder tatsächliche ID aus dem System gemeint sind. Wenn ja, welche? Bei der medi_id dachten wir sofort an den ATC_Code, jedoch gibt es hierfür eine extra Variable.
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="allgemein"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Es handelt sich bei den beiden neuen Variablen «medi_id» und «rech_id» um Identifikatoren, die zur eindeutigen Zuordnung aus technischen Gründen nötig sind. Diese müssen nicht zwingend mit 1 beginnen, sie müssen aber für jeden Fall eindeutig sein.&lt;/li&gt;
+&lt;li&gt;In der XML-Musterdatei 1.3, welche Sie auf unserer Homepage vorfinden, ist auch ein Beispiel enthalten. medi_id=«1» enthält die Information, dass es sich um das erste hochteure Medikament gemäss den Vorgaben der SwissDRG AG für diesen spezifischen Fall handelt.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/Image5.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+In den Beispieldateien für das Identifikatoren-File und das Daten-File gibt es zwei Felder für die Version. Diese Versionen stimmen aber nicht überein. So wird im Header die Version 1.0 angegeben und beim Tag Unternehmen die Version 1.3. Warum sind die Versionsnummern unterschiedlich? Woher wissen wir wann welche Versionsnummer anzugeben ist?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="allgemein"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/Image6.jpg" alt="no description available" style="margin-bottom:1rem;" /&gt;
+
+
+
+&lt;br /&gt;
+
+
+&lt;code&gt;?xml version=&amp;quot;1.0&amp;quot;&lt;/code&gt; steht immer so.
+Die oberste Version bezieht sich also auf das «XML» selbst, und die untere auf das spezifische SpiGes XML.
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+&lt;/ol&gt;
+
+&lt;/div&gt;</description></item><item><title>Formatprüfungen und Fehlermeldungen</title><link>https://spiges.github.io/handbook-test/de/faq/technische_fragen/format_fehlermeldung/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/technische_fragen/format_fehlermeldung/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="format_fehlermeldung"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Generelle Begriffe, die in den Fehlermeldungen verwendet werden
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="format_fehlermeldung"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Element = Erhebungsteil (z.B. Unternehmen, Standort, Fall usw)&lt;/li&gt;
+&lt;li&gt;Attribut = Variable (z.B. ent_id, burnr usw)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/tf1.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Welche Fehler verursachen die Fehlermeldung «interner Serverfehler 500»?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="format_fehlermeldung"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Beim internen Serverfehler 500 gibt es verschiedene Ursachen, welche Sie hier aufgeführt finden:
+
+&lt;ol&gt;
+&lt;li&gt;Datei leer&lt;/li&gt;
+&lt;li&gt;Datei zu gross&lt;/li&gt;
+&lt;li&gt;Kopfzeile falsch&lt;/li&gt;
+&lt;li&gt;Nicht mit UTF 8 codiert&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+&lt;br /&gt;
+
+
+&lt;p&gt;Kopfzeile:&lt;/p&gt;</description></item></channel></rss>

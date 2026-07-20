@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Accès à la plateforme on Handbuch SpiGes</title><link>https://spiges.github.io/handbook-test/fr/eiam_onboarding/</link><description>Recent content in Accès à la plateforme on Handbuch SpiGes</description><generator>Hugo</generator><language>fr</language><atom:link href="https://spiges.github.io/handbook-test/fr/eiam_onboarding/index.xml" rel="self" type="application/rss+xml"/><item><title>Onboarding avec SpiGes</title><link>https://spiges.github.io/handbook-test/fr/eiam_onboarding/onboarding_spiges/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/fr/eiam_onboarding/onboarding_spiges/</guid><description>&lt;p&gt;Vous allez recevoir un mail vous invitant à conclure votre onboarding par votre accès à la plateforme de relevé SpiGes.&lt;/p&gt;
+
+
+
+&lt;div class="container grid-layout mb-3"&gt;
+ 
+
+
+
+&lt;div class="row row-layout align-items-center mb-3"&gt;
+ 
+
+
+&lt;div class="col-6 column-layout "&gt;
+ 
+
+&lt;p&gt;Sélectionnez votre code d&amp;rsquo;onboarding et copiez le à l&amp;rsquo;aide du clic droit, puis cliquez sur le lien d&amp;rsquo;onboarding.&lt;/p&gt;
+&lt;p&gt;Connectez vous à l&amp;rsquo;aide de votre compte AGOV.&lt;/p&gt;
+
+
+&lt;/div&gt;
+
+
+
+
+&lt;div class="col column-layout "&gt;
+ 
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/mail_onboarding.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+
+&lt;/div&gt;
+
+
+
+
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class="row row-layout align-items-center "&gt;
+ 
+
+
+&lt;div class="col-6 column-layout "&gt;
+ 
+Collez maintenant votre code d'onboarding, puis cliquez sur "envoyer le code d'enregistrement".
+
+&lt;/div&gt;
+
+
+
+
+&lt;div class="col column-layout "&gt;
+ 
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/enregistrement.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+
+&lt;/div&gt;
+
+
+
+
+&lt;/div&gt;
+
+
+
+
+&lt;/div&gt;
+
+
+&lt;p&gt;Vous avez maintenant accès à la plateforme SpiGes. Pour vous connecter, rendez vous sur le site 
+
+
+
+
+
+
+
+&lt;a
+ href="https://www.spiges.admin.ch/home"
+ target="_blank" rel="noopener noreferrer"
+ &gt;www.spiges.admin.ch&lt;/a
+&gt;
+&lt;/p&gt;</description></item><item><title>Structure des Units eIAM</title><link>https://spiges.github.io/handbook-test/fr/eiam_onboarding/ch_unit_eiam/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/fr/eiam_onboarding/ch_unit_eiam/</guid><description>&lt;p&gt;Les différents utilisateurs de la plateforme SpiGes sont organisés comme suit:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Canton
+&lt;ul&gt;
+&lt;li&gt;Entreprises
+&lt;ul&gt;
+&lt;li&gt;Sites hospitaliers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Un canton contient une ou plusieurs entreprises qui elles-mêmes contiennent un ou plusieurs sites hospitaliers.&lt;/p&gt;
+
+
+
+&lt;div class="alert alert-warning " role="alert"&gt;
+ &lt;div class="alert-icon"&gt;
+ &lt;div class="icon-wrapper"&gt;
+ 
+ &lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fit="" height="100%" width="100%" focusable="false"&gt;&lt;circle cx="12" cy="19.5" r="1.5" fill="#fff"/&gt;&lt;line x1="12" y1="3" x2="12" y2="14.83154" fill="#fff" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/&gt;&lt;/svg&gt;&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="alert-content"&gt;
+ 
+ 
+ Dans certains cas, le canton géographique d&amp;rsquo;un site et celui administratif de l&amp;rsquo;entreprise ne sont pas les mêmes.
+ 
+ &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Exemple:&lt;/p&gt;
+
+
+
+&lt;div class="container grid-layout "&gt;
+ 
+
+
+&lt;div class="row row-layout "&gt;
+ 
+
+
+&lt;div class="col-6 column-layout "&gt;
+ 
+
+&lt;ol&gt;
+&lt;li&gt;Dans cette colonne, vous voyez le EntID au niveau de l&amp;rsquo;entreprise et vous voyez le numéro Bur au niveau des sites hospitaliers.&lt;/li&gt;
+&lt;li&gt;Dans cette colonne, vous voyez le canton &amp;ldquo;administratif&amp;rdquo; de l&amp;rsquo;entreprise / du site hospitalier.&lt;/li&gt;
+&lt;li&gt;Dans cette colonne, vous voyez le canton géographique de l&amp;rsquo;entreprise / du site hospitalier.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Vous voyez ici que le canton administratif et le canton géographique du site 1 ne sont pas les mêmes.&lt;/p&gt;</description></item></channel></rss>

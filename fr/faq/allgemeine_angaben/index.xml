@@ -1,0 +1,1523 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Données générales on Handbuch SpiGes</title><link>https://spiges.github.io/handbook-test/fr/faq/allgemeine_angaben/</link><description>Recent content in Données générales on Handbuch SpiGes</description><generator>Hugo</generator><language>fr</language><atom:link href="https://spiges.github.io/handbook-test/fr/faq/allgemeine_angaben/index.xml" rel="self" type="application/rss+xml"/><item><title>Rôles et parties prenantes</title><link>https://spiges.github.io/handbook-test/fr/faq/allgemeine_angaben/rollen/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/fr/faq/allgemeine_angaben/rollen/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Ouvrir toutes les questions: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Tout ouvrir"
+ expanded-text="Tout fermer"
+ group-id="roles"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour tout développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Qui l'hôpital contacte-t-il s'il a des questions concernant le contenu de l'enquête SpiGes ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="roles"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+En cas de questions professionnelles ou techniques concernant SpiGes, l'hôpital s'adresse en premier lieu à son instance cantonale en charge du relevé.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Quel sera à l'avenir le rôle des cantons, en particulier des partenaires cantonaux de l'enquête ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="roles"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Les services cantonaux chargés de l&amp;rsquo;enquête collaborent au relevé de l&amp;rsquo;OFS comme jusqu&amp;rsquo;à présent (population de base, coordination et communication avec les hôpitaux, rappels, etc.).&lt;/li&gt;
+&lt;li&gt;L&amp;rsquo;office cantonal de la santé compétent libère désormais fin juillet les données des entreprises hospitalières situées sur son territoire pour une utilisation selon la LAMal sur la plateforme SpiGes.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Il existe dans SpiGes des variables facultatives qui peuvent être remplies selon les directives du canton. Jusqu'à quand le canton doit-il communiquer aux établissements ou à l'OFS quelles variables doivent être remplies ? Le canton est-il libre de décider quels éléments facultatifs doivent être remplis ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="roles"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Les cantons communiquent à leurs hôpitaux la mise à disposition des variables facultatives (p. ex. op_gln) suffisamment tôt pour que celles-ci soient saisies dans le système d'information de l'hôpital à partir des données 2024. Le canton décide, conformément à ses directives dans le domaine de la santé, lesquelles peuvent être plus spécifiques que les directives nationales pour ces variables.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Les hôpitaux souhaitent qu'une séance d'information soit organisée afin de leur donner une meilleure vue d'ensemble des exigences à venir. Une telle réunion est-elle prévue par l'OFS ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="roles"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+L'OFS a déjà organisé 4 séances d'information pour un large public, auxquelles quelques hôpitaux ont également participé. H+ a informé ses hôpitaux à chaque fois. Etant donné qu'à l'heure actuelle, ce ne sont plus des questions conceptuelles qui se posent mais des thèmes très spécifiques, l'OFS ne considère pas qu'une telle manifestation soit l'instrument approprié. L'OFS rassemble les questions reçues et mettra en ligne la FAQ sur le site web de SpiGes.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Est-ce que les exigences de l'ANQ pourront également être satisfaites à l'avenir avec le fichier XML ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="roles"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+L'OFS est en contact avec l'ANQ afin d'harmoniser les variables et les formats SpiGes.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Est-ce que vous pourriez m'indiquer la base légale qui oblige les hôpitaux à transmettre la statistique ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="roles"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Conformément à l'art. 23 de la loi fédérale du 18 mars 1994 sur l'assurance-maladie (LAMal ; RS 832.10), à l'art. 6 al. 4 de la loi du 9 octobre 1992 sur la statistique fédérale (LSF; RS 431.01), à l'art. 20 al. 1 de l'ordonnance sur la statistique fédérale (OStatF, RS 431.011) et aux dispositions relatives au relevé pour la statistique des services de santé (05.03.) annexées à ladite ordonnance, tous les hôpitaux sont tenus de fournir à l'Office fédéral de la statistique les données requises sous la forme prescrite et dans le délai fixé.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+&lt;/ol&gt;
+
+&lt;/div&gt;</description></item><item><title>Adaptations du contenu</title><link>https://spiges.github.io/handbook-test/fr/faq/allgemeine_angaben/inhaltliche_anpassungen/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/fr/faq/allgemeine_angaben/inhaltliche_anpassungen/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Ouvrir toutes les questions: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Tout ouvrir"
+ expanded-text="Tout fermer"
+ group-id="contenu"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour tout développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Quelles sont les variables qui changent avec SpiGes ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="contenu"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+
+&lt;ul class="unordered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+SpiGes a surtout des répercussions importantes sur le processus de contrôle des données et le format des données de la livraison. En ce qui concerne les données médicales (MS actuel), seuls quelques points changent. Les plus importants pour vous devraient être les suivants :
+
+&lt;ul&gt;
+&lt;li&gt;Le traitement principal est supprimé.&lt;/li&gt;
+&lt;li&gt;Le complément au diagnostic principal est supprimé.&lt;/li&gt;
+&lt;li&gt;Les diagnostics et les traitements peuvent désormais être saisis en nombre illimité.&lt;/li&gt;
+&lt;li&gt;Le temps de prestation chirurgicale est saisi pour les procédures chirurgicales.&lt;/li&gt;
+&lt;li&gt;Le début du traitement doit être saisi avec l&amp;rsquo;heure (de l&amp;rsquo;opération dans son ensemble) pour les procédures chirurgicales.&lt;/li&gt;
+&lt;li&gt;La référence entre plusieurs diagnostics (dague/étoile, point d&amp;rsquo;exclamation) est désormais saisie avec une variable de référence (diagnose_zusatz) saisi à la place du caractère spécial.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+La meilleure façon de suivre toutes les modifications apportées à l'ensemble de données ainsi que les détails exacts est de prendre la liste des variables et de filtrer la colonne "Nouveau/Variable MS" pour distinguer les nouvelles variables et les variables adaptées.
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Les données de facturation et les coûts, respectivement les recettes, sont désormais collectées.
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Vous trouverez ici le 
+
+
+
+
+
+
+
+&lt;a
+ href="https://www.bfs.admin.ch/bfs/fr/home/statistiken/gesundheit/gesundheitswesen/projekt-spiges.assetdetail.25885643.html"
+ target="_blank" rel="noopener noreferrer"
+ &gt;jeu de données complet&lt;/a
+&gt;
+.
+
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Quel est l'impact de SpiGes sur les directives de codage ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="contenu"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Vous trouverez ces informations dans le 
+
+
+
+
+
+
+
+&lt;a
+ href="https://www.bfs.admin.ch/bfs/fr/home/statistiques/sante/nomenclatures/medkk.html"
+ target="_blank" rel="noopener noreferrer"
+ &gt;manuel de codage&lt;/a
+&gt;
+.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Quel est le contenu du rapport national de vérification ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="contenu"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Le contenu exact du rapport national de vérification dépend des contrôles qui sont actuellement élaborés avec un groupe de travail comprenant toutes les parties prenantes. Pour l'essentiel, le rapport national de vérification comprend les contrôles positifs ainsi que les justifications officielles de ces contrôles (un extrait du chat relatif au contrôle).
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Les hôpitaux pilotes seront en mesure de créer un premier jeu de données dès le printemps 2024. D'autres cantons exigent la remise d'un premier fichier de données XML d'ici septembre. Pour ces remises, attend-on des données réelles d'un système productif ou des données de test d'un système de test suffisent-elles ? En d'autres termes, la vraie analyse ne commencera-t-elle qu'en 2025 ou l'OFS veut-il déjà analyser les données réelles de 2024 ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="contenu"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Pour le pilote au printemps 2024, on attend des hôpitaux pilotes qu&amp;rsquo;ils fournissent des données réelles issues d&amp;rsquo;un système productif. Celles-ci ne seront analysées que dans le but d&amp;rsquo;acquérir des connaissances sur le pilote.&lt;/li&gt;
+&lt;li&gt;En août 2024, tous les hôpitaux (dans tous les cantons) devront effectuer un test d&amp;rsquo;interface afin de montrer que la mise en œuvre technique de l&amp;rsquo;interface fonctionne. Pour cela, des livraisons partielles, même à partir de systèmes de test, suffisent.&lt;/li&gt;
+&lt;li&gt;A partir du 1er janvier 2025, tous les hôpitaux devront fournir des données réelles de l&amp;rsquo;année 2024 issues des systèmes productifs et les vérifier intégralement avant fin avril et les justifier le cas échéant.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Valeurs inversées : Nous avons remarqué que les valeurs de certaines variables sont différentes de celles des statistiques MS.
+Par exemple, il y a la valeur des signes vitaux.
+
+Statistiques sur la MS :
+0 = mort-né
+1 = né vivant.
+Spiges (exactement l&amp;rsquo;inverse) :
+0 = naissance vivante
+1 = mort-né.
+
+
+&lt;br /&gt;
+
+D'autres exemples seraient la formation scolaire ou l'État civil. De notre point de vue, ce n'est pas optimal et nous aimerions savoir si c'est l'intention et, si oui, pourquoi ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="contenu"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Dans l'esprit du "once only", nous avons intégré les listes de codes et les métadonnées dans un système OFS, qui sera ensuite publié. Les nouvelles listes de codes correspondent désormais au standard suisse de la plateforme d'interopérabilité i14y.admin.ch, alors qu'auparavant il s'agissait d'une solution spéciale MS.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Valeurs calculées : Dans la liste des variables, il y a quelques lignes qui sont grisées avec la remarque calculées (exemple uid). Cela signifie-t-il que nous les livrons vides dans le XML et que l'OFS les calculera et les inscrira ? Ou est-ce que nous ne fournissons pas ces valeurs et les ignorons ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="contenu"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Comme vous pouvez le constater dans le schéma XML, ces variables calculées ne sont pas incluses. Vous pouvez les ignorer.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+&lt;/ol&gt;
+
+&lt;/div&gt;</description></item><item><title>Populations et unités d'enquête</title><link>https://spiges.github.io/handbook-test/fr/faq/allgemeine_angaben/grundgesamtheit_erhebungseinheiten/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/fr/faq/allgemeine_angaben/grundgesamtheit_erhebungseinheiten/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Ouvrir toutes les questions: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Tout ouvrir"
+ expanded-text="Tout fermer"
+ group-id="GGH"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour tout développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Lors de l'introduction de SpiGes ou au moment de la définition de la population de base pour la première enquête SpiGes, travaille-t-on encore avec les «listes d'hôpitaux» traditionnelles ou déjà avec SpiReg ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="GGH"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Lors de la première enquête SpiGes (données 2024) en 2025, la population KS est encore importée manuellement sous forme de listes Excel.&lt;/li&gt;
+&lt;li&gt;L&amp;rsquo;actuel BUR (REE) s&amp;rsquo;appellera BURGESV et restera l&amp;rsquo;identifiant de l&amp;rsquo;hôpital. Le BUR (REE) de site s&amp;rsquo;appellera BUR à partir des données 2024 (relevé 2025).&lt;/li&gt;
+&lt;/ul&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Quelle est la différence entre une entreprise hospitalière, un hôpital et un site hospitalier ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="GGH"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Une entreprise hospitalière est une entreprise dont le code NOGA est 861001 (hôpitaux généraux), 861002 (cliniques spécialisées) ou 869004 (maisons de naissance). Elle est désignée de manière univoque par le numéro d&amp;rsquo;identification ENTID.&lt;/li&gt;
+&lt;li&gt;Dans le relevé SpiGes, l&amp;rsquo;hôpital est une unité qui remplit un ITAR_K® et sur lequel se base la définition de cas de SwissDRG SA. Un hôpital est identifié par le n° BURGESV qui n&amp;rsquo;est géré que sur la base de données de GESV.&lt;/li&gt;
+&lt;li&gt;Un site hospitalier est clairement identifié par le numéro BUR (REE) et appartient toujours à une seule entreprise hospitalière.
+Le tableau suivant montre, à titre d&amp;rsquo;exemple, une entreprise (IDE/ENTID) avec 12 hôpitaux (BURGESV) et 14 sites (BUR) :&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+&lt;img class="max-w-90" src="https://spiges.github.io/handbook-test/img/tableauFAQ1.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Quels sont les termes synonymes d'entreprise hospitalière, d'hôpital et de site hospitalier utilisés dans l'enquête SpiGes ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="GGH"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Niveau&lt;/th&gt;
+ &lt;th&gt;Termes synonymes&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Entreprise hospitalière&lt;/strong&gt;&lt;br&gt;Unité juridique&lt;/td&gt;
+ &lt;td&gt;Entreprise (hospitalière)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Hôpital&lt;/strong&gt; (selon indication du canton, enquête MS/KS, définition de cas)&lt;/td&gt;
+ &lt;td&gt;Hôpital, institution, clinique, établissement (hospitalier)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Site de l&amp;rsquo;hôpital&lt;/strong&gt;&lt;br&gt;Unité locale&lt;/td&gt;
+ &lt;td&gt;Site (hospitalier)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Comment déterminer à quel hôpital (BURGESV) appartient un site (BUR) ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="GGH"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Nous demandons l&amp;rsquo;attribution des sites (BUR) aux hôpitaux (BURGESV) lors de la collecte de la population de base. Dans ce processus, ce sont les cantons, en collaboration avec les hôpitaux, qui nous donnent l&amp;rsquo;information.&lt;/li&gt;
+&lt;li&gt;Le burnr_gesv est également relevé à la demande de nos partenaires.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Qu'est-ce qu'un centre de prestations principal (p. ex. M000, M050) ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="GGH"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Un centre de prestations est une unité organisationnelle de l'hôpital dans laquelle sont fournies, entre autres, des prestations médicales, médico-techniques ou médico-thérapeutiques. L'enquête SpiGes indique dans quel centre de prestations médicales principal le patient est traité.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Si un hôpital a plusieurs sites, un cas est-il toujours enregistré sur un seul site, même s'il a été transféré d'un site vers un autre site du même hôpital ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="GGH"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Oui, un cas est toujours enregistré sur un seul site, et ce sur le site principal (cf. variable burnr).
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+&lt;/ol&gt;
+
+&lt;/div&gt;</description></item><item><title>ITAR_K®</title><link>https://spiges.github.io/handbook-test/fr/faq/allgemeine_angaben/itar_k/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/fr/faq/allgemeine_angaben/itar_k/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Ouvrir toutes les questions: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Tout ouvrir"
+ expanded-text="Tout fermer"
+ group-id="ITARK"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour tout développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+SpiGes ne collecte des informations que sur les cas stationnaires. Comment la partie ambulatoire d'ITAR_K® peut-elle être remplie ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="ITARK"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+ITAR_K® peut être établi avec les données SpiGes. Les données ambulatoires sont collectées dans les types d'UFI prévus à cet effet (p. ex. tarif laboratoire).
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Comment ITAR_K® est-il établi par les cliniques qui ne font que partie d'une entreprise hospitalière ? (p.ex. la Clinique Sainte-Anne de Fribourg fait partie de Swiss Medical Network SA)
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="ITARK"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+La Clinique Sainte-Anne de Fribourg remplira la comptabilité financière (et toutes les autres données) dans la statistique des hôpitaux (KS) par clinique (niveau BURGESV). Les coûts issus de SpiGes peuvent être agrégés par BURGESV.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Les données sur les coûts doivent être saisies avant le 31 mars. Ces données doivent-elles avoir été révisées ? Actuellement, nous ne pourrions pas le faire, car les comptes annuels ne sont révisés que fin mars.
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="ITARK"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+A cette date, les données de coûts doivent avoir été vérifiées automatiquement pour la première fois sur la plateforme SpiGes. La révision des comptes peut avoir lieu plus tard.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Nous ne trouvons pas la variable SpiGes qui permettrait de diriger les recettes/coûts PIG directement liés à un cas vers la colonne PIG de ITAR_K®. Comment sera-t-il possible de reconstituer la colonne PIG de ITAR_K® à travers SpiGes?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="ITARK"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Il n&amp;rsquo;y a pas de recettes/coûts des Prestations d&amp;rsquo;Intérêt Général (PIG) directement liés à des cas. Pour la représentation des PIG, SpiGes s&amp;rsquo;en tient, en principe, à la jurisprudence et aux recommandations de l&amp;rsquo;association des hôpitaux H+ et de sa solution de branche REKOLE®.&lt;/li&gt;
+&lt;li&gt;Selon REKOLE®, il peut y avoir, au sein des institutions hospitalières, des PIG pour des missions spéciales et/ou pour de la recherche et la formation universitaire. Les coûts et recettes relatifs à ces prestations sont comptabilisés sur des mandats clairement définis (Chap. 9.10 de REKOLE®). REKOLE® prévoit également que les recettes relatives aux autres contributions pour le maintien de capacités hospitalières pour des raisons de politiques régionales ou pour tarifs ne couvrant pas les coûts reçus par les institutions hospitalières soient comptabilités sur des mandats ne contenant que des produits. Ces recettes ne correspondent par contre à aucune prestation définie. Elles ne doivent, par conséquent, pas avoir d&amp;rsquo;influence sur les coûts des institutions hospitalières (Chap. 9.11.3 de REKOLE®).&lt;/li&gt;
+&lt;li&gt;Dans la liste des variables SpiGes, il est précisé dans la description de la variable « ktr_typ » que : «Il convient d&amp;rsquo;indiquer ici le type d&amp;rsquo;unité finale d&amp;rsquo;imputation : cas (=1) ou &lt;strong&gt;mandat&lt;/strong&gt; avec sous-catégories précises; Il faudra reprendre la formulation de la feuille séparée Types de CUFI (Comptabilité analytique par unité finale d&amp;rsquo;imputation). &lt;strong&gt;Il faut remplir une ligne séparée pour chaque PIG et éxploitation annexe&lt;/strong&gt;. La feuille Types de CUFI donne des indications plus précises sur les directives spécifiques aux unités finales d&amp;rsquo;imputation. Cette variable est importante pour la répartition des cas dans les colonnes du modèle de tarif ITAR_K®». Les recettes/coûts relatifs aux PIG sont donc récoltés par la statistique SpiGes à travers les mandats de la comptabilité analytique de l&amp;rsquo;institution hospitalière. Cela permet ainsi de remplir correctement la colonne PIG du fichier ITAR_K®.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- avant input H+:
+- En ce qui concerne la représentation des prestations d'intérêt général, SpiGes s'en tient en principe à la jurisprudence et aux recommandations de l'association des hôpitaux H+. REKOLE® prévoit que les coûts des prestations d'intérêt général liées à un cas soient représentés sur le cas, mais que les produits soient représentés sur une unité finale d'imputation PIG séparé. Les coûts et les produits des PIG indépendants des cas sont également représentés sur une unité finale d'imputation PIG séparé.
+- D'un point de vue technique, il est toutefois possible de s'écarter des prescriptions de REKOLE®. Les coûts et les recettes des PIG liés aux cas peuvent également être saisis sur une unité finale d'imputation propre (type KTR 700-799). Cela est également laissé à l'appréciation du canton. Dans ce cas, il est important que les coûts et les produits pour les prestations AOS soient tout de même saisis sur le cas (type KTR = 1).--&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+ITAR_K® peut être rempli au niveau de l'entreprise ou du site. Qu'est-ce qui est demandé dans SpiGes ? La décision en la matière revient-elle aux cantons ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="ITARK"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;ITAR_K® est toujours rempli au niveau BURGESV, ce niveau doit correspondre au relevé de la KS. Le canton fournit les informations à ce sujet à l&amp;rsquo;OFS lors de la phase d&amp;rsquo;initialisation du relevé KS. Dans cette mesure, le canton a une influence. Il doit toutefois se concerter avec l&amp;rsquo;hôpital.&lt;/li&gt;
+&lt;li&gt;ITAR_K® est l&amp;rsquo;instrument de base pour les négociations tarifaires entre les hôpitaux et les assureurs. La question de savoir si le canton participe à la détermination de la granularité dépend du fait qu&amp;rsquo;il s&amp;rsquo;agisse d&amp;rsquo;un hôpital répertorié, d&amp;rsquo;un hôpital conventionné ou d&amp;rsquo;un hôpital hors liste.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+A partir de quand ITAR_K® sera-t-il généré à partir de la plateforme SpiGes ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="ITARK"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+L'instrument ITAR_K® pour la tarification et l'examen de l'économicité devra être créé à l'avenir par SpiGes. Afin de garantir une transition sûre, ainsi que l'exactitude, il est prévu d'exploiter en parallèle l'ancienne et la nouvelle plateforme (H+ et SpiGes). En 2025 (données 2024), les ITAR_K® officiels seront encore établis par la plateforme H+ comme auparavant. A partir de septembre 2025, tous les hôpitaux auront en outre la possibilité d'établir les ITAR_K® 2025 (données 2024) via SpiGes et de comparer les deux résultats. Les éventuelles ambiguïtés pourront ainsi être levées avant l'introduction productive de l'établissement des ITAR_K® via SpiGes en 2026 (données 2025).
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Que se passe-t-il si le dossier n'est pas encore facturé et que les informations relatives au CM et aux rémunérations supplémentaires ne figurent pas dans les données de facturation ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="ITARK"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Dans ITAR_K®, les résultats du Grouper sont utilisés pour ces informations. Seuls les montants des rémunérations supplémentaires non évaluées sont prises en compte dans les données de facturation.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+En téléchargeant ITAR_K®, les cellules concernant les exploitations annexes et les cas à cheval sont vides, pourquoi ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="ITARK"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Il a été décidé, conjointement avec H+, de laisser vide et à compléter par les hôpitaux pour le moment. Ces cellules sont en couleur lilas (dès la V.16 d'ITAR_K®) pour montrer ce que SpiGes ne remplit pas du tout.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Pourquoi les coûts Hôtellerie OCP (lignes 38-40) sont-ils négatifs ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="ITARK"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Ces lignes sont calculées dans ITAR_K®. Par ailleurs, SpiGes ne collecte pas le détail Hôtellerie OCP (mais uniquement REKOLE), ces montants sont donc à compléter par les hôpitaux. Une fois les lignes renseignées, les montants seront positifs et corrects. 
+
+&lt;ul&gt;
+&lt;li&gt;En vert: sera rempli par SpiGes&lt;/li&gt;
+&lt;li&gt;En lilas: sera rempli par l&amp;rsquo;hôpital&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/itark_hot_ocp_fr.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Les montants pour les rémunérations supplémentaires non évaluées dans ITAR_K® ne sont pas repris. Comment faut-il faire pour que SpiGes puisse les reprendre ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="ITARK"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+SpiGes reprend ce qui est mis dans la facture. Pour faire le lien, SpiGes utilise deux choses : rech_tariftyp 11-21-31 qui correspond aux rémunérations supplémentaires selon ForumDatenaustausch et le code de la rémunération supplémentaire sous rech_tarifcode.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Pour quelle raison les noms de colonnes concernant les tarifs définis par l'hôpital dans le domaine ambulatoire ne sont pas repris dans ITAR_K® ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="ITARK"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+SpiGes contient plus de KTR_TYP que nécessaire dans ITAR_K® pour ces tarifs. La distinction entre LAMal, complémentaire et auto-payeur n'est plus faite dans ITAR_K®. Comme indiqué dans l'arbre décisionnel, ces colonnes dans ITAR_K® sont définies comme suit:
+
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;colonne ITAR_K®&lt;/th&gt;
+ &lt;th&gt;KTR_TYP&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Autres tarifs amb. spécifiques à l&amp;rsquo;établissement&lt;/td&gt;
+ &lt;td&gt;371,372,373&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Autres tarifs amb. spécifiques à l&amp;rsquo;établissement&lt;/td&gt;
+ &lt;td&gt;374,375,376&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Autres tarifs amb. spécifiques à l&amp;rsquo;établissement&lt;/td&gt;
+ &lt;td&gt;377,378,379&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Autres tarifs amb. spécifiques à l&amp;rsquo;établissement&lt;/td&gt;
+ &lt;td&gt;380,381,382,402&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+ 
+Si la distinction est faite dans la KTR_BESCHR, un message d'erreur apparaît dans SpiGes pour mettre en garde sur ce point. Si la KTR_BESCHR n'est pas identique pour une colonne ITAR_K®, SpiGes ne peut pas déterminer laquelle est correcte.
+
+
+&lt;br /&gt;
+
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/itark_erreur_tarifambu_fr.png" alt="no description available" style="margin-bottom:1rem;" /&gt; 
+
+
+&lt;br /&gt;
+
+SpiGes va toutefois vous indiquer qu'il faut compléter ce nom de colonne manuellement: 
+
+
+&lt;br /&gt;
+
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/itark_tarifambu.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Administration des patients (ambulatoire): est-ce toujours possible de choisir entre une répartition manuelle ou automatique ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="ITARK"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Pour remplir la ligne ITAR_K® Administration des patients en ambulatoire, SpiGes prend en compte les deux façons (répartition manuelle ou répartition automatique). L’établissement peut:
+
+&lt;ul&gt;
+&lt;li&gt;Utiliser le ktr_10 pour chaque KTR_typ ambulatoire (301, 302, 303, etc.).&lt;/li&gt;
+&lt;li&gt;Utiliser le ktr_10 sous KTR_typ = 403 (montant total à répartir).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Si l’établissement utilise une combinaison des deux, le montant total sous 403 sera réparti entre &lt;strong&gt;toutes&lt;/strong&gt; les activités ambulatoires et &lt;strong&gt;additionné&lt;/strong&gt; aux montants individuels.&lt;/p&gt;</description></item><item><title>Délimitation des cas</title><link>https://spiges.github.io/handbook-test/fr/faq/allgemeine_angaben/fall/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/fr/faq/allgemeine_angaben/fall/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Ouvrir toutes les questions: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Tout ouvrir"
+ expanded-text="Tout fermer"
+ group-id="Fall"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour tout développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Les accompagnateurs stationnaires font-ils également partie de la livraison de données SpiGes ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="Fall"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+En principe, les accompagnateurs (parents, enfants, partenaire) ne sont pas des cas stationnaires, ils ont besoin de services hôteliers (sans prestation médicale) et ne sont pas enregistrés (c'était déjà le cas pour la MS).
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Comment les patients en attente de placement doivent-ils être livrés dans SpiGes ?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="Fall"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;p&gt;Les &lt;em&gt;patients en attente de placement&lt;/em&gt; (différentes nomenclatues selon les cantons) sont des cas qui ne nécessitent plus de soins hospitaliers aigus, mais qui ne peuvent pas sortir parce qu’ils attendent encore une solution de suivi. Il y a deux cas à gérer. Le premier cas représente le traitement normal pendant la période où des soins hospitaliers aigus sont nécessaires et est facturé selon SwissDRG, ST Reha, TARPSY ou d’autres tarifs hospitaliers. Le deuxième cas représente le cas en attente de placement sans besoin de soins hospitaliers.&lt;/p&gt;</description></item><item><title>Plausibilisation cantonale</title><link>https://spiges.github.io/handbook-test/fr/faq/allgemeine_angaben/kantonplausi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/fr/faq/allgemeine_angaben/kantonplausi/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Ouvrir toutes les questions: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Tout ouvrir"
+ expanded-text="Tout fermer"
+ group-id="Kantonplausi"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour tout développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Quand les cantons doivent-ils marquer les erreurs comme OK et quand doivent-ils les marquer comme erronées?
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/fehlerhaft_fr.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="Kantonplausi"
+ collapsed-text="Réponse"
+ expanded-text="Réponse"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Cliquez ici pour développer/réduire"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;p&gt;&lt;strong&gt;Marquer les cas comme OK (√) :&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Si la justification des hôpitaux est correcte&amp;hellip;
+ou&lt;/li&gt;
+&lt;li&gt;Si aucune correction n&amp;rsquo;est plus possible cette année et que l&amp;rsquo;ampleur de l&amp;rsquo;erreur est limitée.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Dans ce second cas, l&amp;rsquo;hôpital doit corriger les données pour la livraison des données de l&amp;rsquo;année suivante.&lt;/em&gt;
+ &lt;/p&gt;</description></item></channel></rss>

@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fragen eIAM on Handbuch SpiGes</title><link>https://spiges.github.io/handbook-test/de/faq/onboarding_eiam/</link><description>Recent content in Fragen eIAM on Handbuch SpiGes</description><generator>Hugo</generator><language>de</language><atom:link href="https://spiges.github.io/handbook-test/de/faq/onboarding_eiam/index.xml" rel="self" type="application/rss+xml"/><item><title>CH-LOGIN/AGOV</title><link>https://spiges.github.io/handbook-test/de/faq/onboarding_eiam/ch_login/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/onboarding_eiam/ch_login/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="CH_LOGIN"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Was ist ein zweiter Identifikationsfaktor?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="CH_LOGIN"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Der Begriff zweiter Identifikationsfaktor bezieht sich auf das Sicherheitsmerkmal, das Sie zusätzlich zum ersten Identifikationsfaktor, der Ihr CH-LOGIN/AGOV-Passwort ist, eingeben müssen.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Ist es möglich, nur ein CH-LOGIN/AGOV für das Unternehmen/den Standort zu haben?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="CH_LOGIN"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Nein, die CH-LOGIN/AGOV ist persönlich. Da Ihre Identität verifiziert werden muss, um auf die SpiGes-Plattform zugreifen zu können, ist es daher unerlässlich, dass Ihr Konto persönlich ist.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Es gibt einen Wechsel des Mitarbeiters/der Mitarbeiterin im Unternehmen/am Standort, ist es möglich, das CH-LOGIN/AGOV auf den neuen Mitarbeiter/die neue Mitarbeiterin zu übertragen?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="CH_LOGIN"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Nein, das CH-LOGIN/AGOV ist persönlich. Da Ihre Identität verifiziert werden muss, um auf die SpiGes-Plattform zugreifen zu können, ist es daher unerlässlich, dass Ihr Konto persönlich ist.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Ich habe bereits ein CH-LOGIN/AGOV, muss ich ein neues erstellen?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="CH_LOGIN"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Nein, Sie können Ihr CH-LOGIN/AGOV verwenden. Sie müssen allerdings einen zweiten starken Faktor einrichten und dort die Videoidentifikation durchführen, falls dies auf Ihrem CH-LOGIN/AGOV noch nicht geschehen ist.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Ist die Verbindung mit AGOV für die SpiGes-Anwendung möglich?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="CH_LOGIN"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Seit dem 8. September 2025 ist AGOV mit SpiGes kompatibel.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+&lt;/ol&gt;
+
+&lt;/div&gt;</description></item><item><title>Zweiter Sicherheitsfaktor</title><link>https://spiges.github.io/handbook-test/de/faq/onboarding_eiam/zweiter_sicherheitsfaktor/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/onboarding_eiam/zweiter_sicherheitsfaktor/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="Zweiter_sicherheitsfaktor"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Welche zweiten Sicherheitsfaktoren kann ich verwenden?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="Zweiter_sicherheitsfaktor"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Für den Zugriff auf die SpiGes-Plattform ist ein starker zweiter Faktor erforderlich. Als stark gelten die folgenden zweiten Faktoren: Mobile ID und FIDO-Schlüssel (physischer Schlüssel oder Windows Hello).&lt;/li&gt;
+&lt;li&gt;mTAN oder App authenticator (oft bereits für die KS-Erhebung installiert) sind als zweite Faktoren nicht stark genug für SpiGes.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Ist die Videoidentifikation für die Nutzung der SpiGes-Erhebungsplattform obligatorisch?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="Zweiter_sicherheitsfaktor"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+&lt;ul&gt;
+&lt;li&gt;Ja. Ohne die Videoidentifikation erreichen Sie nicht die QoA 50 (Quality of Authentication), die für den Zugang zur SpiGes-Erhebungsplattform erforderlich ist. Um diese Qualitätsstufe der Authentifizierung zu erreichen, muss der Nutzer über eine verifizierte elektronische Identität verfügen und nicht nur über eine selbstregistrierte.&lt;/li&gt;
+&lt;li&gt;Es ist wichtig, die Videoidentifikation mit einem zweiten starken Faktor durchzuführen (siehe Frage 101). Eine Videoidentifikation, die auf mTAN oder App authenticator gemacht wurde, ermöglicht keinen Zugang zu SpiGes.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Was ist eine verifizierte Identität, und was muss man tun, um eine solche zu erhalten?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="Zweiter_sicherheitsfaktor"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Damit eine elektronische Identität als verifiziert gelten kann, muss ein amtlicher, mit einem Foto versehener Ausweis des Inhabers der elektronischen Identität geprüft, registriert und der Inhaber der elektronischen Identität korrekt identifiziert worden sein. Dazu müssen Sie diese kostenpflichtige (CHF 45.00) Videoidentifikation (VIPS) durchlaufen, bei der Ihre Identität von einer zertifizierten Person überprüft wird.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Wie kann ich mein AGOV-Konto überprüfen lassen?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="Zweiter_sicherheitsfaktor"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Informationen zu diesem Thema finden Sie 
+
+
+
+
+
+
+
+&lt;a
+ href="https://help.eiam.swiss/?c=ident50&amp;amp;l=de"
+ target="_blank" rel="noopener noreferrer"
+ &gt;hier&lt;/a
+&gt;
+.
+Um Ihr AGOV-Konto überprüfen zu lassen, müssen Sie einen speziellen Link aufrufen:
+
+
+
+
+
+
+
+&lt;a
+ href="https://www.ident.agov.admin.ch/process?rpcode=2be262f1da0"
+ target="_blank" rel="noopener noreferrer"
+ &gt;Starten Sie die Verifizierung&lt;/a
+&gt;
+ und folgen Sie die Anweisungen.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+&lt;/ol&gt;
+
+&lt;/div&gt;</description></item><item><title>Mobile ID</title><link>https://spiges.github.io/handbook-test/de/faq/onboarding_eiam/mobile_id/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/onboarding_eiam/mobile_id/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="mobile_id"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Ich habe keine SIM-Karte, die neu genug ist, um die Mobile ID zu nutzen, was kann ich tun?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="mobile_id"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Sie können bei Ihrem Telefonanbieter eine SIM-Karte der neuesten Generation bestellen. Sie können auch einen FIDO-Schlüssel als zweiten Sicherheitsfaktor verwenden. 
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Was tun Sie, wenn das mit der Mobile ID verbundene Mobiltelefon gestohlen wird/verloren geht?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="mobile_id"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Lassen Sie Ihre SIM-Karte von Ihrem Mobilfunkanbieter sperren. Dadurch wird Ihre Mobile ID automatisch gesperrt. Sobald Sie eine neue SIM-Karte haben, können Sie Ihre Mobile ID bei Ihrem Netzbetreiber mithilfe des Reaktivierungscodes, den Sie bei der Aktivierung Ihrer Mobile ID erhalten haben, erneut aktivieren. 
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Kann ich die Mobile ID-Anwendung anstelle der Aktivierung mit der SIM-Karte verwenden?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="mobile_id"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Nein. Die Mobile ID-Anwendung wird nicht als zweiter starker Sicherheitsfaktor für Ihr CH-LOGIN akzeptiert. 
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Ich habe bereits eine aktive Mobile ID, was muss ich tun?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="mobile_id"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Sie können einfach überprüfen, ob Ihre Mobile ID aktiv ist, indem Sie sie auf der Mobile ID-Website testen. Danach können Sie die Schritte befolgen, um sie als zweiten starken Sicherheitsfaktor zu Ihrem CH-LOGIN hinzuzufügen.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+&lt;/ol&gt;
+
+&lt;/div&gt;</description></item><item><title>Zugang zur SpiGes-Plattform</title><link>https://spiges.github.io/handbook-test/de/faq/onboarding_eiam/zugang/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/faq/onboarding_eiam/zugang/</guid><description>&lt;div class="faq-block "&gt;
+ 
+Um alle Fragen zu öffnen: 
+
+
+
+
+
+
+&lt;span class="collapsible-group-command "
+ collapsed-text="Alle erweitern"
+ expanded-text="Alle reduzieren"
+ group-id="zugang"
+&gt;
+ 
+ &lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-group-command__button"&gt;&lt;/button&gt;
+&lt;/span&gt;
+ 
+
+
+
+&lt;ol class="numbered-list "&gt;
+ 
+
+
+&lt;li class="list-item "&gt;
+ 
+Läuft der Onboarding-Code nach einer bestimmten Zeit ab? Wenn ja, was soll ich tun, wenn ich mich nicht rechtzeitig anmelden konnte?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="zugang"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Der Onboarding-Code läuft nach einem Monat ab. Wenn Sie nach dieser Frist noch keine Zeit für das Onboarding hatten, wenden Sie sich bitte an Ihren KT_Superuser, damit er Ihnen einen Code zurückschickt.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Was muss ich tun, wenn ich nicht mehr im Krankenhaus arbeite? Kann ich mein Profil löschen?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="zugang"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Wenn Sie aufgrund eines Mitarbeiterwechsels keinen Zugang zur SpiGes-Plattform mehr benötigen oder eine Änderung der Rolle/des Zugangs notwendig ist, müssen Sie sich zwingend bei der zuständigen Person in Ihrem Kanton melden, damit diese Ihnen die Zugänge zur SpiGes-Plattform entziehen kann. Ihr CH-LOGIN-Konto und der zweite verifizierte starke Faktor sind persönlich, können für andere Anwendungen der Bundesverwaltung verwendet werden und müssen nicht gelöscht werden.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+An wen kann ich mich wenden, wenn mein Login nicht funktioniert?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="zugang"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Ihr erster Ansprechpartner ist immer der Verantwortliche Ihres Kantons. Wenn Sie gemeinsam keine Lösung für Ihr Problem finden, können Sie sich anschliessend an das BFS wenden.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ 
+Ich habe einen anderen Kontotyp der Bundesverwaltung, kann dieser verwendet werden?
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="zugang"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Nein, es wird leider nicht möglich sein, andere elektronische Identitäten als die dargestellte zu verwenden. Dies liegt daran, dass andere elektronische Identitäten keine ausreichende Authentifizierungsqualität für die Nutzung von SpiGes aufweisen.
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ &lt;!--DeepL--&gt;
+Mein Zugang zu SpiGes funktioniert nicht mehr: Wenn ich meine CH-Login-Daten eingebe, springt die Seite Welcome to SpiGes zurück ? 
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="zugang"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+Ihre Mobile ID wurde wahrscheinlich deaktiviert, das passiert, wenn Sie das Telefon oder den Netzbetreiber wechseln.
+
+&lt;ul&gt;
+&lt;li&gt;Sie können Ihre Mobile ID bei Ihrem Netzbetreiber mithilfe des Reaktivierungscodes, den Sie bei der Aktivierung Ihrer Mobile ID erhalten haben, reaktivieren.&lt;/li&gt;
+&lt;li&gt;Wenn dies nicht möglich ist, schreiben Sie bitte an &lt;a href="mailto:spiges@bfs.admin.ch"&gt;spiges@bfs.admin.ch&lt;/a&gt;. Ihre Mobile ID als zweiten Faktor muss gelöscht werden (Antrag durch Ausfüllen eines Mutationsformulars und einer Kopie des Ausweises). Anschliessend müssen Sie den Anmeldevorgang für SpiGes erneut durchführen: Aktivieren Sie die Mobile ID, fügen Sie sie als zweiten Faktor hinzu und prüfen Sie sie per Videoanruf über.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+
+&lt;li class="list-item "&gt;
+ &lt;!--DeepL--&gt;
+Ich kümmere mich auch um die KS-Erhebung (und/oder SOMED) und kann mich nicht mehr bei diesen Anwendungen anmelden ? 
+
+
+
+
+
+
+
+&lt;div class="collapsible-block " 
+ group-id="zugang"
+ collapsed-text="Antwort"
+ expanded-text="Antwort"
+&gt;
+ &lt;span&gt;
+ 
+ &lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren"&gt;&lt;/i&gt;
+ 
+ &lt;button type="button" class="collapsible-block__button"&gt;&lt;/button&gt;
+ &lt;/span&gt;
+ 
+ &lt;div class="collapsible-block__content"&gt;
+ 
+
+Der Zugriff auf KS/SOMED und der Zugriff auf SpiGes erfolgen mit demselben CH-Login, jedoch mit einem &lt;strong&gt;anderen Profil&lt;/strong&gt;. Das für KS/SOMED verwendete Profil entspricht dem Standardprofil (CHL&amp;hellip;), der Name kann leider nicht geändert werden, um ihn eindeutiger zu machen, da er für andere Anwendungen des Bundes verwendet werden kann. Unter dem Profilnamen können Sie sehen, welche Anwendungen berücksichtigt werden.
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/profile_DE.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+
+ &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+&lt;/li&gt;
+
+
+&lt;/ol&gt;
+
+&lt;/div&gt;</description></item></channel></rss>
