@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Abschlussprozess on Handbuch SpiGes</title><link>https://spiges.github.io/handbook-test/de/abschlussprozess/</link><description>Recent content in Abschlussprozess on Handbuch SpiGes</description><generator>Hugo</generator><language>de-CH</language><atom:link href="https://spiges.github.io/handbook-test/de/abschlussprozess/index.xml" rel="self" type="application/rss+xml"/><item><title>Abschlussprozess für Unternehmensuser</title><link>https://spiges.github.io/handbook-test/de/abschlussprozess/unternehmensuser/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/abschlussprozess/unternehmensuser/</guid><description>&lt;h2 id="prüfprotokoll-prüfen-akzeptieren-und-das-unternehmen-abschliessen"&gt;Prüfprotokoll prüfen, akzeptieren und das Unternehmen abschliessen&lt;/h2&gt;
+&lt;p&gt;Sie erfahren, wie Sie die Abschlussansicht öffnen, das Prüfprotokoll einsehen, kommentieren und akzeptieren und den Abschluss des Unternehmens bestätigen.&lt;/p&gt;
+&lt;h3 id="voraussetzungen-für-den-abschluss"&gt;Voraussetzungen für den Abschluss&lt;/h3&gt;
+&lt;p&gt;Der Abschlussprozess kann gestartet werden, sobald alle aufgeführten Erhebungsteile des Unternehmens in der Spalte Abschluss den Zustand «Bereit» erreicht haben. Ist diese Voraussetzung erfüllt, wird der Button &lt;strong&gt;Abschluss&lt;/strong&gt; aktiviert.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+&lt;img class="edge max-w-90" src="https://spiges.github.io/handbook-test/img/unternehmen-01.png" alt="no description available" style="margin-bottom:1rem;" /&gt;
+&lt;h3 id="abschlussansicht-öffnen"&gt;Abschlussansicht öffnen&lt;/h3&gt;
+&lt;p&gt;Klicken Sie auf &lt;strong&gt;Abschluss&lt;/strong&gt;. Sie gelangen in die Abschlussansicht des Unternehmens. Dort werden die zugehörigen Spitäler mit ihrem Abschlusszustand und dem Zustand des Prüfprotokolls angezeigt.&lt;/p&gt;</description></item><item><title>Abschlussprozess für kantonale User</title><link>https://spiges.github.io/handbook-test/de/abschlussprozess/kantonaluser/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/abschlussprozess/kantonaluser/</guid><description>&lt;h2 id="benchmarking-fragen-beantworten-prüfprotokoll-akzeptieren-und-unternehmen-abschliessen"&gt;Benchmarking-Fragen beantworten, Prüfprotokoll akzeptieren und Unternehmen abschliessen&lt;/h2&gt;
+&lt;p&gt;Am kantonalen Abschluss sind zwei Geschäftsrollen beteiligt. Die Reihenfolge ihrer Abschlüsse spielt keine Rolle: Beide Usertypen können nacheinander oder parallel arbeiten.&lt;/p&gt;
+&lt;h3 id="rollen-und-aufgaben"&gt;Rollen und Aufgaben&lt;/h3&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th&gt;Geschäftsrolle&lt;/th&gt;
+					&lt;th&gt;Aufgaben&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td&gt;&lt;code&gt;KT_Admin_Abschlussuser&lt;/code&gt;&lt;/td&gt;
+					&lt;td&gt;Benchmarking-Fragen für jedes Spital beantworten und speichern, Prüfprotokoll akzeptieren und Unternehmen abschliessen.&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;&lt;code&gt;KT_ErhV(stat_Abschlussuser)&lt;/code&gt;&lt;/td&gt;
+					&lt;td&gt;Prüfprotokoll akzeptieren und Unternehmen abschliessen.&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id="benchmarking-fragen-öffnen"&gt;Benchmarking-Fragen öffnen&lt;/h3&gt;
+&lt;p&gt;Der administrative kantonale User mit der Geschäftsrolle &lt;code&gt;KT_Admin_Abschlussuser&lt;/code&gt; öffnet in der Abschlussansicht das Aktionsmenü des gewünschten Spitals. Mit einem Klick auf &lt;strong&gt;Benchmarking-Fragen&lt;/strong&gt; werden die Fragen für dieses Spital geöffnet. Dieser Schritt ist für alle Spitäler des Unternehmens einzeln durchzuführen.&lt;/p&gt;</description></item><item><title>Abschlussprozess für BFS User</title><link>https://spiges.github.io/handbook-test/de/abschlussprozess/bfsuser/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spiges.github.io/handbook-test/de/abschlussprozess/bfsuser/</guid><description>&lt;h2 id="prüfprotokoll-akzeptieren-und-den-abschluss-finalisieren"&gt;Prüfprotokoll akzeptieren und den Abschluss finalisieren&lt;/h2&gt;
+&lt;p&gt;Um den Abschluss zu finalisieren, muss der BFS User ebenfalls das Prüfprotokoll akzeptieren und anschliessend das Unternehmen abschliessen.&lt;/p&gt;
+&lt;h3 id="unternehmen-final-abschliessen"&gt;Unternehmen final abschliessen&lt;/h3&gt;
+&lt;p&gt;Nachdem das Prüfprotokoll akzeptiert wurde, kann der BFS User den Button &lt;strong&gt;Abschliessen&lt;/strong&gt; betätigen. Dadurch wird der Abschlussprozess endgültig beendet und der Status des Unternehmens wechselt auf &lt;strong&gt;OK&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id="finale-version-des-itar_k-exportieren"&gt;Finale Version des ITAR_K exportieren&lt;/h3&gt;
+&lt;p&gt;Wenn ein Unternehmen final abgeschlossen ist, kann die finale Version des ITAR_K exportiert werden.&lt;/p&gt;</description></item></channel></rss>
